@@ -1,0 +1,26 @@
+BLOOR          BOOK          BOOK'S          BOOKED          BOOKS          BOOKS'          BOOR
+BOORD          BOORS          BOURQUE          BROOK          BROOK'S          BROOKE          BROOKE'S
+BROOKES          BROOKS          BROOKS'S(2)          BRUEHL          BUHR          BULL          BULL'S
+BULLS          BULLS'          BUSCH          BUSH          BUTCH          COOK          COOK'S
+COOKE          COOKED          COOKS          COULD          CROOK          CROOKE          CROOKS
+CURE          CURED          CURES          DUERR          DUERST          FLOOK          FLUHR(2)
+FOOKS          FOOR          FOOT          FOOTE          FOOTE'S          FOOTS          FUHR
+FULD          FULL          FULL'S          FULP          FULTS          FULTZ          GLOOR
+GOOD          GOOD'S          GOODE          GOODS          GOOK          HOOD          HOODS
+HOOFED          HOOFS          HOOK          HOOK'S          HOOKE          HOOKED          HOOKS
+HOOVES          HUEBSCH          JOONG          JUNG          JUNG'S          JURE          KOOK
+KOOKS          KOORS          KUEHL          KUHRT          KUSH          LOOK          LOOKED
+LOOKS          LOONG          LUEHRS          LUHR(2)          LUHRS          LURE          LURED
+LURES          MOOK          MOOR          MOORE          MOORE'S          MOORED          MOORES
+MOORS          MUHR          MUIR          NOOK          NOOKS          POOR          POOR'S
+POORE          POORS          PULL          PULLED          PULLS          PULS          PULTZ
+PURE          PUSH          PUSHED          PUT          PUTS          ROOK          ROOKE
+ROOKS          ROUTES(3)          RUEHL          RUHR          SCHNOOKS          SCHNOOR          SCHOOF
+SCHOOK          SCHULTZ          SCHULZ          SCHULZE          SCHUUR          SHOOK          SHOULD
+SHULTZ          SHURE          SNOOK          SNOOKS          SOOT          SOOTS          SPOOR
+SPOOR'S          STOOD          STROOCK          STUHR(2)          SUIRE          SURE          TOOK
+TOOKE          TOOKES          TOUR          TOUR'S          TOURED          TOURS          TURE
+UHR          WOLF          WOLF'S          WOLFE          WOLFE'S          WOLFF          WOLVES
+WOOD          WOOD'S          WOODS          WOOL          WOOLF          WOOLS          WOONG
+WOULD          WUENSCH          WUERTH          WUERTZ          WULF          WULFF          YOU'RE
+YOUR(2)          YOURS          YURT          ZOOK          ZUEHLKE          

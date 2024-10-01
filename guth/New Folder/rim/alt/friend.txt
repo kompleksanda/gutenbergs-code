@@ -1,0 +1,1835 @@
+------------
+
+acquaintance          account          acquaintedness
+advocate          alter ego          amigo
+announcement          appreciation          apprehension
+associate          awareness          backer
+best friend          blue book          bosom friend
+briefing          brother          bulletin
+casual acquaintance          close acquaintance          close friend
+colleague          communication          communique
+companion          comrade          confidant
+confidante          consciousness          corpus
+crony          data          datum
+directory          dispatch          enlightenment
+evidence          experience          expertise
+facts          factual base          factual information
+familiar          familiarity          familiarization
+favorer          fellow          fellow creature
+fellowman          friend          gen
+general information          grasp          guidebook
+handout          hard information          incidental information
+info          information          inseparable friend
+instruction          intelligence          intimacy
+intimate          introduction          inwardness
+ken          knockdown          know-how
+knowing          knowledge          light
+lover          mate          mention
+message          neighbor          notice
+notification          other self          partisan
+pickup          practical knowledge          presentation
+private knowledge          privity          promotional material
+proof          publication          publicity
+ratio cognoscendi          release          report
+repository          self-knowledge          sidelight
+statement          supporter          sympathizer
+technic          technics          technique
+the dope          the goods          the know
+the scoop          transmission          understanding
+well-wisher          white book          white paper
+word          ------------
+
+advocate          Maecenas
+abet          abettor          acquaintance
+admirer          advance          advise
+aficionado          agent          aid and abet
+allege in support          alpenstock          alter ego
+alternate          amicus curiae          angel
+answer          apologete          apologist
+apologizer          argue for          arm
+assert          athletic supporter          attorney
+attorney-at-law          back          backbone
+backer          backing          backstop
+backup          backup man          bandeau
+barrister          barrister-at-law          bearer
+best friend          blandish          boost
+bosom friend          bra          brace
+bracer          bracket          brassiere
+brief          brother          buff
+buttress          cajole          call on
+call upon          cane          carrier
+casual acquaintance          cervix          champion
+close acquaintance          close friend          coach
+coax          comfort          commend
+confer          confidant          confidante
+consult with          contend for          corset
+counsel          counselor          counselor-at-law
+countenance          counter          crook
+crutch          cry up          defend
+defender          dependence          deputy
+direct          dummy          embolden
+encourage          encourager          endorse
+endorser          espouse          executive officer
+exhort          exponent          expounder
+familiar          fan          favor
+favorer          fellow          fellow creature
+fellowman          figurehead          forward
+foundation garment          friend          friend at court
+fulcrum          girdle          go for
+guard          guide          guy
+guywire          hearten          high-pressure
+hype          importune          inseparable friend
+insist          insist upon          instruct
+intercessor          intimate          jawbone
+jock          jockstrap          justifier
+justify          keep in countenance          kibitz
+lawyer          legal adviser          legal counselor
+legal expert          legal practitioner          legalist
+lieutenant          lobby          locum
+locum tenens          lover          mainstay
+maintain          maintainer          make a plea
+mast          meddle          mouthpiece
+nag          neck          neighbor
+other self          paladin          paranymph
+partisan          patron          pickup
+pinch hitter          plead for          plead with
+pleader          plug          prescribe
+press          pressure          proctor
+procurator          promote          promoter
+prop          proponent          propose
+protagonist          protector          proxy
+puff          push          rebut
+recommend          refute          reinforce
+reinforcement          reinforcer          reliance
+reply          repository          representative
+respond          rest          resting place
+rigging          riposte          say in defense
+sea lawyer          second          second in command
+secondary          seconder          sectary
+self-styled lawyer          shine upon          shoulder
+shroud          side with          sider
+smile upon          soft-soap          solicitor
+speak for          speak highly of          speak up for
+speak warmly of          speak well of          spine
+sponsor          sprit          staff
+stalwart          stand behind          stand up for
+stand-in          standby          standing rigging
+stave          stay          stick
+stick up for          stiffener          strengthener
+submit          subscribe          substitute
+successful advocate          suggest          support
+supporter          surrogate          sustain
+sustainer          sweet-talk          sympathizer
+tout          understudy          uphold
+upholder          urge          urge reasons for
+utility man          vicar          vicar general
+vice          vicegerent          vindicate
+vindicator          votary          walking stick
+well-wisher          wheedle          whitewasher
+work on          ------------
+
+ally          accessory
+accomplice          act in concert          act together
+adjunct          affiliate          alter ego
+amalgamate          analogon          analogue
+apply          archduchy          archdukedom
+associate          band          band together
+be in cahoots          be in league          bedfellow
+bind          body politic          bracket
+brother          brother-in-arms          buffer state
+bunch          bunch up          cabal
+captive nation          cement a union          centralize
+chieftaincy          chieftainry          city-state
+close copy          close match          club
+club together          coact          coadjutor
+coalesce          cognate          cohort
+collaborate          collaborator          colleague
+collude          colony          combine
+come together          commonweal          commonwealth
+companion          compatriot          compeer
+complement          comrade          concert
+concord          concur          confederate
+confrere          congenator          congener
+connect          consociate          consolidate
+consort          conspire          cooperate
+coordinate          correlate          correlative
+correspondent          counterpart          country
+county          couple          crony
+do business with          domain          dominion
+draw a parallel          duchy          dukedom
+earldom          empery          empire
+equate          equivalent          federalize
+federate          fellow          fellow member
+free city          friend          fuse
+gang          gang up          get heads together
+get together          go in partners          go in partnership
+go partners          grand duchy          hang together
+harmonize          hold together          hook up
+hook up with          identify          image
+interrelate          join          join forces
+join fortunes with          join in          join together
+join up          join up with          join with
+keep together          kindred spirit          kingdom
+land          league          league together
+like          likeness          link
+make common cause          mandant          mandate
+mandated territory          mandatee          mandatory
+marry          mate          merge
+nation          nationality          near duplicate
+obverse          organize          pair
+pair off          parallel          parallelize
+partner          pendant          picture
+play ball          polis          polity
+possession          power          principality
+principate          protectorate          province
+pull together          puppet government          puppet regime
+put heads together          realm          reciprocal
+reciprocate          relate          relativize
+republic          satellite          second self
+seneschalty          settlement          side
+similitude          simulacrum          sister
+soul mate          sovereign nation          stand together
+stand up with          state          such
+suchlike          sultanate          superpower
+tally          team up          team up with
+team with          territory          the like of
+the likes of          throw in together          throw in with
+tie          tie in          tie in with
+tie up          tie up with          toparchia
+toparchy          twin          unionize
+unite          unite efforts          unite with
+wed          work together          ------------
+
+alter ego
+I          I myself          acquaintance
+advocate          ally          alter
+alternate          alterum          amicus curiae
+analogon          analogue          associate
+attorney          backer          backup
+backup man          best friend          better self
+bosom friend          brother          casual acquaintance
+champion          close acquaintance          close copy
+close friend          close match          cognate
+companion          complement          confidant
+confidante          congenator          congener
+coordinate          correlate          correlative
+correspondent          counterpart          deputy
+dummy          ego          equivalent
+ethical self          executive officer          exponent
+familiar          favorer          fellow
+fellow creature          fellowman          fidus Achates
+figurehead          friend          he
+her          herself          him
+himself          image          inner man
+inner self          inseparable friend          intimate
+it          kindred spirit          lieutenant
+like          likeness          locum
+locum tenens          lover          man Friday
+mate          me          my humble self
+myself          near duplicate          neighbor
+number one          obverse          oneself
+other self          ourselves          parallel
+paranymph          partisan          pendant
+pickup          picture          pinch hitter
+pleader          procurator          proxy
+reciprocal          repository          representative
+right hand          right-hand man          second in command
+second self          secondary          self
+she          similitude          simulacrum
+sister          soul mate          stand-in
+strong right hand          subconscious self          subliminal self
+substitute          such          suchlike
+superego          supporter          surrogate
+sympathizer          tally          the like of
+the likes of          them          themselves
+they          twin          understudy
+utility man          vicar          vicar general
+vice          vicegerent          well-wisher
+you          yours truly          yourself
+yourselves          ------------
+
+associate          Greek
+abettor          accessory          accompany
+accomplice          accord          accouple
+accumulate          ace          acquaintance
+act in concert          act together          affiliate
+affiliate with          affiliated          affiliation
+agglutinate          agree          alliance
+allied          ally          alter ego
+amalgamate          amass          amigo
+analogon          analogue          appearance
+apply          articulate          assemble
+assistant          assistant professor          associate
+associate professor          associate with          associated
+association          assort with          attend
+axis          band          band together
+be acquainted with          be friends          be in cahoots
+be in league          be inseparable          bedfellow
+bedmate          belonger          bind
+blend          bloc          bond
+bosom buddy          bracket          bridge
+bridge over          brother          brother-in-arms
+brotherhood          buddy          bunch
+bunch up          bunkie          bunkmate
+butty          cabal          cahoots
+camarade          card-carrier          card-carrying member
+cardholder          cement          cement a union
+centralize          chain          chamberfellow
+charter member          chum          chum together
+chum with          circuit          clap together
+classmate          clique          clique with
+close copy          close match          club
+club together          clubber          clubman
+clubwoman          coact          coaction
+coadunate          coalesce          coalition
+cognate          cohort          coincide
+collaborate          collaboration          collaborator
+colleague          collect          collude
+comate          combination          combine
+come into          come together          committeeman
+companion          company          compatriot
+compeer          complement          comprise
+comrade          concatenate          concert
+concomitant          concord          concur
+confederate          conference          confidant
+confidante          confrere          congenator
+congener          conglobulate          congress
+conjoin          conjugate          conjunction
+connect          connect with          connection
+connive          connotation          consociate
+consolidate          consort          consort with
+conspire          conventioneer          conventioner
+conventionist          conviviality          cooperate
+cooperation          coordinate          copartner
+copulate          correlate          correlative
+correspond          correspondent          cotton to
+counterpart          couple          couple with
+cover          creep in          crony
+do business with          draw a parallel          dues-paying member
+embrace          emeritus          encompass
+enlist          enlistee          enroll
+enrollee          enter          equate
+equivalent          faction          familiar
+fantasy          federalize          federate
+federation          fellow          fellow student
+fellowship          flock together          fraternity
+fraternity man          fraternize          fraternize with
+friend          fuse          gaiety
+gang          gang up          gather
+get heads together          get into          get together
+girl friend          glue          go along with
+go in partners          go in partnership          go into
+go partners          go with          gossip
+guild          guildsman          hang around with
+hang out with          hang together          happen together
+harmonize          herd together          hint
+hit it off          hobnob with          hold together
+honorary member          hook up          hook up with
+hookup          identify          illusion
+image          implication          include
+initiate          insider          instructor
+interest          interrelate          intimate
+join          join forces          join fortunes with
+join in          join in fellowship          join together
+join up          join up with          join with
+joiner          joviality          keep company with
+keep together          kindred spirit          knot
+know          lay together          league
+league together          league with          leaguer
+lecturer          life member          like
+likeness          link          loop
+lump together          machine          make common cause
+marry          marshal          mass
+match          mate          member
+merge          messmate          mingle
+mingle with          mirage          mix
+mix with          mobilize          near duplicate
+obverse          old crony          one of us
+order          organization          organize
+overtone          pair          pair off
+pal          pal up with          pal with
+parallel          parallelize          pard
+pardner          partner          partnership
+pendant          picture          piece together
+play ball          playfellow          playmate
+pledge          professor          professor emeritus
+pull together          put heads together          put together
+reader          reciprocal          reciprocate
+relate          relativize          retired professor
+ring          roll into one          roommate
+run in couples          run with          schoolfellow
+schoolmate          second self          secondary
+sect          see          shipmate
+side partner          sidekick          sign on
+sign up          similitude          simulacrum
+sister          sneak in          sociability
+society          socius          sodality
+solder          sorority girl          sorority woman
+sort with          soul mate          span
+splice          stand together          stand up with
+stick together          subsidiary          such
+suchlike          suggestion          sympathizer
+synchronize          synergize          take in
+take out membership          take up membership          take up with
+tally          tape          team up
+team up with          team with          teammate
+teamwork          the like of          the likes of
+throw in together          throw in with          tie
+tie in          tie in with          tie up
+tie up with          tie-up          togetherness
+tutor          twin          undertone
+unify          union          unionize
+unite          unite efforts          unite with
+vision          visiting professor          wait on
+wed          weld          wheel
+wing          work together          workfellow
+yoke          yokefellow          yokemate
+------------
+
+backer          Dionysus          Maecenas
+Samaritan          Santa Claus          abettor
+acquaintance          admirer          advocate
+aficionado          aid          aider
+ally          almoner          almsgiver
+alter ego          angel          apologist
+assignor          assister          awarder
+befriender          benefactor          benefactress
+benefiter          best friend          bestower
+bettor          bosom friend          brother
+buff          casual acquaintance          champion
+cheerful giver          close acquaintance          close friend
+conferrer          confidant          confidante
+consignor          contributor          defender
+dependence          donator          donor
+encourager          endorser          exponent
+fairy godmother          familiar          fan
+favorer          fellow          fellow creature
+fellowman          feoffor          financer
+friend          friend at court          funder
+giver          good Samaritan          good person
+grantor          grubstaker          guarantor
+help          helper          helping hand
+imparter          inseparable friend          intimate
+investor          jack-at-a-pinch          lady bountiful
+lover          mainstay          maintainer
+meal ticket          ministering angel          ministrant
+neighbor          other self          paranymph
+partisan          patron          patroness
+philanthropist          pickup          presenter
+promoter          protagonist          punter
+reliance          repository          second
+seconder          sectary          settler
+sider          sponsor          staker
+stalwart          standby          subscriber
+succorer          sugar daddy          support
+supporter          surety          sustainer
+sympathizer          testate          testator
+testatrix          underwriter          upholder
+votary          vouchsafer          well-wisher
+------------
+
+brick          Tarmac          Tarvia
+adamant          adobe          ashlar
+asphalt          biscuit          bisque
+bitumen          bituminous macadam          blacktop
+block          board          bone
+bowl          bricks and mortar          buddy
+cement          ceramic ware          ceramics
+china          chum          chunk
+clapboard          clinker          cobble
+cobblestone          comrade          concrete
+covering materials          crackerjack          crock
+crockery          cube          curb
+curbing          curbstone          diamond
+doll          edgestone          enamelware
+face          ferroconcrete          firebrick
+flag          flagging          flagstone
+flint          flooring          friend
+glass          glaze          good Joe
+good egg          good guy          granite
+gravel          heart of oak          hunk
+iron          jug          kerb
+kerbstone          lath          lath and plaster
+likely lad          macadam          marble
+masonry          mortar          nails
+nice guy          no slouch          oak
+pal          paper          pavement
+pavestone          paving          paving material
+paving stone          plank          plasters
+porcelain          pot          pottery
+prestressed concrete          pussycat          refractory
+revet          road metal          rock
+roofage          roofing          shake
+sheathe          shingle          siding
+slab          slate          steel
+stone          stout fellow          tarmacadam
+thatch          tile          tiling
+trump          urn          vase
+veneer          wall in          wall up
+walling          wallpaper          washboard
+weatherboard          ------------
+
+brother          Greek
+abbacomes          abbot          acquaintance
+adjunct          advocate          affiliate
+ally          alter ego          analogon
+analogue          ascetic          associate
+aunt          auntie          backer
+beadsman          bedfellow          belonger
+best friend          blood brother          bosom friend
+brethren          brother-in-arms          bub
+bubba          bud          buddy
+caloyer          card-carrier          card-carrying member
+cardholder          casual acquaintance          catechumen
+celibate          cenobite          charter member
+chum          church member          churchman
+churchwoman          close acquaintance          close copy
+close friend          close match          clubber
+clubman          clubwoman          coadjutor
+cognate          cohort          colleague
+committeeman          communicant          companion
+compatriot          compeer          complement
+comrade          confederate          confidant
+confidante          confrere          congenator
+congener          consociate          consort
+conventioneer          conventioner          conventionist
+conventual          conventual prior          coordinate
+correlate          correlative          correspondent
+counterpart          country cousin          cousin
+cousin once removed          cousin twice removed          crony
+daughter          dues-paying member          enlistee
+enrollee          equivalent          familiar
+father          favorer          fellow
+fellow creature          fellow member          fellowman
+first cousin          foster brother          frater
+fraternity man          friar          friend
+grand prior          grandnephew          grandniece
+granduncle          great-aunt          great-uncle
+guildsman          half brother          hermit
+hieromonach          honorary member          image
+initiate          inseparable friend          insider
+intimate          joiner          kid brother
+kin          kindred spirit          kinsman
+laic          lay abbot          lay brother
+lay sister          layman          laywoman
+life member          like          likeness
+lover          mate          member
+mendicant          monastic          monk
+mother          near duplicate          neighbor
+nephew          niece          nuncle
+nunks          nunky          obverse
+one of us          other self          pal
+palmer          parallel          parishioner
+partisan          pendant          pickup
+picture          pilgrim          pillar saint
+pillarist          pledge          prior
+reciprocal          relation          relative
+religieux          religious          repository
+second cousin          second self          secular
+sibling          similitude          simulacrum
+sis          sissy          sister
+sister-german          sistern          socius
+son          sorority girl          sorority woman
+soul mate          stepbrother          stepsister
+stylite          such          suchlike
+supporter          sympathizer          tally
+the like of          the likes of          twin
+unc          uncle          uncs
+uterine brother          well-wisher          ------------
+
+chum
+ace          amigo          associate
+associate with          assort with          bedfellow
+bedmate          bosom buddy          buddy
+bunkie          bunkmate          butty
+camarade          chamberfellow          chum together
+chum with          classmate          clique
+clique with          club together          colleague
+comate          companion          company
+compeer          comrade          confidante
+confrere          consociate          consort
+consort with          copartner          crony
+familiar          fellow          fellow student
+fellowship          flock together          fraternize
+friend          girl friend          go with
+gossip          hang around with          hang out with
+herd together          hobnob with          join
+join in fellowship          keep company with          mate
+messmate          mingle with          mix with
+old crony          pal          pal up with
+pal with          pard          pardner
+partner          playfellow          playmate
+roommate          run in couples          run with
+running mate          schoolfellow          schoolmate
+shipmate          side partner          sidekick
+sort with          take up with          team up with
+teammate          tie up with          workfellow
+yokefellow          yokemate          ------------
+
+cohort
+KP          abettor          accessory
+accomplice          accomplice in crime          adherent
+adjunct          age group          ally
+army          army group          associate
+attendance          attendant          band
+battalion          battery          battle group
+bedfellow          bevy          body
+body of retainers          brigade          brother
+brother-in-arms          bunch          cabal
+cadre          cast          clique
+coadjutor          coconspirator          colleague
+column          combat command          combat team
+companion          company          compatriot
+compeer          complement          comrade
+confederate          confrere          consociate
+consort          contingent          copartner
+corps          cortege          coterie
+court          covey          crew
+crony          crowd          detachment
+detail          disciple          division
+entourage          faction          fellow
+fellow conspirator          fellow member          field army
+field train          file          fleet
+flying column          follower          following
+friend          gang          garrison
+group          grouping          groupment
+henchman          in-group          junta
+kitchen police          legion          maniple
+mate          mob          movement
+organization          out-group          outfit
+pack          parasite          pard
+partisan          party          peer group
+phalanx          platoon          posse
+rank          regiment          retinue
+rout          salon          satellite
+sectary          section          set
+socius criminis          squad          squadron
+stable          string          suite
+supporter          tactical unit          task force
+team          train          tribe
+troop          troupe          unit
+wing          ------------
+
+comrade          Bolshevik
+Bolshie          Greek          Red
+ace          adjunct          affiliate
+ally          amigo          associate
+auxiliary          bedfellow          bedmate
+belonger          bosom buddy          brother
+brother-in-arms          buddy          bunkie
+bunkmate          butty          camarade
+card-carrier          card-carrying member          cardholder
+chamberfellow          charter member          chum
+classmate          clubber          clubman
+clubwoman          coadjutor          cohort
+colleague          comate          commie
+committeeman          companion          company
+compatriot          compeer          confederate
+confrere          consociate          consort
+conventioneer          conventioner          conventionist
+copartner          crony          dues-paying member
+enlistee          enrollee          fellow
+fellow member          fellow student          fraternity man
+friend          girl friend          gossip
+guildsman          honorary member          initiate
+insider          joiner          life member
+mate          member          messmate
+old crony          one of us          pal
+pard          pardner          partner
+playfellow          playmate          pledge
+roommate          running mate          schoolfellow
+schoolmate          shipmate          side partner
+sidekick          sister          socius
+sorority girl          sorority woman          teammate
+workfellow          yokefellow          yokemate
+------------
+
+confidant          Dutch uncle          Polonius
+acquaintance          admonisher          adviser
+advocate          alter ego          amigo
+backer          backseat driver          best friend
+bosom friend          brother          buttinsky
+casual acquaintance          close acquaintance          close friend
+confidante          consultant          counsel
+counselor          expert          familiar
+favorer          fellow          fellow creature
+fellowman          fidus Achates          friend
+guide          inseparable friend          instructor
+intimate          kibitzer          lover
+man Friday          mate          meddler
+mentor          monitor          neighbor
+nestor          orienter          other self
+partisan          pickup          preceptist
+repository          right hand          right-hand man
+second self          strong right hand          supporter
+sympathizer          teacher          well-wisher
+------------
+
+contact          ESP          accord
+acquaintance          answer          approach
+arbitrator          assail the ear          association
+attouchement          be heard          breath
+broker          brush          brush by
+caress          caress the ear          closeness
+come in contact          commerce          communicate with
+communication          communion          companionship
+concord          congress          conjunction
+connection          contiguity          contingence
+conversation          converse          correspond
+correspond with          correspondence          cutaneous sense
+dealing          dealings          empathy
+establish connection          exchange          feel
+feeling          fellowship          fingertip caress
+flick          friend          gain a hearing
+get          get across          get hold of
+get through to          get to          glance
+go-between          graze          hand-mindedness
+harmony          hit          impinge
+impingement          impingence          in
+information          interaction          interagent
+interchange          intercommunication          intercommunion
+intercourse          intermediary          intermediate
+intermedium          internuncio          interplay
+interpleader          interrogate          junction
+kiss          lambency          lap
+lick          light touch          linguistic intercourse
+maintain connection          make advances          make an impression
+make contact with          make oneself heard          make overtures
+make up to          mediator          medium
+message          middleman          nearness
+negotiant          negotiator          nudge
+oneness          osculate          osculation
+phone          propinquity          proximity
+question          raise          rapport
+reach          reach the ear          register
+relate to          relation          reply
+reply to          respond to          response
+ring up          rub          scrape
+sense of touch          shave          sideswipe
+skim          skirt          social intercourse
+speak to          speak with          speaking
+speech          speech circuit          speech situation
+squeak by          stroke          sympathy
+tactile sense          taction          talking
+tangency          tap          telepathy
+telephone          tentative contact          tentative poke
+touch          touching          traffic
+truck          two-way communication          understanding
+union          unity          whisper
+write to          ------------
+
+date          International Date Line
+Platonic year          accompany          aeon
+age          ancient          annus magnus
+antedate          antiquate          antiquated
+appointment          archaic          arrangement
+assemble          assemblee          assembly
+assignation          at home          backdate
+ball          be dated          bear date
+beau          become extinct          become obsolete
+blind date          booking          borscht circuit
+boy          boyfriend          brawl
+bunch          bunch up          captive
+catch          caucus          circuit
+clot          cluster          collect
+colloquium          come together          commission
+committee          companion          conclave
+concourse          congregate          congregation
+congress          conquest          contemporary
+conventicle          convention          converge
+convocation          copulate          coquette
+council          couple          court
+crowd          current          cycle
+cycle of indiction          dance          date at
+date line          date-stamp          dated
+dateline          datemark          day
+diet          double date          eisteddfod
+engagement          engagement book          entertain
+epoch          era          escort
+fade          fashionable          festivity
+fete          fixture          flirt
+flock together          flow together          forgather
+forgathering          forum          fossilize
+friend          fuse          fust
+gang around          gang up          gather
+gather around          gathering          generation
+get-together          girl          great year
+grow old          herd together          hive
+honey          horde          housewarming
+huddle          indiction          interview
+latest          league          levee
+link          lose currency          lover
+make a date          man          mass
+meet          meeting          merge
+mill          modern          molder
+muster          obsolesce          obsolescent
+obsolete          old          old hat
+old-fashioned          out of date          outdate
+outmoded          panel          party
+passe          period          perish
+phase          playing engagement          plenum
+point of time          postdate          predate
+prom          quorum          rally
+rally around          reception          rendezvous
+run          rust          seance
+season          see          seethe
+session          set the date          shindig
+sit-in          sitting          soiree
+stage          stand          steady
+stream          superannuate          surge
+swain          swarm          sweet patootie
+sweetheart          sweetie          symposium
+synod          take out          throng
+time          tour          trendy
+tryst          turnout          unite
+update          vamp          vampire
+vaudeville circuit          woman          woo
+year          ------------
+
+familiar          Bohemian
+abreast          accepted          accustomed
+acquaintance          acquainted          acquainted with
+advocate          affable          alter ego
+amicable          amigo          ancestral spirits
+angel          arrogant          attendant godling
+au courant          au fait          audacious
+average          aware          back-number
+backer          banal          best friend
+bewhiskered          bold          boon
+bosom friend          bromidic          brother
+buddy-buddy          bumptious          casual
+casual acquaintance          chatty          chummy
+close          close acquaintance          close friend
+cognizant          cold          colloquial
+comfortable          common          commonly known
+commonplace          confidant          confidante
+confidential          conformable          conscious
+consuetudinary          control          contumelious
+conventional          conversant          conversant with
+conversational          cool          cordial
+corny          cozy          current
+customary          cut-and-dried          daemon
+degage          demon          disdainful
+disrespectful          easy          easygoing
+established          everyday          fade
+fairy godmother          familiar spirit          familiar with
+favorer          fellow          fellow creature
+fellowman          folksy          forward
+free          free and easy          frequent
+fresh          friend          friendly
+fusty          generally accepted          genial
+genius          genius domus          genius loci
+good angel          good genius          gracious
+guardian          guardian angel          guardian spirit
+guide          habitual          hackney
+hackneyed          hand and glove          hand-in-hand
+haymish          homely          homey
+household          household gods          hubristic
+impertinent          impudent          informal
+informed          informed of          inseparable
+inseparable friend          insolent          insulting
+intimate          intrusive          invisible helper
+irregular          lares and penates          lares compitales
+lares familiaris          lares permarini          lares praestites
+lares viales          loose          lover
+manes          mate          mindful
+ministering angel          moth-eaten          musty
+natural          near          neighbor
+neighborly          no stranger to          nonstandard
+normal          normative          notorious
+numen          obtaining          obtrusive
+offhand          offhanded          officious
+old hat          ordinary          other self
+overpresumptuous          overweening          palsy-walsy
+partisan          penates          pickup
+plain          platitudinous          popular
+predominating          prescribed          prescriptive
+presuming          presumptuous          prevailing
+prevalent          privy to          procacious
+prosaic          proverbial          public
+pushy          received          regular
+regulation          relaxed          repository
+routine          set          simple
+snug          sociable          social
+special providence          spoken          square
+stale          standard          stereotyped
+stock          substandard          supporter
+sympathizer          talked-about          talked-of
+tete-a-tete          thick          thick as thieves
+threadbare          time-honored          timeworn
+totem          traditional          trite
+truistic          tutelar god          tutelary
+unaffected          unassuming          unceremonious
+unconstrained          unconventional          uneducated
+universal          universally admitted          universally recognized
+unliterary          unofficial          unoriginal
+unreserved          unrestrained          unstudied
+up          up on          uppish
+uppity          usual          vernacular
+versed          warmed-over          well-kenned
+well-known          well-recognized          well-understood
+well-wisher          well-worn          widely known
+widespread          wonted          worn
+worn thin          ------------
+
+fellow          Adamite
+Casanova          Don Juan          Greek
+Lothario          Romeo          abecedarian
+accessory          accompanier          accompanist
+accompanying          accompanyist          ace
+acquaintance          adjunct          advocate
+affiliate          affiliated          allied
+ally          alter ego          amigo
+amoroso          analogon          analogue
+associate          associated          attendant
+attending          auxiliary          backer
+bastard          beau          bedfellow
+bedmate          being          belonger
+best friend          bird          bloke
+body          bosom buddy          bosom friend
+boy          boyfriend          brother
+brother-in-arms          bub          bubba
+buck          bud          buddy
+bugger          bunkie          bunkmate
+butty          caballero          camarade
+card-carrier          card-carrying member          cardholder
+casual acquaintance          cat          cavalier
+cavaliere servente          certified teacher          chamberfellow
+chap          character          charter member
+chum          classmate          close acquaintance
+close copy          close friend          close match
+clubber          clubman          clubwoman
+coacting          coactive          coadjutant
+coadjutor          coadjuvant          coefficient
+coequal          cognate          cohort
+coincident          collaborative          collateral
+colleague          collective          collectivist
+collectivistic          collusive          colt
+comate          combined          commensal
+committeeman          common          communal
+communalist          communalistic          communist
+communistic          communitarian          companion
+companion piece          company          compatriot
+compeer          complement          comrade
+concerted          concomitant          concordant
+concurrent          confederate          confidant
+confidante          confrere          congenator
+congener          conjoint          conniving
+consociate          consort          conventioneer
+conventioner          conventionist          cooperant
+cooperating          cooperative          coordinate
+copartner          copy          correlate
+correlative          correspondent          counterpart
+coupled          creature          crony
+cub          customer          dead ringer
+ditto          docent          doctor
+dominie          don          double
+duck          dues-paying member          duplicate
+earthling          ecumenic          educationist
+educator          effigy          enlistee
+enrollee          equal          equipollent
+equivalent          esquire          exact likeness
+familiar          favorer          feller
+fellow creature          fellow member          fellow student
+fellowman          flame          fledgling
+fraternity man          friend          gallant
+gee          geezer          gent
+gentleman          gigolo          girl friend
+gossip          groundling          guide
+guildsman          guru          guy
+hand          harmonious          harmonized
+he          head          hobbledehoy
+homo          honorary member          human
+human being          icon          idol
+image          inamorato          individual
+initiate          inseparable friend          insider
+instructor          intimate          jasper
+joined          joiner          joint
+joker          kid          kindred spirit
+lad          laddie          lady-killer
+life          life member          like
+likeness          living image          living picture
+living soul          love          love-maker
+lover          maestro          man
+manchild          master          match
+mate          melamed          member
+mentor          messmate          miniature
+mirroring          model          mortal
+muchacho          mullah          mutual
+near duplicate          necker          neighbor
+noncompetitive          nose          obverse
+old crony          old man          one
+one of us          opposite number          other self
+paired          pal          pandit
+parallel          pard          pardner
+partisan          partner          party
+pedagogist          pedagogue          peer
+pendant          person          personage
+personality          petter          philanderer
+photograph          pickup          picture
+playfellow          playmate          pledge
+portrait          preceptor          professor
+pundit          pup          puppy
+rabbi          reciprocal          reflection
+related          repository          resemblance
+rival          roommate          rubbing
+schoolboy          schoolfellow          schoolkeeper
+schoolmaster          schoolmate          schoolteacher
+second self          seducer          semblance
+shadow          sheik          shipmate
+side partner          sidekick          similitude
+simulacrum          simultaneous          single
+sister          socius          somebody
+someone          sonny          sonny boy
+sorority girl          sorority woman          soul
+soul mate          spit and image          spitting image
+squire          starets          stud
+such          suchlike          sugar daddy
+suitor          supporter          swain
+sweetheart          symbiotic          sympathizer
+synergetic          synergic          synergistic
+tally          teacher          teammate
+tellurian          terran          the like of
+the likes of          trace          tracing
+twin          uncompetitive          very image
+very picture          well-wisher          whelp
+workfellow          worldling          yokefellow
+yokemate          young man          youth
+------------
+
+fellowman          acquaintance          advocate
+alter ego          backer          best friend
+bosom friend          brother          casual acquaintance
+close acquaintance          close friend          confidant
+confidante          familiar          favorer
+fellow          fellow creature          friend
+inseparable friend          intimate          lover
+neighbor          other self          partisan
+pickup          repository          supporter
+sympathizer          well-wisher          ------------
+
+friend
+Maecenas          acquaintance          adherent
+advocate          ally          alter ego
+amigo          angel          associate
+baby          backer          beau
+bedfellow          benefactor          best friend
+bird          boon companion          bosom buddy
+bosom friend          boyfriend          chum
+co-worker          cocker          cohort
+colleague          compatriot          compeer
+comrade          concubine          confederate
+confidant          confidante          confrere
+consociate          crony          doxy
+escort          familiar          fellow
+financier          girl          intimate
+investor          lover          man
+mate          mistress          moll
+pal          partner          patron
+playmate          roomie          soul mate
+squeeze          supporter          sweetheart
+twist          woman          ------------
+
+girl
+Dulcinea          Eve          Frau
+Fraulein          abigail          amah
+au pair girl          ayah          babe
+baby          best girl          betrothed
+betweenmaid          biddy          bird
+broad          chambermaid          chaperon
+chick          colleen          companion
+cook          crumpet          cutie
+dame          damoiselle          damsel
+daughter of Eve          deb          debutante
+demoiselle          distaff          doll
+domina          donna          dowager
+dream girl          duenna          female
+femme          femme de chambre          fiancee
+fille de chambre          filly          frail
+friend          frow          gal
+gamine          gentlewoman          gill
+girl friend          girlie          handmaid
+handmaiden          heifer          hired girl
+housemaid          hoyden          inamorata
+jeune fille          jill          jo
+junior miss          kitchenmaid          lady
+lady friend          lady love          lady-help
+lady-in-waiting          lass          lassie
+little missy          live-in maid          live-out maid
+lover          mademoiselle          maid
+maiden          maidservant          matron
+milady          miss          missy
+mistress          moll          mouse
+nursemaid          nymphet          old lady
+parlormaid          piece          quail
+quiff          romp          schoolgirl
+schoolmaid          schoolmiss          scullery maid
+servant girl          servitress          skirt
+slip          soubrette          squaw
+squeeze          subdeb          subdebutante
+subteen          subteener          sweetheart
+tally          teenybopper          tomato
+tomboy          tweeny          twist
+upstairs maid          virgin          vrouw
+wahine          waiting maid          weaker vessel
+wench          woman          young creature
+young thing          ------------
+
+intimate          absolute
+acquaintance          acquainted with          adumbrate
+advocate          affectionate          allegorize
+allied          allude to          alter ego
+amigo          anonymous          approaching
+approximate          approximating          arm-in-arm
+assembled          associate          associated
+assume          at home in          at home with
+attest          backer          banded together
+bespeak          best friend          betoken
+bosom          bosom friend          bound
+bracketed          bring to mind          brother
+buddy          buddy-buddy          burning
+carnal          casual acquaintance          caution
+central          certain          chatty
+cheek-by-jowl          cheerful          cherished
+chum          chummy          close
+close acquaintance          close friend          closet
+colleague          collected          comfortable
+comfy          communicate          companion
+comrade          concrete          confidant
+confidante          confident          confidential
+confrere          conjoined          connected
+connote          conversant with          copulate
+cosy          coupled          cozy
+crony          dear          deep
+deep-seated          defined          definite
+detailed          determinate          devoted
+different          distinct          distinguished
+drop a hint          elemental          entail
+esoteric          especial          essential
+exceptional          exhaustive          express
+extraordinary          familiar          familiar with
+favorer          fellow          fellow creature
+fellowman          fixed          fond
+friend          friendly          gathered
+give a hint          give the cue          glance at
+hand and glove          hand-in-glove          hand-in-hand
+hidden          hint          hint at
+homelike          homely          homey
+homish          hot          implicate
+imply          import          inborn
+inbred          incognito          incorporated
+indicate          individual          indoor
+indwelling          infer          informal
+informed in          ingrained          inmost
+innate          inner          innermost
+inseparable          inseparable friend          inside
+insinuate          integrated          interior
+internal          intestine          intimate with
+intrinsic          involve          inward
+isolated          joined          knotted
+leagued          linked          lover
+loving          make known          master of
+matched          mate          mated
+mean          mean to say          merged
+minute          mucker          near
+near the mark          nearest          nearing
+nearish          neighbor          next
+nigh          nighish          noteworthy
+other self          paired          pal
+pally          palsy-walsy          particular
+partisan          peaceful          penetrating
+personal          pickup          plain
+point indirectly to          precise          presume
+presuppose          private          privy
+proficient in          profound          prompt
+propinque          proximal          proximate
+refer to          repository          respective
+retired          secluded          secret
+sequestered          several          sexual
+side-by-side          sidekick          simple
+singular          snug          solipsistic
+special          specific          spliced
+strong in          suggest          supporter
+suppose          sympathizer          take for granted
+tete-a-tete          thick          thick as thieves
+thorough          tied          tip off
+undivided          united          unpretending
+unseparated          up on          versed in
+vicinal          warm          warn
+wedded          well-read in          well-wisher
+withdrawn          yoked          ------------
+
+lover
+Maecenas          abettor          acquaintance
+addict          admirer          adorer
+advocate          aficionado          alter ego
+amorist          angel          apologist
+aspirant          aspirer          babe
+baby          baby-doll          backer
+beau          beloved          best friend
+bosom friend          boyfriend          brother
+buff          buttercup          candidate
+casual acquaintance          champion          cherub
+chick          chickabiddy          close acquaintance
+close friend          collector          confidant
+confidante          coveter          darling
+dear          deary          defender
+dependence          desirer          devotee
+doll          doxy          duck
+duckling          encourager          endorser
+exponent          familiar          fan
+fancier          fancy man          favorer
+fellow          fellow creature          fellowman
+flame          follower          freak
+friend          friend at court          girl friend
+habitue          hankerer          hon
+honey          honey bunch          honey child
+hopeful          hound          inamorata
+inamorato          infatuate          inseparable friend
+intimate          lamb          lambkin
+love          mainstay          maintainer
+man          master          neighbor
+other self          paramour          paranymph
+partisan          patron          pet
+petkins          pickup          precious
+precious heart          promoter          protagonist
+pursuer          reliance          repository
+second          seconder          sectary
+sider          snookums          solicitant
+sponsor          stalwart          standby
+steady          sugar          sugar daddy
+suitor          support          supporter
+sustainer          sweet          sweetheart
+sweetie          sweetkins          sweets
+sympathizer          truelove          upholder
+votary          wanter          well-wisher
+wisher          woman          wooer
+yearner          ------------
+
+mate          OD
+accompanier          accompanist          accompanyist
+ace          acquaintance          ally
+alter ego          amigo          analogon
+analogue          associate          attendant
+ball          be intimate          be made one
+be spliced          become one          bedfellow
+bedmate          better half          birthmate
+boatswain          bosom buddy          bracket
+breed          bride          brother
+buddy          bunkie          bunkmate
+butty          camarade          captain
+chamberfellow          chap          chief engineer
+chief mate          china          chum
+classmate          close copy          close match
+clubmate          co-worker          coequal
+cognate          cohabit          cohort
+colleague          comate          come together
+commander          commit adultery          companion
+companion piece          company          compeer
+complement          comrade          concomitant
+confidant          confrere          congenator
+congener          conjugate          consociate
+consort          contract matrimony          coordinate
+copartner          copemate          copesmate
+copulate          copy          correlate
+correlative          correspondent          couchmate
+counterpart          couple          couple up
+cover          cradlemate          crony
+crossbreed          cupmate          dead ringer
+deck officer          diddle          ditto
+double          double-harness          double-team
+duplicate          effigy          equal
+equipollent          equivalent          espouse
+exact likeness          familiar          fellow
+fellow student          fit together          fornicate
+friend          frig          general partner
+generate          get hitched          girl friend
+gossip          have sex          have sexual relations
+helpmate          helpmeet          hitch
+hubby          husband          icon
+idol          image          intermarry
+interwed          intimate          jailmate
+join          kindred spirit          lay
+lie with          like          likeness
+link up          living image          living picture
+make it with          make love          make out
+marry          master          match
+messmate          miniature          mirroring
+miscegenate          model          mount
+naval officer          navigating officer          navigator
+near duplicate          obverse          old crony
+opposite number          pair          pair off
+pal          parallel          pard
+pardner          partner          patron
+peer          pendant          pewmate
+photograph          picture          pipes
+playfellow          playmate          portrait
+procreate          quartermaster          reciprocal
+reflection          remarry          resemblance
+rewed          rival          roommate
+rubbing          sailing master          schoolfellow
+schoolmate          screw          second mate
+second self          secret partner          semblance
+serve          service          shadow
+shelfmate          shipmaster          shipmate
+shopmate          side partner          sidekick
+sidekicker          silent partner          similitude
+simulacrum          sister          skipper
+sleep with          sleeping partner          soul mate
+span          special partner          spit and image
+spitting image          splice          spouse
+such          suchlike          synchronize
+tablemate          take to wife          tally
+team          team up          teammate
+tentmate          the Old Man          the like of
+the likes of          tie          trace
+tracing          twin          unite
+very image          very picture          watch officer
+watchmate          waymate          wed
+wife          wive          workfellow
+yoke          yokefellow          yokemate
+------------
+
+neighbor          abut          abut on
+abutter          acquaintance          adjacent
+adjoin          adjoiner          adjoining
+advocate          alter ego          appose
+backer          be contiguous          be in contact
+best friend          border          border on
+borderer          bordering          bosom friend
+bring near          brother          butt
+bystander          casual acquaintance          close acquaintance
+close friend          communicate          confidant
+confidante          conjoin          connect
+connecting          conterminous          contiguous
+coterminous          end to end          endways
+endwise          face to face          familiar
+favorer          fellow          fellow creature
+fellowman          friend          immediate
+immediate neighbor          inseparable friend          intimate
+join          joined          juxtapose
+juxtaposed          juxtaposit          juxtapositional
+juxtapositive          lie by          line
+looker-on          lover          march
+neighborer          neighboring          next
+onlooker          other self          partisan
+pickup          put with          repository
+stand by          supporter          sympathizer
+tangent          touch          verge
+verge upon          well-wisher          ------------
+
+other self
+I          I myself          acquaintance
+advocate          alter          alter ego
+alterum          backer          best friend
+better self          bosom friend          brother
+casual acquaintance          close acquaintance          close friend
+confidant          confidante          ego
+ethical self          familiar          favorer
+fellow          fellow creature          fellowman
+friend          he          her
+herself          him          himself
+inner man          inner self          inseparable friend
+intimate          it          lover
+me          my humble self          myself
+neighbor          number one          oneself
+ourselves          partisan          pickup
+repository          self          she
+subconscious self          subliminal self          superego
+supporter          sympathizer          them
+themselves          they          well-wisher
+you          yours truly          yourself
+yourselves          ------------
+
+partisan          Charley
+Conservative          Democrat          Labourite
+Maecenas          Republican          Tory
+VC          Vietcong          Whig
+abettor          acquaintance          adherent
+admirer          advocate          aficionado
+aggressive          alter ego          angel
+antiblack          apologist          appendage
+attendant          backer          bellicose
+belligerent          best friend          biased
+bickering          bigoted          bipartisan
+biparty          blind          booster
+bosom friend          brother          buff
+bushfighter          bushwhacker          casual
+casual acquaintance          cavaliere servente          champion
+chauvinistic          close acquaintance          close friend
+cohort          colored          combative
+confidant          confidante          courtier
+dangler          defender          denominational
+dependence          dependent          devoted
+devotee          die-hard          disciple
+disputatious          divisive          doctrinaire
+dogmatic          encourager          endorser
+enthusiast          eristic          exponent
+factional          factious          familiar
+fan          fanatic          favorer
+fellow          fellow creature          fellowman
+flunky          follower          following
+freedom          friend          friend at court
+guerilla          guerrilla          hanger-on
+heeler          henchman          homme de cour
+influenced          inseparable friend          interested
+intimate          involved          irascible
+irregular          irritable          jaundiced
+know-nothing          limited          litigious
+lover          loyalist          mainstay
+maintainer          maquis          maquisard
+myopic          narrow          narrow-minded
+neighbor          nonobjective          one-sided
+opinionated          other self          paranymph
+parasite          parochial          partial
+party          party faithful          party hack
+party man          party member          party wheelhorse
+patriot          patron          pickup
+polarizing          polemic          prejudiced
+prepossessed          promoter          protagonist
+public          pugnacious          pursuer
+pursuivant          quarrelsome          racist
+registered Democrat          registered Republican          regular
+reliance          repository          resistance
+resistance fighter          rooter          satellite
+second          seconder          sectarian
+sectary          sectional          sexist
+shadow          short-sighted          shrewish
+sider          sponsor          stalwart
+standby          stooge          successor
+superpatriotic          support          supporter
+sustainer          swayed          sympathizer
+tagtail          tail          tendentious
+trainbearer          twisted          ultranationalist
+underground          underground fighter          undetached
+undispassionate          unneutral          unreasoning
+upholder          votary          ward heeler
+warped          well-wisher          wheelhorse
+wrangling          xenophobic          zealot
+------------
+
+partner          a party to          accessory
+accompanier          accompanist          accompanyist
+accomplice          accumulate          ace
+act in concert          act together          affiliate
+agglomerate          aggregate          aggroup
+ally          alter ego          amalgamate
+amass          amigo          assemble
+assistant          associate          attendant
+band          band together          batch
+be in cahoots          be in league          bedfellow
+bedmate          better half          birthmate
+bosom buddy          bring together          buddy
+bulk          bunch          bunch together
+bunch up          bunkie          bunkmate
+butty          cabal          camarade
+cement a union          centralize          chamberfellow
+chum          classmate          club
+club together          clubmate          clump
+cluster          coact          coalesce
+cohort          collaborate          collaborator
+colleague          collect          colligate
+collocate          collude          comate
+combine          come together          companion
+companion piece          company          compare
+compeer          compile          comrade
+concert          concord          concur
+confederate          confrere          conglomerate
+consociate          consolidate          consort
+conspire          cooperate          copartner
+copemate          copesmate          corral
+cotenant          couchmate          couple
+cradlemate          crony          cumulate
+cupmate          dig up          do business with
+draw together          dredge up          drive together
+federalize          federate          fellow
+fellow student          friend          fuse
+gang          gang up          gather
+gather in          gather together          general partner
+get heads together          get in          get together
+girl friend          go in partners          go in partnership
+go partners          gossip          group
+hang together          harmonize          helper
+helpmate          helpmeet          hold together
+hook up          hook up with          husband
+jailmate          join          join forces
+join fortunes with          join in          join together
+join up with          join with          juxtapose
+keep together          league          league together
+lump together          make common cause          make up
+marry          mass          match
+mate          merge          messmate
+mobilize          muster          old crony
+organize          pair          pair off
+pal          pard          pardner
+partaker          participant          participator
+party          pewmate          play ball
+playfellow          playmate          pull together
+put heads together          put together          raise
+rake up          rally          reciprocate
+roommate          round up          schoolfellow
+schoolmate          scrape together          secret partner
+shareholder          sharer          shelfmate
+shipmate          shopmate          side partner
+sidekick          sidekicker          silent partner
+sleeping partner          special partner          spouse
+stand together          stand up with          tablemate
+take up          team up          team up with
+team with          teammate          tentmate
+throw in together          throw in with          tie in
+tie in with          tie up          tie up with
+unionize          unite          unite efforts
+unite with          watchmate          waymate
+wed          whip in          wife
+work together          workfellow          yokefellow
+yokemate          ------------
+
+patron          Dionysus
+Maecenas          OD          Samaritan
+Santa Claus          abettor          admirer
+advocate          aficionado          aid
+aider          almoner          almsgiver
+angel          apologist          assignor
+assister          attender          audience
+awarder          backer          befriender
+benefactor          benefactress          benefiter
+bestower          boatswain          booster
+boss          buff          buyer
+bwana          captain          caterer
+champion          chandler          cheerful giver
+chef          chief          chief engineer
+chief mate          church dignitary          client
+commander          commissariat          commissary
+conferrer          consignor          contributor
+customer          deck officer          defender
+dependence          donator          donor
+ecclesiarch          elder          employer
+encourager          endorser          exponent
+fairy godmother          fan          favorer
+feoffor          financer          frequenter
+friend          friend at court          funder
+furnisher          giver          good Samaritan
+good person          goodman          grantor
+grubstaker          guarantor          guardian angel
+guru          habitue          haunter
+help          helper          helping hand
+husband          imparter          jack-at-a-pinch
+lady bountiful          liege          liege lord
+lord          lord paramount          lover
+mainstay          maintainer          manciple
+mark          master          mate
+meal ticket          merchant          ministering angel
+ministrant          naval officer          navigating officer
+navigator          overlord          padrone
+paramount          paranymph          partisan
+paterfamilias          patriarch          patroness
+philanthropist          pillar          pipes
+presenter          promoter          prospect
+protagonist          protector          protectress
+provider          provisioner          purchaser
+purveyor          quartermaster          rabbi
+regular          regular customer          reliance
+retailer          rock          safekeeper
+sahib          sailing master          second
+second mate          seconder          sectary
+seigneur          seignior          settler
+shipmaster          sider          skipper
+spectator          sponsor          staker
+stalwart          standby          starets
+steward          stock clerk          storekeeper
+subscriber          succorer          sucker
+sugar daddy          supplier          support
+supporter          surety          sustainer
+sutler          sympathizer          teacher
+testate          testator          testatrix
+the Old Man          theatergoer          tower
+tower of strength          upholder          victualer
+visitor          vivandier          votary
+vouchsafer          watch officer          well-wisher
+------------
+
+pickup          Gramophone          Great Leap Forward
+Jezebel          PA          PA system
+Sunday drive          Victrola          accelerando
+acceleration          acquaintance          advance
+advancement          advocate          aggravation
+airing          alter ego          amelioration
+amendment          apprehension          arrestation
+arrestment          ascent          audio sound system
+audiophile          backer          bad woman
+baggage          beefing-up          best friend
+bettering          betterment          binaural system
+bitch          bitch box          blowing up
+blowup          booking          boost
+bosom friend          bracer          broad
+brother          bullhorn          cartridge
+casual acquaintance          ceramic pickup          changer
+chippy          clitoromaniac          close acquaintance
+close friend          cocotte          concentration
+condensation          confidant          confidante
+consolidation          crystal pickup          deepening
+derived four-channel system          detention          discrete four-channel system
+drab          drive          easy lay
+easy woman          enhancement          enrichment
+eugenics          euthenics          exacerbation
+exaggeration          explosion          familiar
+favorer          fellow          fellow creature
+fellowman          floozy          four-channel stereo system
+frail sister          friend          furtherance
+getaway          grisette          harridan
+headway          heating-up          heightening
+hi-fi          hi-fi fan          high-fidelity
+hussy          hysteromaniac          impetus
+improvement          information explosion          inseparable friend
+intensification          intercom          intercommunication system
+intimate          jade          joyride
+jukebox          lift          loose woman
+lover          magnetic pickup          magnification
+melioration          mend          mending
+mobile camera          monaural system          mono
+nab          needle          neighbor
+nickelodeon          nymphet          nympho
+nymphomaniac          other self          outside pickup
+partisan          phonograph          photoelectric pickup
+pick-me-up          pinch          population explosion
+preferment          progress          progression
+promotion          public-address system          quadraphonic sound system
+quean          quickening          radio-phonograph combination
+record changer          record player          recovery
+redoubling          refresher          reinforcement
+remote pickup          repository          restoration
+revival          reviver          ride
+rise          slut          sound reproduction system
+sound truck          speedup          spin
+spot pickup          squawk box          step-up
+stereo          strengthening          strumpet
+stylus          supporter          sympathizer
+system          tape deck          tape recorder
+tart          telecamera          television camera
+thrust          tightening          tone arm
+transcription turntable          trollop          trull
+turntable          upbeat          uplift
+upping          upswing          uptrend
+upward mobility          uteromaniac          wanton
+well-wisher          wench          whirl
+whore          ------------
+
+playmate          ace
+amigo          associate          bedfellow
+bedmate          birthmate          bosom buddy
+buddy          bunkie          bunkmate
+butty          camarade          chamberfellow
+chum          classmate          clubmate
+colleague          comate          companion
+company          compeer          comrade
+concubine          confrere          consociate
+consort          copartner          copemate
+copesmate          couchmate          cradlemate
+crony          cupmate          doxy
+fellow          fellow student          friend
+general partner          girl friend          gossip
+jailmate          kept mistress          kept woman
+mate          messmate          mistress
+old crony          pal          paramour
+pard          pardner          partner
+pewmate          playfellow          roommate
+schoolfellow          schoolmate          secret partner
+shelfmate          shipmate          shopmate
+side partner          sidekick          sidekicker
+silent partner          sleeping partner          special partner
+tablemate          teammate          tentmate
+unofficial wife          watchmate          waymate
+woman          workfellow          yokefellow
+yokemate          ------------
+
+proponent          adherent
+advocate          apologete          apologist
+apologizer          backer          champion
+defender          enthusiast          exponent
+expounder          friend          justifier
+partisan          patron          pleader
+promoter          proposer          spokesman
+spokesperson          spokeswoman          subscriber
+successful advocate          supporter          upholder
+vindicator          whitewasher          ------------
+
+repository
+Fort Knox          acquaintance          advocate
+alter ego          archives          armory
+arsenal          attic          backer
+bank          basement          bay
+best friend          bin          bonded warehouse
+bookcase          bosom friend          box
+brother          bunker          bursary
+buttery          cargo dock          cash register
+cashbox          casual acquaintance          cellar
+chest          close acquaintance          close friend
+closet          coffer          coin box
+confidant          confidante          conservatory
+crate          crib          cupboard
+depository          depot          dock
+drawer          dump          exchequer
+familiar          favorer          fellow
+fellow creature          fellowman          fisc
+friend          glory hole          godown
+gold depository          hold          hutch
+inseparable friend          intimate          library
+locker          lover          lumber room
+lumberyard          magasin          magazine
+money chest          neighbor          other self
+partisan          penny bank          pickup
+piggy bank          pork barrel          public crib
+public till          public treasury          public trough
+rack          repertory          reservoir
+rick          safe          safe-deposit box
+shelf          stack          stack room
+stock room          storage          store
+storehouse          storeroom          strong room
+strongbox          subtreasury          supply base
+supply depot          supporter          sympathizer
+tank          till          treasure house
+treasure room          treasure-house          treasury
+vat          vault          warehouse
+well-wisher          wine cellar          ------------
+
+supporter
+Maecenas          Santa Claus          abettor
+acquaintance          adherent          admirer
+advocate          aficionado          aid
+almoner          almsgiver          alpenstock
+alter ego          angel          apologist
+appendage          arm          assignor
+assistant          athletic supporter          attendant
+awarder          back          backbone
+backer          backing          bandeau
+bearer          best friend          bestower
+bosom friend          bra          brace
+bracer          braces          bracket
+brassiere          brother          buff
+buttress          cane          carrier
+casual acquaintance          cavaliere servente          cervix
+champion          cheerful giver          close acquaintance
+close friend          cohort          conferrer
+confidant          confidante          consignor
+contributor          corset          courtier
+crook          crutch          dangler
+defender          dependence          dependent
+devotee          disciple          donator
+donor          encourager          endorser
+enthusiast          exponent          expounder
+fairy godmother          familiar          fan
+favorer          fellow          fellow creature
+fellowman          feoffor          financer
+flunky          follower          following
+foundation garment          friend          friend at court
+fulcrum          funder          galluses
+girdle          giver          grantor
+grubstaker          guard          guy
+guywire          hanger          hanger-on
+helper          henchman          homme de cour
+imparter          inseparable friend          intimate
+jock          jockstrap          lady bountiful
+lover          mainstay          maintainer
+mast          meal ticket          neck
+neighbor          other self          pair of suspenders
+paladin          paranymph          parasite
+partisan          patron          patroness
+philanthropist          pickup          presenter
+promoter          prop          proponent
+protagonist          protector          public
+pursuer          pursuivant          reinforce
+reinforcement          reinforcer          reliance
+repository          rest          resting place
+rigging          satellite          second
+seconder          sectary          settler
+shadow          shoulder          shroud
+sider          spine          sponsor
+sprit          staff          staker
+stalwart          standby          standing rigging
+stave          stay          stick
+stiffener          stooge          strengthener
+subscriber          successor          sugar daddy
+support          suspender          suspenders
+sustainer          sympathizer          tagtail
+tail          testate          testator
+testatrix          trainbearer          upholder
+vindicator          votary          vouchsafer
+walking stick          ward heeler          well-wisher
+------------
+
+sweetheart          ace          admirer
+angel          babe          baby
+baby-doll          beau          beaut
+beloved          betrothed          boyfriend
+buttercup          captive          catch
+cherub          chick          chickabiddy
+conquest          coquette          corker
+court          crackerjack          daisy
+dandy          darb          darling
+date          dear          deary
+dilly          doll          dream
+dreamboat          duck          duckling
+fiancee          flame          flirt
+friend          heartthrob          hon
+honey          honey bunch          honey child
+humdinger          inamorata          inamorato
+intended          killer-diller          knockout
+ladylove          lamb          lambkin
+lollapaloosa          love          lover
+lulu          make up to          paramour
+peach          pet          petkins
+pip          pippin          precious
+precious heart          pursue          snookums
+spark          steady          sue
+sugar          sweet          sweet patootie
+sweetie          sweetkins          sweets
+the nuts          truelove          turtledove
+vamp          vampire          whiz
+woo          ------------
+
+sympathizer          Maecenas
+abettor          accessory          accomplice
+acquaintance          admirer          advocate
+aficionado          ally          alter ego
+angel          apologist          approver
+backer          best friend          bosom friend
+brother          buff          casual acquaintance
+champion          close acquaintance          close friend
+collaborator          condoner          confidant
+confidante          conspirator          defender
+dependence          encourager          endorser
+exponent          familiar          fan
+favorer          fellow          fellow creature
+fellowman          friend          friend at court
+inseparable friend          intimate          lover
+mainstay          maintainer          neighbor
+other self          paranymph          partisan
+patron          pickup          promoter
+protagonist          reliance          repository
+second          seconder          sectary
+sider          sponsor          stalwart
+standby          support          supporter
+sustainer          upholder          votary
+well-wisher          ------------
+
+well-wisher          Maecenas
+abettor          acquaintance          admirer
+advocate          aficionado          alter ego
+angel          apologist          backer
+best friend          bosom friend          brother
+buff          casual acquaintance          champion
+close acquaintance          close friend          confidant
+confidante          defender          dependence
+encourager          endorser          exponent
+familiar          fan          favorer
+fellow          fellow creature          fellowman
+friend          friend at court          inseparable friend
+intimate          lover          mainstay
+maintainer          neighbor          other self
+paranymph          partisan          patron
+pickup          promoter          protagonist
+reliance          repository          second
+seconder          sectary          sider
+sponsor          stalwart          standby
+support          supporter          sustainer
+sympathizer          upholder          votary

@@ -1,0 +1,9 @@
+do, do
+do, mi
+do, re
+mi, do
+mi, mi
+mi, re
+re, do
+re, mi
+re, re

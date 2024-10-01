@@ -1,0 +1,84 @@
+------------
+
+distaff side          affiliation          agnate
+ancestry          apparentation          birth
+blood          blood relation          blood relative
+bloodline          branch          breed
+clansman          cognate          collateral
+collateral relative          common ancestry          connections
+consanguinean          consanguinity          derivation
+descent          direct line          distant relation
+enate          extraction          fair sex
+family          female line          female sex
+femininity          filiation          flesh
+flesh and blood          folks          german
+house          kin          kindred
+kinfolk          kinnery          kinsfolk
+kinsman          kinsmen          kinswoman
+kith and kin          line          line of descent
+lineage          male line          near relation
+next of kin          people          phylum
+posterity          race          relations
+relatives          second sex          seed
+sept          sib          sibling
+side          softer sex          spear kin
+spear side          spindle kin          spindle side
+stem          stirps          stock
+strain          succession          sword side
+tribesman          uterine kin          weaker sex
+weaker vessel          woman          womanhood
+womankind          women          womenfolk
+womenfolks          ------------
+
+femininity          distaff side
+fair sex          female sex          femaleness
+gender          maleness          masculinity
+second sex          sex          softer sex
+weaker sex          weaker vessel          woman
+womanhood          womankind          women
+womenfolk          womenfolks          ------------
+
+woman
+Eve          Frau          adult
+better half          common-law wife          concubine
+dame          daughter of Eve          distaff
+distaff side          domina          donna
+dowager          doxy          fair sex
+female sex          feme          feme covert
+femininity          femme          frow
+gentlewoman          girl          goodwife
+goody          grown man          grownup
+helpmate          helpmeet          kept mistress
+kept woman          lady          lass
+legalis homo          little          major
+man          married woman          matron
+mature man          milady          mistress
+no chicken          old lady          old woman
+paramour          playmate          rib
+second sex          softer sex          squaw
+unofficial wife          vrouw          wahine
+weaker sex          weaker vessel          wedded wife
+wife          womanhood          womankind
+women          womenfolk          womenfolks
+------------
+
+womanhood          adulthood          adultness
+age of consent          distaff side          driving age
+fair sex          female sex          femaleness
+feminacy          feminality          femineity
+feminineness          femininity          flower of age
+full age          full bloom          full growth
+fullgrownness          gentlewomanliness          girlishness
+grown-upness          ladylikeness          legal age
+legalis homo          little-girlishness          maidenhood
+maidenliness          majority          manhood
+manlihood          matronage          matronhood
+matronliness          matronship          mature age
+maturity          muliebrity          prime
+prime of life          ripe age          riper years
+second sex          softer sex          the eternal feminine
+toga virilis          virility          weaker sex
+weaker vessel          woman          womanishness
+womanity          womankind          womanlihood
+womanlikeness          womanliness          women
+womenfolk          womenfolks          years of discretion

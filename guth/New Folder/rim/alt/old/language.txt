@@ -1,0 +1,2341 @@
+------------
+
+accent          Alexandrine          accent mark
+accents          accentuate          accentuation
+amphibrach          amphimacer          anacrusis
+anapest          antispast          arsis
+articulation          bacchius          bar
+beat          belabor          broad accent
+brogue          burr          cadence
+caesura          cancel          catalexis
+character          chatter          chloriamb
+chloriambus          colon          comment
+concern          concernment          consequence
+consequentiality          consideration          conversation
+counterpoint          cretic          custos
+dactyl          dactylic hexameter          diacritical mark
+diaeresis          dimeter          dipody
+direct          discourse          distinguish
+dochmiac          dot          drawl
+dwell on          elegiac          elegiac couplet
+elegiac pentameter          elocution          emphasis
+emphasize          epitrite          excellence
+expression mark          feminine caesura          fermata
+foot          force          gab
+give emphasis to          grammatical accent          harp on
+heptameter          heptapody          heroic couplet
+hexameter          hexapody          high order
+high rank          highlight          hold
+iamb          iambic          iambic pentameter
+ictus          import          importance
+inflection          intensity          interest
+intonation          intonation pattern          ionic
+italicize          jingle          key signature
+language          lead          level of stress
+ligature          lilt          mark
+masculine caesura          materiality          measure
+merit          meter          metrical accent
+metrical foot          metrical group          metrical unit
+metrics          metron          metronomic mark
+molossus          moment          mora
+movement          notation          note
+numbers          oral communication          overaccentuate
+overemphasize          overstress          paeon
+palaver          paramountcy          parole
+pause          pentameter          pentapody
+period          pitch accent          place emphasis on
+point up          prattle          precedence
+preeminence          presa          primacy
+primary stress          priority          proceleusmatic
+prominence          pronunciation          prosodics
+prosody          pulsation          pulse
+punctuate          pyrrhic          quantity
+rapping          regional accent          rhetorical accent
+rhythm          rhythmic pattern          rhythmical accent
+rhythmical stress          rub in          secondary stress
+segno          self-importance          set apart
+set off          sign          signature
+significance          slur          speaking
+speech          spondee          spotlight
+sprung rhythm          star          stress
+stress accent          stress arsis          stress pattern
+superiority          supremacy          swell
+swing          symbol          syzygy
+talk          talking          tempo mark
+tertiary stress          tetrameter          tetrapody
+tetraseme          thesis          throb
+tie          time signature          tone
+tone accent          tribrach          trimeter
+tripody          triseme          trochee
+twang          underline          underscore
+value          vinculum          weak stress
+weight          words          worth
+yakkety-yak          yakking          ------------
+
+cant
+Aesopian language          Babel          Greek
+L          Pecksniffery          Tartuffery
+Tartuffism          about ship          affectation
+affectedness          alert          angle
+angularity          animate          animated
+apex          argot          ascend
+babble          back and fill          bank
+be hypocritical          bear away          bear off
+bear to starboard          beat          beat about
+bend          bifurcation          bight
+blandish          box off          break
+bring about          bring round          cant round
+careen          cast          cast about
+change course          change the heading          chevron
+cipher          climb          code
+coin          colloquialize          come about
+corner          crank          crook
+crotchet          cryptogram          decline
+deflection          descend          dialect
+diction          dictionary          dip
+dogleg          double Dutch          double a point
+drop          elbow          ell
+empty gesture          fall          fall away
+fall off          false piety          falseness
+fetch about          fork          furcation
+garble          gay          gibberish
+gift of tongues          give lip service          give mouth honor
+glossolalia          go about          go downhill
+go uphill          gobbledygook          goody-goodiness
+grade          gybe          heave round
+heel          hook          humbug
+hypocrisy          hypocriticalness          idiom
+inclination          incline          inflection
+insincerity          jargon          jargonize
+jibe          jibe all standing          jumble
+keel          keen          knee
+language          lay down          lean
+leaning          leaning tower          lexicon
+lie along          lingo          lip service
+list          mealymouthedness          miss stays
+mouth          mouthing          mumbo jumbo
+mummery          noise          nook
+oiliness          ostentatious devotion          palaver
+patois          patter          pecksniffery
+pharisaicalness          pharisaism          phraseology
+pidgin          pietism          pietisticalness
+piety          piousness          pitch
+play the hypocrite          ply          point
+pretension          put about          put back
+quoin          rake          recline
+reek of piety          religionism          religiosity
+render lip service          retreat          rise
+round a point          sanctimoniousness          sanctimony
+scatology          scramble          secret language
+self-righteousness          sham          sheer
+shelve          shift          shop
+sidle          slang          slant
+slew          slope          snivel
+snuffle          snuffling          soft soap
+soft-soap          speak          speech
+spirited          sprightly          swag
+sway          sweet talk          sweet-talk
+swerve          swing round          swing the stern
+taboo language          tack          talk
+throw about          tilt          tip
+tokenism          tower of Pisa          turn
+turn back          unction          unctuousness
+uprise          use language          veer
+vernacular          vertex          vivacious
+vocabulary          vulgar language          wear
+wear ship          wind          yaw
+zag          zig          zigzag
+------------
+
+chatter          accents          babble
+babblement          bavardage          be cold
+bibble-babble          blab          blabber
+blah-blah          blather          blether
+blethers          bob          bobble
+bounce          brattle          bull
+bump          cackle          call
+caquet          caqueterie          carol
+caw          chaffer          chat
+chattering          cheep          chill
+chirk          chirp          chirr
+chirrup          chitchat          chitter
+chitter-chatter          chuck          clack
+clacket          clatter          clatter about
+clitter          clitterclatter          cluck
+clunter          cock-a-doodle-doo          comment
+conversation          converse          coo
+croak          cronk          crow
+cuckoo          declaim          didder
+discourse          dither          drag out
+draw out          drum          elocution
+extend          falter          fill out
+freeze          freeze to death          gab
+gabble          gaggle          gas
+gibber          gibble-gabble          go on
+gobble          gossip          grow cold
+guff          guggle          gush
+have a chill          have an ague          have goose pimples
+haver          honk          hoo
+hoot          horripilate          hot air
+hustle          idle talk          jabber
+jabbering          jactitate          jar
+jaw          jog          joggle
+jolt          jostle          jounce
+jump          language          lose heat
+mere talk          mouth          natter
+never finish          nonsense talk          oral communication
+pad          palaver          parole
+patter          peep          perish with cold
+perorate          pip          pipe
+pour forth          prate          prating
+prattle          prittle-prattle          protract
+quack          quake          quaver
+quiver          racket          ramble on
+rapping          rattle          rattle around
+rattle on          rattletybang          rattling
+reel off          roll          ruckle
+run on          run out          scold
+shake          shiver          shock
+shudder          sing          small talk
+speak          speak at length          speaking
+speech          spin out          spout
+spout off          squawk          stretch out
+string out          stultiloquence          talk
+talk away          talk nonsense          talk on
+talkee-talkee          talking          tittle-tattle
+tremble          trill          twaddle
+twattle          tweet          twit
+twitter          vibrate          waffle
+wag the tongue          warble          whistle
+wobble          words          yak
+yakkety-yak          yakking          yammer
+------------
+
+comment          Parthian shot          accents
+address          affirmation          allegation
+allude to          analysis          animadversion
+animadvert          annotate          annotation
+answer          apostrophe          apparatus criticus
+approval          assertion          averment
+blurt          blurt out          book review
+call attention to          censure          chatter
+clarification          commentary          commentate
+commentation          construe          conversation
+crack          critical bibliography          critical journal
+critical notice          critical review          criticism
+critique          declaration          dictum
+discourse          discuss          editorial
+elocution          elucidate          elucidation
+exclaim          exclamation          exegesis
+expansion          explain          explanation
+explicate          expose          exposition
+expound          expression          footnote
+gab          gloss          greeting
+interject          interjection          language
+leader          leading article          let drop
+let fall          literary criticism          make reference to
+mention          muse          notation
+note          note of explanation          notice
+obiter dictum          observation          observe
+opine          opinion          oral communication
+palaver          parole          phrase
+position          prattle          pronouncement
+question          rapping          reaction
+refer to          reference          reflect
+reflection          remark          report
+reveal          review          running commentary
+say          saying          scholium
+sentence          speak          speaking
+speech          statement          subjoinder
+talk          talk about          talking
+thought          utterance          view
+word          word of explanation          words
+write-up          yakkety-yak          yakking
+------------
+
+composition          Anschluss          Intertype
+Linotype          Monotype          Nachtmusik
+Portland cement          Spackle          abatement of differences
+absolute music          accommodation          adaptation
+addition          adjustment          admixture
+adobe          affiliation          agglomeration
+aggregate          aggregation          agreement
+air varie          aleatory          aleatory music
+alliance          alloy          alloyage
+amalgam          amalgamation          amends
+anatomy          architectonics          architecture
+arrangement          art object          article
+artifact          artistry          assembly
+assimilation          association          atmosphere
+atonement          authorcraft          authorship
+autograph          automatic writing          balance
+bargain          blend          blending
+body-build          brainchild          brand
+brew          bric-a-brac          brushwork
+build          building          cabal
+cacoethes scribendi          cartel          cast
+casting          cement          census
+centralization          chamber music          chamber orchestra
+character          characteristic          characteristics
+child          chinking          choice of words
+classic          clay          coalescence
+coalition          coinage          cold-type typesetting
+color          combination          combine
+combo          comminglement          commingling
+commixture          compensation          complexion
+composing          composing stick          composite
+compound          compromise          computer printout
+computerized typesetting          concession          concoction
+confection          confederacy          confederation
+configuration          conformation          congeries
+conglomeration          conjugation          conjunction
+consolidation          conspiracy          constituents
+constitution          construction          content
+contents          conversion          cop-out
+copy          crafting          craftsmanship
+crasis          creation          creative writing
+creature          crowning achievement          cultivation
+deal          decoction          decoctum
+descant          desertion of principle          design
+devising          dharma          dialect
+diathesis          diction          disposition
+distillation          divisions          document
+draft          draftsmanship          drama-writing
+dummy          eclecticism          ecumenism
+edited version          editorial-writing          effect
+elaboration          electronic music          elements
+embodiment          encompassment          end product
+engrossment          enosis          ensemble
+erection          essay          essay-writing
+essence          ethos          etude
+evasion of responsibility          exercise          expiation
+expiatory offering          expository writing          expression
+extract          extraction          fabric
+fabrication          facility in writing          fair copy
+fashion          fashioning          feature-writing
+federalization          federation          fiber
+fiction          final draft          finished version
+first draft          flimsy          forging
+form          format          formation
+forming          formula          formulation
+frame          framing          fruit
+furniture          fusion          galley chase
+genius          getup          give-and-take
+giving way          grain          grammar
+graphomania          graphorrhea          graphospasm
+grotesque          grouping          grout
+growing          guts          habit
+handicraft          handiwork          harmonization
+harmony          harvesting          holograph
+hookup          hot-metal typesetting          hue
+humor          humors          idiom
+ilk          immixture          imposition
+incidental music          inclusion          incorporation
+indemnification          indemnity          index
+inditement          ingredients          innards
+insides          instrumental music          integration
+interfusion          interlarding          interlardment
+interminglement          intermingling          intermixture
+invention          inventory          issue
+items          journalism          junction
+junta          justification          kind
+kitsch          language          layout
+league          letter          libretto-writing
+line          line of type          list
+literae scriptae          literary artefact          literary artistry
+literary composition          literary power          literary production
+literary talent          literature          locution
+lucubration          machining          magma
+make          makeup          making
+making amends          making good          making right
+making up          manufacture          manufacturing
+manuscript          marriage          master
+masterpiece          masterwork          mastic
+matter          medley          melange
+meld          melding          merger
+milling          mingling          mining
+mintage          mix          mixing
+mixture          mobile          mold
+molding          mortar          museum piece
+mutual concession          nature          new mintage
+nocturne          nonfiction          novel-writing
+nude          offspring          old master
+opera          opus          opuscule
+orchestration          organic structure          organism
+organization          original          origination
+outcome          outgrowth          package
+package deal          painterliness          paper
+parchment          parget          parlance
+part          parts          paste
+pasticcio          pastiche          patching plaster
+pattern          patterning          peace offering
+pen          pencraft          penscript
+perspective          photocomposition          photosetting
+phototypesetter          phototypesetting machine          phrase
+phraseology          phrasing          physique
+piaculum          piece          piece of virtu
+piece of writing          placement          placing
+plan          play          playwriting
+pluralism          poem          prefabrication
+preparation          printed matter          printout
+processing          producing          product
+production          program music          property
+propitiation          proportion          quality
+quittance          quoin          raising
+reading matter          ready pen          recension
+reclamation          recompense          redemption
+redress          refining          reparation
+restitution          result          rewriting
+rhetoric          ricercar          roughcast
+satisfaction          score          screed
+scrip          script          scrive
+scroll          second draft          set-up
+setting          settlement          setup
+shading          shadow          shape
+shaping          short-story writing          size
+skill with words          slug          smelting
+solidification          somatotype          sonata
+sonatina          sort          spackling compound
+speech          spirit          squaring
+stabile          stamp          statue
+still life          story          streak
+string orchestra          string quartet          stripe
+structure          structuring          stucco
+study          suchness          surrender
+syncretism          syndication          syneresis
+synthesis          system          talk
+technical writing          technique          tectonics
+temper          temperament          tendency
+tenor          texture          the written word
+theme          theme and variations          tie-up
+tissue          tone          transcript
+transcription          treatment          trio
+type          typescript          typesetting
+typesetting machine          understanding          unification
+union          usage          use of words
+usus loquendi          values          variation
+vein          verbiage          verse-writing
+version          virtu          warp and woof
+way          weave          web
+wedding          whole          wordage
+wording          work          work of art
+workmanship          writing          yielding
+------------
+
+conversation          ESP          accents
+answer          chat          chatter
+collegiality          colloquy          comment
+commerce          communication          communion
+community          confabulation          congress
+connection          contact          converse
+correspondence          dealing          dealings
+debate          deliberation          dialogue
+discourse          discussion          elocution
+exchange          fellowship          gab
+gossip          information          interaction
+interchange          intercommunication          intercommunion
+intercourse          interplay          language
+linguistic intercourse          message          observation
+oral communication          palaver          parley
+parole          prattle          rapping
+remark          repartee          reply
+response          social activity          social intercourse
+social relations          speaking          speech
+speech circuit          speech situation          talk
+talking          telepathy          touch
+traffic          truck          two-way communication
+ventilation          words          yakkety-yak
+yakking          ------------
+
+dialect          Acadian
+Anglo-Indian          Brooklynese          Cajun
+Canadian French          Cockney          French Canadian
+Gullah          Midland          Midland dialect
+New England dialect          Pennsylvania Dutch          Yankee
+Yorkshire          accent          argot
+brogue          bundle of isoglosses          burr
+cant          choice of words          class dialect
+composition          dialect atlas          dialect dictionary
+dialectal          diction          expression
+formulation          grammar          idiom
+idiomatic          isogloss          jargon
+language          langue          lingo
+lingua          linguistic atlas          linguistic community
+linguistic island          local          local dialect
+localism          locution          parlance
+parole          patois          patter
+personal usage          phrase          phraseology
+phrasing          pidgin          pronunciation
+provincial          provincialism          regional
+regional accent          regionalism          rhetoric
+slang          speech          speech community
+subdialect          talk          tongue
+usage          use of words          usus loquendi
+verbiage          vernacular          wordage
+wording          ------------
+
+diction          articulation
+delivery          elocution          enunciation
+expression          expressiveness          inflection
+intonation          language          oratory
+parlance          phrase          phraseology
+phrasing          presentation          pronunciation
+rhetoric          speech          terminology
+usage          verbalism          verbiage
+vocabulary          wordage          wording
+------------
+
+dictionary          biographical dictionary          cant
+chemical dictionary          desk dictionary          dialect dictionary
+dictionary of quotations          electronics dictionary          etymological dictionary
+foreign-language dictionary          gazetteer          general dictionary
+geological dictionary          gloss          glossary
+gradus          jargon          language
+lexicon          nomenclator          onomasticon
+palaver          phrase book          polyglot dictionary
+promptorium          rhyming dictionary          science dictionary
+slang dictionary          specialized dictionary          synonym dictionary
+synonymy          terminology          thesaurus
+treasury of words          unabridged dictionary          vocabulary
+word list          wordbook          ------------
+
+discourse
+accents          act          address
+air          amplify          analyze
+argue          article          assignment
+bandy words          canvass          causerie
+chalk talk          chatter          chew the fat
+chew the rag          chin          colloque
+colloquial discourse          colloquize          colloquy
+comment          comment upon          commentate
+commerce with          commune with          communicate
+communicate with          communication          communion
+confab          confabulate          consider
+controvert          conversation          converse
+converse with          conversing          criticize
+deal with          debate          deduction
+deductive reasoning          deliberate          deliberate upon
+deliver an address          demonstration          descant
+develop          dilate          discourse about
+discourse of reason          discourse with          discursive reason
+discuss          discussion          dispute
+disquisition          dissert          dissertate
+dissertation          do          elaborate
+elocution          enact          enlarge
+essay          etude          examination
+examine          exchange          exchange views
+excursus          exercise          expand
+expatiate          explain          exposit
+exposition          expound          feature
+first approach          gab          give a talk
+give-and-take          go into          handle
+harangue          hold forth          homework
+homily          impersonate          induction
+inductive reasoning          inquire into          instruction
+intercourse          interlocution          introductory study
+investigate          knock around          language
+lecture          lecture-demonstration          lesson
+logical thought          lucubration          memoir
+monograph          moral          moral lesson
+morality          moralization          moralize
+morceau          note          object lesson
+oral communication          orate          outline
+palaver          pandect          paper
+paragraph          parole          pass under review
+perform          perorate          personate
+philosophy          piece          platform
+play          playact          point a moral
+prattle          preach          preachification
+preaching          preachment          prelection
+preliminary study          prolegomenon          proof
+rap          rapping          ratiocination
+rationalism          rationality          rationalization
+rationalizing          read a lesson          reason
+reason about          reason the point          reasonableness
+reasoning          recital          recitation
+religious discourse          remark          remark upon
+research paper          review          rhetoric
+screed          sermon          sermonette
+sermonize          set task          shoot the breeze
+sift          sketch          skull session
+soapbox          sophistry          speak
+speak with          speaking          special article
+specious reasoning          speech          speechify
+study          stump          survey
+sweet reason          take counsel with          take the floor
+take the stump          take up          talk
+talk about          talk of          talk over
+talk together          talking          task
+teaching          term paper          theme
+thesis          thresh out          touch upon
+tract          tractate          travelogue
+treat          treat of          treatise
+treatment          utterance          ventilate
+verbal intercourse          verbalization          visit with
+voice          words          write up
+yakkety-yak          yakking          ------------
+
+elocution
+accents          chatter          comment
+conversation          debating          declamation
+demagogism          discourse          eloquence
+forensics          gab          homiletics
+language          lecturing          oral communication
+oratory          palaver          parole
+platform oratory          prattle          public speaking
+pyrotechnics          rabble-rousing          rapping
+rhetoric          speaking          speech
+speechcraft          speechification          speeching
+speechmaking          stump speaking          talk
+talking          wordcraft          words
+yakkety-yak          yakking          ------------
+
+expression
+Christophany          Parthian shot          Satanophany
+accent          adage          address
+adjectival phrase          affirmation          air
+airing          allegation          ana
+analects          angelophany          announcement
+answer          antonym          aphorism
+apostrophe          apothegm          appearance
+ardor          articulateness          articulation
+aspect          assertion          asseveration
+avatar          averment          avulsion
+axiom          byword          cantando
+cast          catchword          characterization
+choice of words          clause          collected sayings
+command of language          command of words          comment
+communication          composition          concentration
+construction          countenance          crack
+current saying          cutting out          declaration
+decoction          delivery          demilegato
+demonstration          denomination          denotation
+depth          deracination          designation
+dialect          dictate          diction
+dictum          differentiation          disclosure
+disentanglement          dissemination          distich
+distillation          drawing          drawing out
+dredging          drilling          effective style
+eloquence          eloquent tongue          embodiment
+emotion          enucleation          enunciation
+epigram          epiphany          eradication
+evidence          evincement          evolvement
+evulsion          excavation          excision
+exclamation          execution          expressiveness
+exsection          extirpation          extraction
+extrication          face          facundity
+feeling          felicitousness          felicity
+fingering          formulation          free form
+gesture          gift of expression          gift of gab
+glibness          glissando          gnome
+golden saying          grammar          graphicness
+greeting          headed group          hint
+homograph          homonym          homophone
+identification          idiom          idiotism
+incarnation          indication          indicativeness
+infusion          intensity          interjection
+intonation          issue          language
+legato          lexeme          linguistic form
+locution          logos          look
+loudness          manifestation          manner of speaking
+materialization          maxim          meaning
+meaningfulness          mention          metonym
+mezzo staccato          mien          minimum free form
+mining          monosyllable          moral
+mot          motto          music-making
+naming          note          noun phrase
+nuance          observation          oracle
+oratory          paragraph          parlance
+parlando          passion          pathos
+peculiar expression          performance          period
+phrasal idiom          phrase          phraseology
+phrasing          pianism          picking out
+pithy saying          pizzicato          pneumatophany
+pointing          pointing out          pointing to
+polysyllable          position          precept
+prescript          pressing          pressing out
+pronouncement          proof          proverb
+proverbial saying          proverbs          publication
+pulling          quarrying          question
+reflection          remark          reminder
+removal          rendering          rendition
+repercussion          representation          revelation
+rhetoric          ripping out          rubato
+saw          say          saying
+selection          sensitivity          sentence
+sententious expression          set phrase          shading
+show          showing          sign
+signification          silver tongue          slickness
+sloka          slur          smoothness
+soaking          softness          specification
+speech          spiccato          spirit
+squeezing          squeezing out          staccato
+standard phrase          statement          steeping
+stock saying          style          subjoinder
+suggestion          sutra          syllable
+symbol          symptomaticness          synonym
+syntactic structure          talk          teaching
+term          text          theophany
+thought          token          tone
+touch          turn of expression          turn of phrase
+unrooting          uprooting          usage
+use of words          usus loquendi          utterance
+vent          verb complex          verb phrase
+verbalism          verbalization          verbiage
+verbum          verse          visage
+vividness          vocable          voice
+voicing          way of speaking          wisdom
+wisdom literature          wise saying          withdrawal
+witticism          word          word-group
+wordage          wording          words of wisdom
+wresting out          ------------
+
+formulation          allocation
+allotment          apportionment          architecture
+arrangement          array          arraying
+assembly          building          casting
+choice of words          collation          collocation
+composition          constitution          construction
+conversion          crafting          craftsmanship
+creation          cultivation          deployment
+devising          dialect          diction
+disposal          disposition          distribution
+elaboration          erection          expression
+extraction          fabrication          fashioning
+form          formation          forming
+framing          grammar          growing
+handicraft          handiwork          harvesting
+idiom          language          locution
+machining          making          manufacture
+manufacturing          marshaling          milling
+mining          molding          order
+ordering          parlance          phrase
+phraseology          phrasing          placement
+prefabrication          preparation          processing
+producing          raising          refining
+regimentation          rhetoric          shaping
+smelting          speech          structuring
+syntax          talk          usage
+use of words          usus loquendi          verbiage
+wordage          wording          workmanship
+------------
+
+gab          accents          babble
+babblement          balderdash          balls
+bavardage          bazoo          bibble-babble
+blab          blabber          blah-blah
+blarney          blather          blether
+blethers          bull          bullshit
+bunk          bunkum          cackle
+caquet          caqueterie          chaps
+chat          chatter          chitter-chatter
+chops          clack          clatter
+comment          conversation          converse
+crap          declaim          discourse
+dither          drivel          elocution
+embouchure          eyewash          flummery
+gabble          garbage          gas
+gibber          gibble-gabble          go on
+gob          gobbledygook          gossip
+guff          gush          haver
+hogwash          hot air          idle talk
+jabber          jaw          jaws
+jowls          kisser          language
+lips          mandibles          maw
+maxilla          mere talk          moonshine
+mouth          mug          mumbo-jumbo
+mush          muzzle          natter
+nonsense          nonsense talk          oral cavity
+oral communication          palaver          parole
+patter          piffle          poppycock
+pour forth          prate          prating
+prattle          premaxilla          prittle-prattle
+ramble on          rapping          rattle
+rattle on          reel off          rot
+rubbish          run on          shit
+speak          speaking          speech
+spout          spout off          stuff and nonsense
+talk          talk away          talk nonsense
+talk on          talkee-talkee          talking
+tittle-tattle          trap          twaddle
+twattle          waffle          wag the tongue
+words          yak          yakkety-yak
+yakking          yap          ------------
+
+grammar
+abecedarium          abecedary          alphabet
+alphabet book          basics          battledore
+bowwow theory          casebook          choice of words
+comparative linguistics          composition          derivation
+descriptive linguistics          dialect          dialectology
+diction          dingdong theory          elements
+etymology          exercise book          expression
+first principles          first steps          formulation
+fundamentals          glossematics          glossology
+glottochronology          glottology          gradus
+graphemics          historical linguistics          hornbook
+idiom          induction          language
+language study          lexicology          lexicostatistics
+linguistic geography          linguistic science          linguistics
+locution          manual          manual of instruction
+mathematical linguistics          morphology          morphophonemics
+outlines          paleography          parlance
+philology          phonetics          phonology
+phrase          phraseology          phrasing
+primer          principia          principles
+psycholinguistics          reader          rhetoric
+rudiments          schoolbook          semantics
+sociolinguistics          speech          speller
+spelling book          structuralism          syntactics
+t          talk          text
+transformational linguistics          usage          use of words
+usus loquendi          verbiage          wordage
+wording          workbook          ------------
+
+idiom
+Acadian          Anglo-Indian          Brooklynese
+Cajun          Canadian French          Cockney
+French Canadian          Gullah          Midland
+Midland dialect          New England dialect          Pennsylvania Dutch
+Yankee          Yorkshire          adjectival phrase
+argot          bundle of isoglosses          cant
+choice of words          class dialect          clause
+cliche          composition          construction
+dialect          dialect dictionary          diction
+expression          formulation          grammar
+headed group          idiotism          isogloss
+jargon          language          langue
+lingo          lingua          linguistic atlas
+linguistic community          linguistic island          local dialect
+localism          locution          manner of speaking
+noun phrase          paragraph          parlance
+parole          patois          peculiar expression
+period          personal usage          phrasal idiom
+phrase          phraseology          phrasing
+provincialism          regional accent          regionalism
+rhetoric          sentence          set phrase
+speech          speech community          standard phrase
+subdialect          syntactic structure          talk
+term          tongue          turn of expression
+turn of phrase          usage          use of words
+usus loquendi          utterance          verb complex
+verb phrase          verbalism          verbiage
+vernacular          way of speaking          word-group
+wordage          wording          ------------
+
+jargon
+Aesopian language          Babel          Beach-la-mar
+Greek          Kitchen Kaffir          Oregon Jargon
+Sabir          abracadabra          absurdity
+amphigory          argot          auxiliary language
+babble          babblement          balderdash
+bavardage          bibble-babble          blabber
+blather          bombast          bosh
+bull          bunk          cackle
+cant          chatter          cipher
+claptrap          code          colloquialize
+crap          creole          creole language
+creolized language          cryptogram          dialect
+dictionary          double Dutch          double-talk
+drivel          drool          fiddle-faddle
+fiddledeedee          flapdoodle          flummery
+folderol          fudge          fustian
+gab          gabble          galimatias
+gammon          garbage          garble
+gibber          gibberish          gibble-gabble
+gift of tongues          glossolalia          gobbledygook
+hocus-pocus          hogwash          humbug
+idiom          interlanguage          jabber
+jabberwocky          jargonize          jumble
+koine          language          lexicon
+lingo          mumbo jumbo          narrishkeit
+niaiserie          noise          nonsense
+pack of nonsense          palaver          parlance
+patois          patter          phraseology
+pidgin          pidgin English          piffle
+prate          prattle          rant
+rigamarole          rigmarole          rodomontade
+rot          rubbish          scatology
+scramble          secret language          skimble-skamble
+slang          speak          speech
+stuff and nonsense          stultiloquence          taboo language
+talk          talkee-talkee          trade language
+trash          trumpery          twaddle
+twattle          twiddle-twaddle          use language
+vaporing          vernacular          vocabulary
+vulgar language          waffling          ------------
+
+language
+Abnaki          Afghan          Afghani
+Afrikaans          Afro-Asiatic          Ainu
+Akan          Akkadian          Albanian
+Aleut          Algonquian          Algonquin
+Amharic          Anatolian          Anatolic
+Andaman          Annamese          Anzanite
+Apache          Arabic          Aramaic
+Araucanian          Arawak          Arawakan
+Armenian          Arulo          Aryan
+Assamese          Athapaskan          Austral
+Austronesian          Avestan          Aymara
+Aztec          Balinese          Baluchi
+Bashkir          Basque          Batak
+Bellacoola          Bengali          Berber
+Bhili          Bihari          Bikol
+Bini          Blackfoot          Blaia Zimondal
+Brahui          Brythonic          Buginese
+Burmese          Burushaski          Buryat
+Bushman          Byelorussian          Cantonese
+Carolinian          Caspian          Castilian
+Catalan          Caucasian          Chad
+Cham          Cheremis          Cherokee
+Chibcha          Chibchan          Chin
+Chinese          Chinookan          Chuvash
+Coptic          Cornish          Cuman
+Czech          Dafla          Dalmatian
+Danish          Dinka          Dravidian
+Dutch          Dyak          Edo
+Efatese          Egyptian          Elamitic
+English          Eskimo          Eskimo-Aleut
+Esperantido          Esperanto          Estonian
+Ethiopic          Europan          Euskarian
+Ewe          Faeroese          Faliscan
+Fijian          Finnic          Finnish
+Flemish          Fox          French
+Frisian          Fula          Fulani
+Gadaba          Gaelic          Galcha
+Galla          Garo          Gaulish
+Geez          Georgian          German
+Germanic          Gold          Goldi
+Gondi          Gothic          Greek
+Guanche          Guarani          Gur
+Gypsy          Haida          Haitian Creole
+Hamito-Semitic          Hausa          Hawaiian
+Hebrew          Hellenic          Hindustani
+Hittite          Ho          Hokaltecan
+Hokan-Siouan          Hopi          Hottentot
+Iban          Ibanag          Ibo
+Icelandic          Idiom Neutral          Igorot
+Illyrian          Indic          Indo-Aryan
+Indo-Chinese          Indo-European          Indo-Hittite
+Interlingua          Irish          Iroquoian
+Italian          Italic          Ivatan
+Kachin          Kafiri          Kalmuck
+Kamasin          Kamchadal          Kanarese
+Kara-Kalpak          Karamojong          Karankawa
+Karelian          Kashmiri          Kashubian
+Kechumaran          Keres          Ket
+Khamti          Kharia          Khasi
+Khmer          Khoisan          Khondi
+Khosa          Khowar          Kickapoo
+Kiowa Apache          Kirghiz          Kiriwina
+Kitunahan          Kodagu          Kohistani
+Koiari          Kolami          Koluschan
+Komi          Konkani          Korean
+Korwa          Koryak          Kui
+Kuki          Kuki-Chin          Kumyk
+Kunama          Kurdish          Kurukh
+Kutchin          Kutenai          Kwa
+Ladino          Lahnda          Lampong
+Lamut          Lao          Lapp
+Latin          Latinesce          Latvian
+Lettish          Libyan          Ligurian
+Limbu          Lingualumina          Lingvo Kosmopolita
+Lithuanian          Livonian          Low German
+Luorawetlan          Lusatian          Luwian
+Lycian          Lydian          Macedonian
+Madurese          Magyar          Malagasy
+Malay          Malayalam          Malayo-Polynesian
+Maltese          Manchu          Mandarin
+Mande          Mandingo          Mangarevan
+Manobo          Manx          Maori
+Marathi          Maya          Mayan
+Meithei          Mende          Messapian
+Micronesian          Middle English          Middle Greek
+Middle High German          Middle Persian          Mishmi
+Mishongnovi          Misima          Miskito
+Mon          Monario          Mongolian
+Mongolic          Mordvin          Mordvinian
+Moro          Mru          Munda
+Muong          Mura          Muran
+Murmi          Muskogean          Muskogee
+Na-dene          Naga          Nahuatlan
+Nepali          Newari          Ngala
+Ngbaka          Niasese          Nicobarese
+Niuean          Nogai          Nootka
+Norwegian          Nov-Esperanto          Nov-Latin
+Novial          Occidental          Optez
+Oraon          Oriya          Oscan
+Osco-Umbrian          Osmanli          Ossetic
+Ostyak          Otomanguean          Pahlavi
+Palaic          Palau          Palaung
+Paleo-Asiatic          Pali          Pampango
+Pangasinan          Papuan          Pashto
+Pasigraphy          Paya          Penutian
+Permian          Persian          Phrygian
+Piman          Plattdeutsch          Polabian
+Polish          Polynesian          Portuguese
+Prakrit          Punic          Punjabi
+Quechua          Quechuan          Ritwan
+Ro          Romaic          Romanal
+Romance          Romanic          Romansh
+Romany          Russian          Ruthenian
+Sabellian          Saharan          Sakai
+Salish          Samoan          Samoyed
+Samoyedic          Sanskrit          Sardinian
+Sasak          Scandinavian          Selung
+Semitic          Serbo-Croatian          Shan
+Shilha          Shluh          Shoshonean
+Siamese          Sinhalese          Sino-Tibetan
+Siouan          Skittagetan          Slavic
+Slavonic          Slovak          Slovene
+Slovenian          Sogdian          Sorbian
+Soyot          Spanish          Sudanic
+Sumerian          Susian          Swahili
+Swedish          Syriac          Syryenian
+Tagalog          Tagula          Tahitian
+Takelma          Takilman          Tamashek
+Tamaulipec          Tanoan          Taracahitian
+Tarascan          Tavgi          Taw-Sug
+Thraco-Phrygian          Tibeto-Burman          Tigre
+Tipura          Tocharian          Toda
+Tsimshian          Tuareg          Tulu
+Tungus          Tungusic          Tupi-Guaranian
+Turanian          Turkic          Turkish
+Turko-Tartar          Turkoman          Ugric
+Uighur          Umbrian          Ural-Altaic
+Uralian          Urdu          Uto-Aztecan
+Uzbek          Vietnamese          Visayan
+Vote          Votyak          Wa
+Welsh          White Russian          Xhosa
+Yakut          Yeniseian          Yiddish
+Yoruba          Yukaghir          Yukian
+Yurak          Zenaga          Zulu
+agglutinative          analytic          argot
+cant          choice of words          communication
+composition          dialect          diction
+dictionary          expression          formulation
+grammar          idiom          incorporative
+inflectional          interaction          intercourse
+isolating          jargon          language
+lexicon          lingo          locution
+monosyllabic          palaver          parlance
+patois          phrase          phraseology
+phrasing          polysynthetic          polytonic
+rhetoric          slang          speech
+style          synthetic          talk
+terminology          tongue          usage
+use of words          usus loquendi          verbiage
+vernacular          vocabulary          wordage
+wording          words          ------------
+
+lexicon
+biographical dictionary          cant          chemical dictionary
+desk dictionary          dialect dictionary          dictionary
+dictionary of quotations          electronics dictionary          etymological dictionary
+foreign-language dictionary          gazetteer          general dictionary
+geological dictionary          gloss          glossary
+gradus          jargon          language
+lexis          nomenclator          onomasticon
+palaver          phrase book          phraseology
+polyglot dictionary          promptorium          rhyming dictionary
+science dictionary          slang dictionary          specialized dictionary
+stock of words          synonym dictionary          synonymy
+terminology          thesaurus          treasury of words
+unabridged dictionary          verbiage          vocabulary
+word list          wordage          wordbook
+wordhoard          words          ------------
+
+lingo
+argot          cant          dialect
+gibberish          gobbledygook          idiom
+jargon          language          langue
+lingua          locution          mumbo jumbo
+mumbo-jumbo          parlance          parole
+patois          patter          personal usage
+phraseology          pidgin          scatology
+slang          speech          taboo language
+talk          tongue          usage
+vernacular          vocabulary          vulgar language
+------------
+
+locution          adjectival phrase          antonym
+articulation          choice of words          clause
+composition          construction          dialect
+diction          expression          formulation
+free form          grammar          headed group
+homograph          homonym          homophone
+idiom          idiotism          language
+langue          lexeme          lingo
+lingua          linguistic act          linguistic form
+logos          manner of speaking          metonym
+minimum free form          monosyllable          noun phrase
+paragraph          parlance          parol
+parole          peculiar expression          period
+personal usage          phonation          phrasal idiom
+phrase          phraseology          phrasing
+polysyllable          rhetoric          sentence
+sequence of phonemes          set phrase          speaking
+speech          speech act          standard phrase
+string          syllable          synonym
+syntactic structure          talk          term
+the spoken word          tongue          turn of expression
+turn of phrase          usage          use of words
+usus loquendi          utterance          utterance string
+verb complex          verb phrase          verbalism
+verbiage          verbum          vocable
+voice          way of speaking          word
+word of mouth          word-group          wordage
+wording          ------------
+
+palaver          absurdity
+accents          adulate          adulation
+advise with          affair          amphigory
+audience          babble          babblement
+balderdash          bargain          bargaining
+bargaining session          bavardage          beslobber
+beslubber          bibble-babble          blab
+blabber          blah-blah          blandish
+blandishment          blarney          blather
+blether          blethers          bombast
+bother          bull session          bunkum
+business          cackle          cajole
+cajolement          cajolery          call in
+cant          caquet          caqueterie
+chat          chatter          chinfest
+chitter-chatter          clack          claptrap
+clatter          collogue          colloquium
+colloquy          comment          compare notes
+compliment          conceit          concern
+conclave          confab          confabulate
+confabulation          confer          confer with
+conference          confrontation          congress
+consult          consult with          consultation
+convention          conversation          converse
+council          council fire          council of war
+counsel          deliberate          dialogue
+dictionary          discourse          discuss
+discuss with          discussion          dither
+double-talk          drivel          drool
+duologue          elocution          exchange observations
+exchange of views          exchange views          eyeball-to-eyeball encounter
+eyewash          fair words          fawn upon
+fawning          fiddle-faddle          fiddledeedee
+flatter          flattery          flummery
+folderol          fudge          fustian
+gab          gabble          galimatias
+gammon          gas          get together
+get-together          gibber          gibberish
+gibble-gabble          go on          gobbledygook
+gossip          grease          guff
+gush          have conversations          haver
+high-level talk          hocus-pocus          hold conference
+honeyed phrases          honeyed words          hot air
+huddle          humbug          idle talk
+incense          interchange of views          interview
+jabber          jargon          jaw
+jawing          language          lexicon
+lookout          make fair weather          meet
+meeting          mere talk          mumbo jumbo
+narrishkeit          natter          negotiate
+negotiations          news conference          niaiserie
+nonsense          nonsense talk          nuisance
+occasions          oil          oil the tongue
+oral communication          pack of nonsense          palavering
+parley          parole          patter
+performance          pour forth          pourparler
+powwow          praise          prate
+prating          prattle          prattling
+press conference          pretty lies          prittle-prattle
+procedure          put heads together          question-and-answer session
+ramble on          rant          rap session
+rapping          rattle          rattle on
+reason with          red tape          reel off
+refer to          rigamarole          rigmarole
+rodomontade          round table          rubbish
+run on          seance          seminar
+session          shoot the breeze          sit down together
+sit down with          sitting          skimble-skamble
+slobber over          small talk          soap
+soft soap          song and dance          speaking
+speech          spout          spout off
+stuff and nonsense          stultiloquence          summit
+summit conference          summitry          sweet nothings
+sweet talk          sweet words          sycophancy
+take counsel          take up with          talk
+talk away          talk nonsense          talk on
+talk over          talkee-talkee          talkfest
+talking          tittle-tattle          to-do
+trash          trialogue          trumpery
+twaddle          twattle          twiddle-twaddle
+vaporing          vocabulary          waffle
+waffling          wheedle          wheedling
+words          yak          yakkety-yak
+yakking          ------------
+
+parlance          choice of words
+composition          dialect          diction
+expression          formulation          grammar
+idiom          jargon          language
+langue          lingo          lingua
+locution          parole          personal usage
+phrase          phraseology          phrasing
+rhetoric          speech          talk
+tongue          usage          use of words
+usus loquendi          verbiage          wordage
+wording          ------------
+
+parole          accents
+assurance          avouch          avouchment
+cast loose          chatter          comment
+conversation          demobilization          demobilize
+dialect          discharge          discourse
+dismiss          dismissal          elocution
+faith          gab          go bail for
+grant bail to          guarantee          idiom
+language          langue          let go
+let go free          let loose          let off
+let out          lingo          lingua
+linguistic act          locution          oath
+oral communication          palaver          parlance
+parol          personal usage          phonation
+phraseology          pledge          plight
+prattle          promise          put on parole
+rapping          release          sequence of phonemes
+solemn declaration          speaking          speech
+speech act          string          talk
+talking          the spoken word          tongue
+troth          unbinding          unbolting
+unbridling          unbuckling          uncaging
+unchaining          unfettering          ungagging
+unhand          unhanding          unharnessing
+unhobbling          unlashing          unlatching
+unleashing          unlocking          unloosing
+unmanacling          unmuzzling          unpenning
+unshackling          unstrapping          untethering
+untrussing          untying          unyoking
+usage          utterance          utterance string
+vocable          voice          vow
+warranty          word          word of honor
+word of mouth          words          yakkety-yak
+yakking          ------------
+
+phrase          Parthian shot
+adage          address          adjectival phrase
+affirmation          allegation          ana
+anacrusis          analects          answer
+aphorism          apostrophe          apothegm
+article          articulate          assertion
+averment          axiom          back matter
+bass passage          book          bourdon
+breathe          bridge          burden
+byword          cadence          catchword
+chapter          chestnut          chime
+choice of words          chorus          clause
+cliche          coda          collected sayings
+collocation          colloquialism          column
+come out with          comment          commonplace
+communicate          composition          conceive
+convey          couch          couch in terms
+crack          current saying          declaration
+delineate          deliver          describe
+development          dialect          dictate
+diction          dictum          disclose
+distich          division          embody in words
+emit          enunciate          epigram
+exclamation          exposition          express
+expression          fascicle          figure
+fling off          folderol          folio
+formularize          formulate          formulation
+frame          front matter          gathering
+give          give expression          give expression to
+give out with          give tongue          give utterance
+give voice          give words to          glosseme
+gnome          golden saying          grammar
+greeting          harmonic close          icon
+idiom          impart          installment
+interjection          interlude          intermezzo
+introductory phrase          language          leitmotiv
+let out          lexeme          lexical form
+lip          livraison          locution
+manner of speaking          maxim          measure
+mention          moral          morpheme
+mot          motif          motive
+motto          movement          musical phrase
+musical sentence          note          noun phrase
+number          observation          oracle
+ornament          out with          page
+paragraph          parlance          part
+passage          period          phonate
+phraseology          phrasing          pithy saying
+platitude          position          pour forth
+precept          prescript          present
+pronounce          pronouncement          proverb
+proverbial saying          proverbs          put
+put forth          put in words          question
+raise          reflection          refrain
+remark          resolution          response
+rhetoric          rhetorize          ritornello
+saw          say          saying
+section          semasiological unit          sememe
+sentence          sententious expression          serial
+set forth          set out          sheet
+sign          signature          signifiant
+significant          slogan          sloka
+sound          speech          stanza
+state          statement          stock saying
+strain          style          subject
+subjoinder          sutra          symbol
+syntax          tailpiece          talk
+teaching          tell          term
+text          theme          thought
+throw off          token          tutti
+tutti passage          type          usage
+use of words          usus loquendi          utter
+utterance          variation          verb phrase
+verbalize          verbiage          verse
+vocabulary          vocalize          voice
+volume          way of speaking          whisper
+wisdom          wisdom literature          wise saying
+witticism          word          word-group
+wordage          wording          words of wisdom
+write          ------------
+
+phraseology          argot
+cant          choice of words          composition
+dialect          diction          expression
+formulation          gibberish          gobbledygook
+grammar          idiom          jargon
+language          langue          lexicon
+lexis          lingo          lingua
+locution          mumbo jumbo          parlance
+parole          patois          patter
+personal usage          phrase          phrasing
+rhetoric          scatology          slang
+speech          stock of words          taboo language
+talk          thesaurus          tongue
+usage          use of words          usus loquendi
+verbalism          verbiage          vernacular
+vocabulary          vulgar language          wordage
+wordhoard          wording          words
+------------
+
+phrasing          adaptation          arrangement
+choice of words          composition          dialect
+diction          expression          formulation
+grammar          harmonization          idiom
+instrumentation          intonation          language
+locution          modulation          orchestration
+parlance          phrase          phraseology
+preparation          resolution          rhetoric
+setting          solution          speech
+suspension          talk          tone painting
+transcription          usage          use of words
+usus loquendi          verbalism          verbiage
+wordage          wording          ------------
+
+prattle
+absurdity          accents          amphigory
+babble          babblement          babbling
+balderdash          bavardage          be closeted with
+bibble-babble          blab          blabber
+blah-blah          blather          blathering
+blether          blethers          blither
+bombast          bull          bullshit
+bunk          bunkum          cackle
+caquet          caqueterie          chat
+chatter          chattering          chitter-chatter
+clack          claptrap          clatter
+comment          conversation          coze
+crap          discourse          dither
+double-talk          drivel          drool
+elocution          fiddle-faddle          fiddledeedee
+flapdoodle          flummery          folderol
+foolishness          fudge          fustian
+gab          gabber          gabble
+gabbling          galimatias          gam
+gammon          garbage          gas
+gibber          gibbering          gibberish
+gibble-gabble          go on          gobbledygook
+going on          gossip          guff
+gush          haver          hocus-pocus
+hogwash          hooey          hot air
+humbug          idle talk          jabber
+jabbering          jabberwocky          jargon
+jaw          jawing          language
+make conversation          maunder          maundering
+mere talk          moonshine          mumbo jumbo
+mumbo-jumbo          narrishkeit          natter
+niaiserie          nonsense          nonsense talk
+oral communication          pack of nonsense          palaver
+palavering          parole          patter
+piffle          poppycock          pour forth
+prate          prating          prittle-prattle
+ramble on          rant          rapping
+rattle          rattle on          reel off
+rigamarole          rigmarole          rodomontade
+rot          rubbish          run on
+skimble-skamble          speaking          speech
+spout          spout off          stuff and nonsense
+stultiloquence          swill          talk
+talk away          talk nonsense          talk on
+talkee-talkee          talking          tattle
+tete-a-tete          tittle-tattle          trash
+trumpery          twaddle          twattle
+twiddle-twaddle          twitter          vapor
+vaporing          visit          waffle
+waffling          words          yak
+yakkety-yak          yakking          ------------
+
+print
+Ditto copy          Photostat          Xerox
+Xerox copy          abstract          abstraction
+altarpiece          alveolation          alveolus
+aquatint          ascender          autolithograph
+back          backlash          backwash
+bastard type          be a printmaker          beard
+bed          belly          bevel
+black and white          black letter          blaze
+blaze a trail          blemish          block
+block print          blotch          blow up
+blowup          blueprint          body
+boss          brand          bring out
+bump          cap          capital
+carve          case          catch a likeness
+chalk          chalk up          character
+characterize          chart          check
+check off          chisel          choice of words
+chromolithograph          cicatrize          clout
+collage          colophon          color print
+concavity          confirm          contact print
+contact printing          convexity          copperplate
+copperplate print          copy          counter
+crayon engraving          crease          cribble
+crosshatch          cut          cyanotype
+cyclorama          dactylogram          dactylograph
+dapple          dash          daub
+deep-dye          define          delimit
+delineate          demarcate          dent
+descender          develop          diagram
+dimple          dint          diptych
+discolor          dot          draw
+em          embed          embossment
+en          enchase          engraft
+engrave          engravement          engraving
+enlarge          enlargement          entrench
+establish          etch          etching
+excrescence          face          facsimile
+fat-faced type          fix          fleck
+font          footmark          footprint
+footstep          force          fossil footprint
+found          freckle          fresco
+furrow          gash          get out
+glossy          gouge          graphotype
+grave          groove          ground
+hatch          hectograph          hectograph copy
+hit off          hologram          honeycomb
+ichnite          ichnolite          icon
+illumination          illustration          image
+impact          implant          impress
+impression          imprint          incise
+indent          indentation          indention
+indenture          infix          ingrain
+inscribe          issue          italic
+jam          language          lantern slide
+letter          letterpress          ligature
+likeness          limn          line
+linoleum-block print          lithograph          lodge
+logotype          lower case          lump
+mackle          majuscule          make a mark
+make prints          map          mark
+mark off          mark out          matte
+mezzotint          microcopy          microprint
+mimeograph          mimeograph copy          miniature
+minuscule          montage          mosaic
+mottle          multigraph          mural
+negative          nick          notate
+notch          offcut          offprint
+offset          overprint          pack
+pad          paint          panorama
+paw print          pawmark          pencil
+pepper          photo          photocopy
+photograph          photogravure          photostatic copy
+phrasing          pi          pic
+pica          picture          picturize
+pimple          pit          pix
+plant          pock          pockmark
+point          portray          positive
+prick          printed matter          process
+projection printing          proof          prove
+publish          pug          pugmark
+pull          pull a proof          punch
+punctuate          puncture          put out
+put to bed          put to press          reaction
+recoil          reflex          register
+reissue          render          repercussion
+replica          represent          representation
+reprint          reproduction          response
+riddle          roman          root
+rotogravure          rub          rubber-block print
+run          run off          sans serif
+scar          scarify          schematize
+score          scotch          scrape
+scratch          script          sculpture
+seal          seam          seat
+semi-matte          set          set in
+setoff          settle          shank
+shoulder          sigil          signet
+slide          small cap          small capital
+speck          speckle          splotch
+spot          stain          stained glass window
+stamp          stat          steel
+stem          stencil          step
+stereotype          stigmatize          still life
+stipple          streak          striate
+strike          stripe          stud
+sunken part          symbolize          tableau
+take a rubbing          tapestry          tattoo
+text          thumbmark          thumbprint
+tick          tick off          tool
+trace          trace out          trace over
+transparency          triptych          type
+type body          type class          type lice
+typecase          typeface          typefounders
+typefoundry          underline          underscore
+upper case          vestige          vignette
+wall painting          wedge          wood engraving
+woodblock          woodcut          woodprint
+wording          write          writing
+xylograph          ------------
+
+prose          banality
+bromide          causerie          chat
+chestnut          chin          cliche
+commonplace          commonplace expression          corn
+expository writing          familiar tune          hackneyed saying
+in prose          language          lieu commun
+locus communis          matter of fact          matter-of-fact
+matter-of-factness          nonmetrical          nonpoetic
+old joke          old saw          old song
+old story          plain          plainness
+platitude          platitudinize          prosaic
+prosaicism          prosaicness          prosaism
+prosiness          prosing          prosy
+rap          reiteration          retold story
+stereotyped saying          talk          text
+trite saying          triticism          twice-told tale
+unimaginative          unimaginativeness          unimpassioned
+unversified          write prose          yarn
+------------
+
+rapping          accents          banging
+blasting          bursting          chatter
+colloquial discourse          colloquy          comment
+communication          communion          conversation
+converse          conversing          cracking
+crashing          discourse          elocution
+exchange          exploding          explosive
+flapping          gab          give-and-take
+intercourse          interlocution          knocking
+language          oral communication          palaver
+parole          popping          prattle
+slapping          slatting          speaking
+speech          talk          talking
+tapping          verbal intercourse          words
+yakkety-yak          yakking          ------------
+
+rhetoric
+Barnumism          affectation          articulateness
+bedizenment          big talk          bluster
+bombast          choice of words          command of language
+command of words          composition          convolution
+debating          declamation          demagogism
+dialect          diction          effective style
+elocution          eloquence          eloquent tongue
+exaggeration          expression          expression of ideas
+expressiveness          facundity          fashion
+feeling for words          felicitousness          felicity
+flashiness          flatulence          flatulency
+forensics          form of speech          formulation
+fulsomeness          fustian          garishness
+gasconade          gaudiness          gift of expression
+gift of gab          glibness          grace of expression
+grammar          grandiloquence          grandioseness
+grandiosity          graphicness          high-flown diction
+highfalutin          homiletics          hot air
+idiom          inflatedness          inflation
+language          lecturing          lexiphanicism
+literary style          locution          loftiness
+long-windedness          luridness          magniloquence
+manner          manner of speaking          mannerism
+meaningfulness          mere rhetoric          meretriciousness
+mode          mode of expression          oratory
+orotundity          ostentation          ostentatious complexity
+parlance          peculiarity          personal style
+phrase          phraseology          phrasing
+platform oratory          platitudinous ponderosity          polysyllabic profundity
+pomposity          pompous prolixity          pompousness
+pontification          pretension          pretentiousness
+prolixity          prose run mad          public speaking
+puffery          pyrotechnics          rabble-rousing
+rant          rhapsody          rhetoricalness
+rodomontade          sensationalism          sense of language
+sententiousness          sesquipedality          showiness
+silver tongue          slickness          smoothness
+speaking          speech          speechcraft
+speechification          speeching          speechmaking
+stiltedness          strain          stump speaking
+style          stylistic analysis          stylistics
+swelling utterance          swollen phrase          swollenness
+talk          tall talk          the grand style
+the plain style          the sublime          tortuosity
+tortuousness          trick          tumidity
+tumidness          turgescence          turgidity
+usage          use of words          usus loquendi
+vein          verbiage          verbosity
+vividness          way          windiness
+wordage          wordcraft          wordiness
+wording          ------------
+
+speaking          ESP
+accents          answer          articulate
+breathing          chatter          comment
+commerce          communication          communion
+congress          connection          contact
+conversation          converse          correspondence
+dealing          dealings          debating
+declamation          demagogism          discourse
+elocution          eloquence          eloquent
+exchange          faithful          forensics
+free-speaking          free-spoken          gab
+homiletics          information          interaction
+interchange          intercommunication          intercommunion
+intercourse          interplay          language
+lecturing          lifelike          linguistic act
+linguistic intercourse          living          locution
+loud-speaking          loud-spoken          message
+natural          oral communication          oratory
+outspoken          palaver          parol
+parole          phonation          plain-speaking
+plain-spoken          platform oratory          prattle
+public speaking          pyrotechnics          rabble-rousing
+rapping          realistic          reply
+response          rhetoric          sequence of phonemes
+social intercourse          soft-speaking          soft-spoken
+speech          speech act          speech circuit
+speech situation          speechcraft          speechification
+speeching          speechmaking          string
+stump speaking          talk          talkative
+talking          telepathy          the spoken word
+to the life          tongue          touch
+traffic          truck          true to life
+true to nature          true-speaking          two-way communication
+utterance          utterance string          verbalization
+vocable          voice          well-spoken
+word          word of mouth          wordcraft
+words          yakkety-yak          yakking
+------------
+
+speech          ESP          address
+after-dinner speech          alliteration          allocution
+allusion          anacoluthon          anadiplosis
+analogy          anaphora          anastrophe
+answer          answering          antiphrasis
+antithesis          antonomasia          apophasis
+aporia          aposiopesis          apostrophe
+articulated          articulation          blast
+bull session          catachresis          chalk talk
+chiasmus          chinfest          choice of words
+circumlocution          climax          commerce
+communicating          communication          communicational
+communion          communional          composition
+confab          confabulation          congress
+connection          contact          conversation
+conversational          converse          conversion
+correspondence          dealing          dealings
+debate          declamation          dialect
+dialogue          diatribe          diction
+discourse          disquisition          duologue
+ecphonesis          elocution          emphasis
+enunciated          enunciation          eulogy
+exchange          exclamation          exhortation
+expression          filibuster          forensic
+forensic address          formal speech          formulation
+funeral oration          gemination          grammar
+harangue          homily          hortatory address
+hypallage          hyperbaton          hyperbole
+idiom          inaugural          inaugural address
+information          interacting          interaction
+interactional          interactive          interchange
+intercommunication          intercommunicational          intercommunicative
+intercommunion          intercommunional          intercourse
+interplay          interresponsive          interrogative
+interrogatory          invective          inversion
+irony          jargon          jeremiad
+language          langue          lecture
+line          lingo          lingua
+lingual          linguistic          linguistic intercourse
+litotes          locution          malapropism
+meiosis          message          metaphor
+metonymy          nuncupative          onomatopoeia
+oral          oral communication          oration
+oxymoron          palaver          paregmenon
+parenthesis          parlance          parley
+parol          parole          pep talk
+periphrasis          peroration          personal usage
+personification          philippic          phrase
+phraseology          phrasing          pitch
+pleonasm          prepared speech          prepared text
+preterition          prolepsis          pronounced
+public speech          question-and-answer session          questioning
+reading          recital          recitation
+regression          repetition          reply
+response          responsive          rhetoric
+said          sales pitch          sales talk
+salutatory          salutatory address          sarcasm
+say          screed          sermon
+set speech          simile          similitude
+social intercourse          song and dance          sounded
+speaking          speech circuit          speech situation
+speechification          speeching          spiel
+spoken          spoonerism          syllepsis
+symploce          synecdoche          talk
+talkathon          talkfest          talking
+telepathic          telepathy          tirade
+tongue          touch          traffic
+transmissional          trialogue          truck
+two-way communication          unwritten          usage
+use of words          usus loquendi          utterance
+uttered          valediction          valedictory
+valedictory address          verbal          verbalization
+verbiage          vernacular          viva voce
+vocal          vocalization          vocalized
+voice          voiced          voiceful
+voicing          wordage          wording
+words          zeugma          ------------
+
+style
+Bauhaus          Byzantine          Corinthian
+Dadaism          Doric          Egyptian
+English          Fauvism          French
+German          Gothic          Gothicism
+Greco-Roman          Greek          Greek Revival
+Ionic          Italian          MO
+Moorish          Persian          Platonic form
+Platonic idea          Renaissance          Roman
+Romanesque          Spanish          Tuscan
+ability          abstract expressionism          abstractionism
+academic          action          action painting
+actions          activity          acts
+address          adeptness          adroitness
+aesthetic form          affectation          affinity
+air          airmanship          algorithm
+androecium          angle          anther
+apparel          appellation          appellative
+approach          archetype          area
+arrange          array          art form
+art nouveau          artfulness          artisanship
+artistry          aspect          attack
+attire          background          background detail
+bag          baptize          baroque
+bearing          bedizenment          behavior
+behavior pattern          behavioral norm          behavioral science
+bent          bias          bilge
+binomen          binomial name          blain
+bleb          blister          blob
+blood          bon ton          boss
+bow          brand          bravura
+breed          brilliance          bubble
+build          bulb          bulge
+bulla          bump          bunch
+burin          burl          button
+byword          cachet          cahot
+call          calyx          capability
+capacity          carpel          carriage
+cast          category          character
+characteristic          characterize          chic
+chine          chosen kind          christen
+clan          classicalism          classicism
+cleverness          cloisonnism          clothes
+clothing          clump          cognomen
+color          coloring          comfort
+command          command of language          competence
+complexion          comportment          conceive
+conceptual art          conduct          condyle
+configuration          conformation          constructivism
+control          convention          conventionalism
+convex          coordination          corolla
+corolla tube          corona          cosmopolitanism
+costume          couch          couch in terms
+course          craft          craftsmanship
+craze          cryptonym          cubism
+culture pattern          cunning          cup of tea
+custom          cut          dash
+decorative composition          decorative style          define
+deftness          demeanor          denominate
+denomination          deportment          description
+design          designate          designation
+detail          dexterity          dexterousness
+dextrousness          diction          die
+diplomacy          do          doing
+doings          dowel          drapery
+dress          dressing          druthers
+dub          duds          ear
+early renaissance          earth art          effect
+efficiency          eidolon          elan
+elegance          elementarism          embody in words
+empty title          engraving tool          entitle
+epicalyx          epithet          eponym
+etching ball          etching ground          etching needle
+etching point          euonym          exaggeration
+existentialism          expertise          express
+expression of ideas          expressionism          facet
+facility          fad          fancy
+fashion          fashionableness          fatigues
+favor          feather          feathers
+feature          feeling for words          field
+fig          figuration          figure
+finesse          flair          flange
+flap          foil          folkway
+foreground detail          form          form of speech
+format          formation          formularize
+formulate          forte          frame
+free abstraction          futurism          gall
+garb          garments          gear
+genre          genus          gestalt
+gestures          give expression to          give words to
+gnarl          goings-on          grace
+grace of expression          grain          grandiloquence
+graver          grip          guise
+gynoecium          habiliment          habit
+hallucinatory painting          handiness          handle
+haute couture          high fashion          hill
+honorific          horsemanship          hump
+hunch          hyponym          idealism
+identify          idiosyncrasy          ilk
+image          imago          impression
+impressionism          in style          inclination
+inflation          ingeniousness          ingenuity
+inner form          intaglio          international
+intimism          intuitionism          investiture
+investment          jog          joggle
+kidney          kin          kind
+kinetic art          knob          knot
+know-how          knur          knurl
+label          language          latest thing
+layout          leaning          light
+likeness          line          line of action
+lineaments          linear chromatism          linen
+lines          lip          literary style
+long suit          look          loop
+lot          lump          luxury
+main interest          maintien          make
+makeup          manner          manner of speaking
+manner of working          mannerism          manners
+mark          marksmanship          mastership
+mastery          matrix          matter painting
+means          medieval          megasporophyll
+method          methodology          methods
+metier          microsporophyll          mien
+minimal art          modality          mode
+mode of expression          mode of operation          mode of procedure
+model          modern          modernism
+modus operandi          modus vivendi          mold
+mole          moniker          mood
+motif          motions          mountain
+movement          movements          moves
+mysticism          name          namesake
+national style          naturalism          nature
+needle          neoclassicism          neoconcrete art
+neoconstructivism          nevus          nickname
+nomen          nomen nudum          nominate
+nonobjectivism          nuagism          nub
+nubbin          nubble          number
+observable behavior          op art          opulence
+order          ornamental motif          panache
+papilloma          paragraph          partiality
+particular choice          pattern          peculiarity
+peg          pencil          perianth
+period          period style          personal choice
+personal style          persuasion          pet subject
+petal          phase          phasis
+photomontage          phrase          phraseology
+phrasing          phylum          pistil
+poetic realism          poetic tachism          point
+pointillism          poise          polish
+port          pose          postexpressionism
+posture          practical ability          practice
+praxis          predilection          predisposition
+preference          preimpressionism          prejudice
+prepossession          presence          present
+prevailing taste          primitivism          procedure
+proceeding          process          proclivity
+proficiency          proper name          proper noun
+proper thing          prototype          prowess
+punch          purism          pursuit
+put          put in words          quality
+quickness          quietistic painting          race
+rage          rags          raiment
+readiness          realism          receptacle
+reference          refinement          regard
+repeated figure          representationalism          representationism
+resource          resourcefulness          respect
+rhetoric          rhetorize          rib
+ridge          ring          ritziness
+robes          rocker          romanticism
+routine          savoir-faire          savvy
+school          scientific name          scorper
+seal          seamanship          secret name
+seeming          semblance          sense of language
+set          set out          setting
+shape          shoulder          side
+significant form          simulacrum          skill
+skillfulness          slant          smartness
+social science          sophistication          sort
+specialism          speciality          specialization
+specialty          species          specify
+spine          spirit          splendor
+sportswear          stamen          stamp
+state          stigma          strain
+stream of fashion          stripe          strong point
+structure          stud          stylish
+stylishness          stylistic analysis          stylistics
+suprematism          surrealism          swim
+symbolism          synchromism          synthesism
+system          tab          tachism
+tack          tact          tactfulness
+tactics          tag          tailor
+taste          tastefulness          tautonym
+technical brilliance          technical mastery          technical skill
+technicality          technique          tendency
+tenor          term          the drill
+the grand style          the how          the like of
+the likes of          the plain style          the sublime
+the way of          theme          thing
+threads          timing          title
+togs          toilette          tone
+torus          total effect          touch
+traditionalism          trait          treatment
+trend          tribe          trick
+trim          trinomen          trinomial name
+tubercle          tubercule          turn
+twig          twist          type
+unism          variety          vein
+verruca          vesicle          vestment
+vesture          view          viewpoint
+virtuosity          vocabulary          vocation
+vogue          vorticism          wale
+wart          way          way of life
+ways          weakness          wear
+wearing apparel          welt          wise
+wit          wizardry          word
+wording          workmanship          ------------
+
+talk
+accent          accents          address
+advertise          after-dinner speech          air
+allocution          analyze          argot
+assignment          babble          back-fence gossip
+balderdash          balls          ballyhoo
+bat the breeze          be in connection          be in contact
+be indiscreet          be unguarded          belittle
+betray          betray a confidence          blab
+blabber          blather          blether
+blurt          blurt out          bluster
+boast          bosh          brag
+bring round          bruit          bull
+bull session          bullshit          bunk
+bunkum          buzz          cackle
+canard          cant          canvass
+causerie          chalk talk          chat
+chatter          chin          chinfest
+chitchat          choice of words          clack
+claptrap          clatter          colloque
+colloquialize          colloquy          come clean
+comment          comment upon          commerce with
+common talk          commune with          communicate
+communicate with          composition          confab
+confabulate          confabulation          confer
+conference          confess          consider
+consult          consultation          controvert
+conversation          converse          converse with
+convince          crap          criticize
+crow          cry          deal with
+debate          declaim          declamation
+deliberate          deliberate upon          deliberation
+deliver an address          denigrate          deprecate
+depreciate          dialect          dialogue
+diatribe          diction          diminish
+discourse          discourse about          discuss
+discussion          disparage          disquisition
+dissertation          dither          dope
+duologue          elocution          eulogy
+exaggerate          examine          exchange
+exchange views          exercise          exhortation
+exposition          expression          filibuster
+flap          flying rumor          forensic
+forensic address          formal speech          formulation
+funeral oration          gab          gabble
+gas          gibber          gibble-gabble
+give a talk          give away          go into
+go on          gossip          gossiping
+gossipmongering          gossipry          grammar
+grapevine          grass          groundless rumor
+gush          handle          harangue
+have dealings with          have intercourse          have truck with
+haver          hearsay          hogwash
+hokum          hold communication          homework
+homily          hooey          hortatory address
+hot air          hype          idea afloat
+idiom          idle talk          inaugural
+inaugural address          info          inform
+inform on          information          instruction
+interchange          intercommunicate          invective
+investigate          jabber          jargon
+jargonize          jaw          jeremiad
+knock          knock around          language
+langue          latrine rumor          leak
+lecture          lecture-demonstration          lesson
+let drop          let fall          let slip
+lingo          lingua          locution
+malarkey          manner of speaking          meeting
+minimize          moral          moral lesson
+morality          moralization          mouth
+natter          negotiation          news
+news stirring          newsmongering          nonsense
+object lesson          on-dit          oral communication
+oration          palaver          pan
+parlance          parley          parole
+pass under review          patois          patronize
+patter          peach          pep talk
+peroration          personal usage          persuade
+philippic          phrase          phraseology
+phrasing          piece of gossip          piffle
+pitch          platform          plug
+poppycock          pour forth          powwow
+prate          prattle          prattling
+preachment          prepared speech          prepared text
+presentation          promote          prose
+public speech          publicize          push
+put down          question-and-answer session          ramble on
+rap          rap session          rapping
+rat          rattle          rattle on
+reading          reason          reason about
+reason the point          recital          recitation
+reel off          report          retail gossip
+reveal a secret          review          rhetoric
+roorback          rubbish          rumble
+rumor          run on          sales talk
+salutatory          salutatory address          say
+screed          scuttlebutt          sermon
+set speech          set task          shoot the breeze
+sift          sing          skull session
+soapbox          speak          speak to
+speak with          speaking          speech
+speechification          speechify          speeching
+spiel          spill          spill the beans
+sponsor          spout          spout off
+squeal          stool          story
+study          stuff and nonsense          stump
+support          sway          take the floor
+take the stump          take up          tale
+talebearing          taletelling          talk about
+talk away          talk big          talk down
+talk into          talk nonsense          talk of
+talk on          talk over          talkathon
+talkfest          talking          task
+tattle          tattle on          teaching
+tell idle tales          tell on          tell secrets
+tell tales          tete-a-tete          thresh out
+tirade          tittle-tattle          tongue
+town talk          traffic with          treat
+trialogue          tripe          twaddle
+twattle          unconfirmed report          usage
+use          use language          use of words
+usus loquendi          utter          utterance
+valediction          valedictory          valedictory address
+vaunt          ventilate          verbalization
+verbalize          verbiage          visit
+vocalize          voice          waffle
+wag the tongue          way of speaking          whisper
+wordage          wording          words
+yak          yakkety-yak          yakking
+yam          yarn          ------------
+
+talking
+ESP          accents          answer
+articulate          chatter          comment
+commerce          communication          communion
+congress          connection          contact
+conversation          converse          correspondence
+dealing          dealings          discourse
+elocution          eloquent          exchange
+free-speaking          free-spoken          gab
+information          interaction          interchange
+intercommunication          intercommunion          intercourse
+interplay          language          linguistic intercourse
+loud-speaking          loud-spoken          message
+oral communication          outspoken          palaver
+parole          plain-speaking          plain-spoken
+prattle          rapping          reply
+response          social intercourse          soft-speaking
+soft-spoken          speaking          speech
+speech circuit          speech situation          talk
+talkative          telepathy          touch
+traffic          truck          true-speaking
+two-way communication          well-spoken          words
+yakkety-yak          yakking          ------------
+
+terminology
+antonomasia          argot          binomial nomenclature
+biosystematics          biosystematy          cant
+class          classification          dictionary
+family          gazetteer          genus
+gibberish          glossary          glossology
+gobbledygook          gradus          jargon
+kingdom          language          lexicon
+lingo          locutions          nomenclator
+nomenclature          onomastics          onomatology
+order          orismology          palaver
+phraseology          phrasing          phylum
+place-names          place-naming          polyonymy
+promptorium          shoptalk          species
+systematics          taxonomy          terms
+thesaurus          toponymy          trinomialism
+vocabulary          word list          wording
+words          ------------
+
+tongue          Maypole
+abatis          aftertaste          alveolar ridge
+alveolus          apex          argot
+articulation          arytenoid cartilages          back
+bagpipe          bar          baste
+bell          berate          bill
+bitter          blade          blow
+blow a horn          blunder          boob
+brains          breakwater          bugle
+cape          carillon          carpet
+chersonese          chew out          chimes
+chitterlings          church bell          clapper
+clarion          cockscomb          coral reef
+cowbell          delta          dialect
+dinner bell          dinner gong          doodle
+doorbell          dorsum          double-tongue
+facetiously          faux pas          fife
+fire bell          flagstaff          flavor
+flute          foreland          gaffe
+giblets          gizzard          gong
+gong bell          gust          hand bell
+hard palate          haslet          head
+headland          heart          hook
+idiom          in fun          in jest
+jaw          jestingly          jingle bell
+jocularly          jokingly          keep mum
+kidneys          language          langue
+lap          larynx          lick
+lingo          lingua          linguistic act
+lip          lips          liver
+locution          marrow          mistake
+mouth          mull          nasal cavity
+naze          ness          oral cavity
+palate          parlance          parol
+parole          passing bell          patois
+peninsula          personal usage          pharyngeal cavity
+pharynx          phonation          phraseology
+pipe          point          pole
+promontory          rail          rate
+reef          relish          rod
+sacring bell          salt          sandspit
+sapidity          sapor          savor
+savoriness          say nothing          scape
+sequence of phonemes          shaft          sheepbell
+shut up          sleigh bell          slip
+smack          soft palate          sound
+sour          speaking          speech
+speech act          speech organ          spit
+spur          stalk          stem
+stick          stomach          string
+sweet          sweetbread          syrinx
+talk          tang          taste
+taste bud          teeth          teeth ridge
+telephone bell          the spoken word          tintinnabulum
+tip          toot          tooth
+tootle          totem pole          triangle
+tripe          triple-tongue          trumpet
+tweedle          upbraid          usage
+utterance          utterance string          velum
+vernacular          vocable          vocal chink
+vocal cords          vocal folds          vocal processes
+voice          voice box          whimsically
+whistle          wind          wind the horn
+word          word of mouth          ------------
+
+usage
+acceptance          acceptation          acception
+active use          adjectival phrase          antonym
+appliance          application          articulation
+automatism          bad habit          bon ton
+care          ceremony          characteristic
+choice          choice of words          clause
+composition          conformity          construction
+consuetude          consumption          convenance
+convention          creature of habit          custodianship
+custom          dialect          diction
+employ          employment          established way
+etiquette          exercise          exertion
+expression          fashion          folkway
+force of habit          form          formality
+formulation          free form          good use
+grammar          guidance          guiding
+habit          habit pattern          habitude
+handling          hard usage          hard use
+headed group          homograph          homonym
+homophone          idiom          idiotism
+ill use          language          langue
+lead          lexeme          lingo
+lingua          linguistic form          locution
+logos          management          manipulation
+manner          manner of speaking          manners
+means of dealing          metonym          minimum free form
+misuse          monosyllable          mores
+noun phrase          observance          operation
+paragraph          parlance          parole
+pattern          peculiar expression          peculiarity
+period          personal usage          phrasal idiom
+phrase          phraseology          phrasing
+polysyllable          practice          praxis
+preference          prescription          procedure
+proceeding          process          proper thing
+received meaning          rhetoric          ritual
+rough usage          routine          second nature
+sentence          set phrase          social convention
+speech          standard behavior          standard phrase
+standard usage          standing custom          stereotype
+stereotyped behavior          stewardship          syllable
+synonym          syntactic structure          talk
+term          time-honored practice          tongue
+tradition          treatment          trick
+turn of expression          turn of phrase          use
+use of words          using up          usus loquendi
+utterance          verb complex          verb phrase
+verbalism          verbiage          verbum
+vocable          way          way of speaking
+what is done          wont          wonting
+word          word-group          wordage
+wording          wrong use          ------------
+
+verbiage
+choice of words          circumambages          circumbendibus
+circumlocution          cloud of words          composition
+dialect          diction          expansiveness
+expression          floridity          floridness
+flow of words          flux of words          formulation
+grammar          idiom          language
+lexicon          lexis          locution
+logorrhea          long-windedness          longiloquence
+nimiety          parlance          periphrase
+periphrasis          phrase          phraseology
+phrasing          pleonasm          prolixity
+redundancy          repetition          rhetoric
+roundabout          speech          stock of words
+talk          talkativeness          tautology
+thesaurus          usage          use of words
+usus loquendi          verbalism          verbality
+verbosity          vocabulary          wordage
+wordhoard          wordiness          wording
+words          ------------
+
+vernacular          Babbittish
+Philistine          aboriginal          accustomed
+ancient language          argot          austerity
+autochthonous          average          baldness
+bareness          bourgeois          campy
+candor          cant          classical language
+colloquial          colloquial speech          colloquial usage
+colloquialism          common          common speech
+commonplace          confined          conventional
+conversational          conversationalism          current
+customary          dead language          directness
+easy          endemic          everyday
+familiar          frankness          general
+geographically limited          gibberish          gobbledygook
+habitual          high-camp          homebred
+homegrown          homely          homespun
+household          household words          idiom
+illiterate speech          indigenous          informal
+informal English          informal language          informal speech
+insular          jargon          kitschy
+language          leanness          limited
+lingo          living language          local
+localized          low-camp          matter-of-factness
+mother tongue          mumbo jumbo          natal
+native          native language          native speech
+native tongue          native-born          naturalness
+nonstandard          normative          of a place
+openness          ordinary          original
+parent language          parochial          patois
+patter          phraseology          plain
+plain English          plain speaking          plain speech
+plain style          plain words          plainness
+plebeian          pop          popular
+predominating          prescriptive          prevailing
+primitive          prosaicness          prosiness
+provincial          public          regional
+regular          regulation          restrainedness
+rustic style          scatology          severity
+simple          simpleness          simplicity
+slang          soberness          spareness
+speech          spoken          spoken language
+standard          starkness          stock
+straightforward          straightforwardness          substandard
+substandard language          taboo language          talk
+topical          unadorned style          unadornedness
+unaffectedness          uneducated          unimaginativeness
+universal          unliterary          unpoeticalness
+unstudied          usual          vernacularism
+vocabulary          vulgar          vulgar language
+vulgar tongue          vulgate          wonted
+------------
+
+vocabulary          argot          biographical dictionary
+cant          chemical dictionary          desk dictionary
+dialect dictionary          dictionary          dictionary of quotations
+electronics dictionary          etymological dictionary          foreign-language dictionary
+gazetteer          general dictionary          geological dictionary
+gibberish          gloss          glossary
+gobbledygook          gradus          jargon
+language          lexicon          lexis
+lingo          mumbo jumbo          nomenclator
+onomasticon          palaver          patois
+patter          phrase book          phraseology
+polyglot dictionary          promptorium          rhyming dictionary
+scatology          science dictionary          slang
+slang dictionary          specialized dictionary          stock of words
+synonym dictionary          synonymy          taboo language
+terminology          thesaurus          treasury of words
+unabridged dictionary          verbal          verbiage
+vernacular          vocabular          vulgar language
+word list          wordage          wordbook
+wordhoard          words          ------------
+
+wordage
+choice of words          composition          dialect
+diction          expression          formulation
+grammar          idiom          language
+lexicon          lexis          locution
+parlance          phrase          phraseology
+phrasing          rhetoric          speech
+stock of words          talk          thesaurus
+usage          use of words          usus loquendi
+verbalism          verbiage          vocabulary
+wordhoard          wording          words
+------------
+
+wording          choice of words          composition
+dialect          diction          expression
+formulation          grammar          idiom
+language          locution          mode
+parlance          phrase          phraseology
+phrasing          rhetoric          speech
+style          talk          usage
+use of words          usus loquendi          verbalism
+verbiage          wordage          

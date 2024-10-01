@@ -1,0 +1,1683 @@
+------------
+
+area          abode          academic discipline
+academic specialty          acreage          airspace
+amplitude          applied science          arena
+arrondissement          art          bag
+bailiwick          bearings          beat
+belt          bench mark          bigness
+block          body          breadth
+bulk          caliber          circuit
+classical education          close          compass
+concern          confines          continental shelf
+continuum          core curriculum          corridor
+country          course          course of study
+court          courtyard          coverage
+cup of tea          curriculum          demesne
+department          department of knowledge          depth
+diameter          dimension          dimensions
+discipline          district          division
+domain          elective          emplacement
+emptiness          empty space          enclosure
+environs          expanse          expansion
+extension          extent          field
+field of inquiry          field of study          forte
+galactic space          gauge          general education
+general studies          girth          greatness
+ground          heartland          height
+hinterland          hole          humanities
+infinite space          interstellar space          land
+largeness          latitude and longitude          length
+liberal arts          lieu          limit
+line          locale          locality
+location          locus          long suit
+lot          magnitude          main interest
+major          manner          mass
+measure          measurement          metier
+milieu          minor          natural science
+neighborhood          nothingness          offshore rights
+ology          orb          orbit
+outer space          parade          part
+parts          pet subject          pinpoint
+place          placement          plot
+point          position          precinct
+precincts          premises          proportion
+proportions          proseminar          province
+pure science          purlieus          pursuit
+quadrivium          quarter          radius
+range          reach          realm
+refresher course          region          room
+round          salient          scale
+science          scientific education          scope
+section          seminar          site
+situation          situs          size
+social science          soil          space
+spatial extension          specialism          speciality
+specialization          specialty          sphere
+spot          spread          square
+stead          stretch          strong point
+study          style          subdiscipline
+subject          superficial extension          surface
+technical education          technicality          technicology
+technics          technology          terrain
+territory          thing          three-mile limit
+tract          trivium          twelve-mile limit
+type          vicinage          vicinity
+vocation          void          volume
+walk          way          weakness
+whereabout          whereabouts          width
+yard          zone          ------------
+
+arena
+academic discipline          academic specialty          ambit
+amphitheater          applied science          area
+art          assembly hall          auditorium
+back          backdrop          background
+bailiwick          beat          border
+borderland          chapel          cincture
+circle          circuit          circus
+close          concern          concert hall
+confine          container          convention hall
+coop          court          courtyard
+curtilage          dance hall          delimited field
+demesne          department          department of knowledge
+discipline          distance          domain
+dominion          enclave          enclosure
+exhibition hall          field          field of inquiry
+field of study          fold          gallery
+ground          hall          hemisphere
+hinterland          judicial circuit          jurisdiction
+lecture hall          list          locale
+march          meetinghouse          mise-en-scene
+music hall          natural science          ology
+opera house          orb          orbit
+pale          paling          park
+pen          precinct          province
+pure science          quad          quadrangle
+realm          rear          ring
+round          scene          science
+setting          social science          specialty
+sphere          square          stadium
+stage          stage set          stage setting
+study          technicology          technics
+technology          theater          toft
+walk          yard          ------------
+
+art
+American          Art Nouveau          Ashcan school
+Barbizon          Bauhaus          Bolognese
+British          Cobra          Dadaism
+Dutch          Fauvism          Flemish
+Fontainebleau          French          Gothicism
+Italian          Italian hand          Mannerist
+Milanese          Modenese          Momentum
+Neapolitan          New York          Paduan
+Parisian          Phases          Pre-Raphaelite
+Raphaelite          Reflex          Restany
+Roman          Scottish          Sienese
+Spur          Suprematism          The Ten
+Tuscan          Umbrian          Venetian
+Washington          abstract expressionism          abstractionism
+academic discipline          academic specialty          action painting
+acuteness          address          adroitness
+alphabet          applied science          area
+arena          art nouveau          art schools
+artful dodge          artfulness          artifice
+artistic skill          artistry          arty-craftiness
+astuteness          baroque          blind
+blueprint          business          cageyness
+callidity          calling          canniness
+capability          career          career building
+careerism          charactering          characterization
+chart          chicanery          choreography
+classicalism          classicism          cleverness
+cloisonnism          competence          conceptual art
+concern          conspiracy          constructivism
+contrivance          conventional representation          conventionalism
+coup          craft          craftiness
+cubism          cunning          cunningness
+cute trick          dance notation          deceit
+delineation          demonstration          department of knowledge
+depiction          depictment          design
+device          dexterity          diagram
+discipline          dodge          domain
+drama          drawing          earth art
+eclectic          elementarism          exemplification
+existentialism          expedient          expertise
+expressionism          fakement          feel
+feint          fetch          field
+field of inquiry          field of study          figuration
+fine Italian hand          finesse          flair
+foxiness          free abstraction          futurism
+gambit          game          gamesmanship
+gimmick          grift          groups
+guile          hallucinatory painting          handicraft
+handiness          hang          hieroglyphic
+iconography          idealism          ideogram
+illustration          imagery          imaging
+impressionism          ingeniousness          insidiousness
+intimism          intrigue          intuitionism
+inventiveness          jugglery          kinetic art
+knack          knavery          know-how
+letter          lifework          limning
+line          line of business          line of work
+linear chromatism          little game          logogram
+logograph          maneuver          map
+matter painting          mechanics          mechanism
+method          metier          minimal art
+mission          modernism          move
+musical notation          mystery          mysticism
+natural science          naturalism          neoclassicism
+neoconcrete art          neoconstructivism          nonobjectivism
+notation          nuagism          number
+occupation          ology          one-upmanship
+op art          photomontage          pictogram
+picturization          plan          plein-air
+plot          ploy          poetic realism
+poetic tachism          pointillism          portraiture
+portrayal          postexpressionism          practice
+prefigurement          preimpressionism          presentment
+primitivism          printing          profession
+proficiency          projection          province
+pure science          purism          pursuit
+quietistic painting          racket          readiness
+realism          realization          red herring
+rendering          rendition          representation
+representationalism          representationism          resourcefulness
+romanticism          ruse          satanic cunning
+savvy          schema          scheme
+science          score          script
+sharpness          shift          shiftiness
+shrewdness          skill          sleight
+slipperiness          slyness          sneakiness
+social science          sophistry          specialization
+specialty          sphere          stealth
+stealthiness          stratagem          strategy
+study          subterfuge          subtilty
+subtleness          subtlety          suppleness
+suprematism          surrealism          syllabary
+symbol          symbolism          synchromism
+synthesism          tablature          tachism
+tactic          talent          technic
+technical know-how          technical knowledge          technical skill
+technicology          technics          technique
+technology          touch          trade
+traditionalism          trick          trickery
+trickiness          unism          virtu
+vocation          vorticism          walk
+walk of life          wariness          way
+wile          wiles          wiliness
+wily device          wit          work
+writing          ------------
+
+concern          Aktiengesellschaft
+TLC          absorb          academic discipline
+academic specialty          accent          accommodatingness
+activities          activity          affair
+affairs          affect          affect the interest
+agency          agitate          agitation
+agreeableness          ail          aktiebolag
+all-overs          angst          answer to
+anticipation          anxiety          anxiety hysteria
+anxiety neurosis          anxious bench          anxious concern
+anxious seat          anxiousness          appertain to
+applicability          application          applied science
+apply to          appositeness          apprehension
+apprehensiveness          area          arena
+art          atelier          attention
+attentiveness          attract          awareness
+bag          barbershop          basis
+be about          be the matter          bear on
+bear upon          bearing          beauty parlor
+beauty shop          belong to          bench
+beset          body corporate          bother
+burden          business          business establishment
+butcher shop          cankerworm of care          care
+carefulness          caring          cartel
+case          catch up in          cathexis
+caution          chamber of commerce          chapter
+charge          chord          circumspection
+circumspectness          combine          commerce
+commercial enterprise          compagnie          company
+complaisance          complicate matters          concernment
+conglomerate          conglomerate corporation          connect
+connection          consciousness          consequence
+consequentiality          considerateness          consideration
+consolidating company          consortium          copartnership
+corporate body          corporation          correspond to
+curiosity          deal with          delicacy
+department of knowledge          desk          discipline
+discommode          disquiet          disquietude
+distress          disturb          disturbance
+diversified corporation          doing          domain
+doubt          draw in          dread
+dubiety          duty          echo
+embarrass          empathy          emphasis
+employ          employment          engage
+enmesh          entangle          enterprise
+enthusiasm          essence          establishment
+excellence          excite          excite interest
+facility          faltering          fascinate
+fear          fellow feeling          field
+field of inquiry          field of study          firm
+focus of attention          focus of interest          foreboding
+forebodingness          forethought          frazzle
+function          germaneness          gimmick
+gist          give concern          gizmo
+harass          have connection with          head
+heading          heed          heedfulness
+helpfulness          high order          high rank
+holding company          house          identification
+implicate          import          importance
+incertitude          inconvenience          indulgence
+industry          inquietude          installation
+institution          interest          interestedness
+invite          involve          involve in
+involvement          irk          irresolution
+issue          jigger          job
+joint-stock association          joint-stock company          labor
+leniency          liaise with          link with
+living issue          loft          lookout
+loving care          main point          malaise
+mark          materiality          matter
+matter in hand          matter of interest          meat
+merit          mindfulness          misgiving
+mistrust          moment          motif
+motive          natural science          nervous strain
+nervous tension          nervousness          note
+obligingness          occasions          occupation
+ology          operating company          organization
+outfit          overanxiety          palaver
+paramountcy          parlor          partnership
+passion          pathos          perplex
+pertain to          pertinence          perturb
+perturbation          pins and needles          pique
+plague          plunderbund          point
+point at issue          point in question          pool
+pother          precedence          preeminence
+preparedness          primacy          priority
+problem          proceeding          province
+provoke          public utility          pucker
+pure science          put out          put to it
+puzzle          question          refer to
+reference          regard          regardfulness
+relate to          relatedness          relating
+relevance          respect          response
+responsibility          responsiveness          rubric
+science          self-importance          service
+sharing          shop          shtick
+significance          skepticism          social science
+solicitousness          solicitude          special interest
+specialty          sphere          stew
+stimulate          stock company          strain
+stress          studio          study
+subject          subject matter          subject of thought
+substance          suck into          superiority
+supremacy          suspense          suspicion
+sweatshop          sympathetic chord          sympathetic response
+sympathy          syndicate          tact
+tactfulness          tangle          tantalize
+task          technicology          technics
+technology          tender loving care          tension
+text          theme          thing
+thought          thoughtfulness          tickle
+tie in with          titillate          toleration
+topic          torment          touch
+touch on          touch upon          trade association
+transaction          treat of          trouble
+trust          undertaking          unease
+uneasiness          unquietness          unsettle
+upset          utility          value
+vex          vexation          vibes
+vibrations          weight          widget
+wonder          work          work site
+work space          workbench          workhouse
+working space          workplace          workroom
+workshop          worktable          worry
+worth          zeal          ------------
+
+craft
+Italian hand          ability          acuteness
+address          adeptness          adroitness
+aeroplane          aircraft          airmanship
+animal cunning          argosy          art
+artful dodge          artfulness          artifice
+artisan work          artisanship          artistry
+astuteness          bark          blind
+boat          bottom          bravura
+brilliance          bucket          business
+cageyness          callidity          calling
+canniness          capability          capacity
+career          career building          careerism
+chicanery          cleverness          command
+competence          conspiracy          contrivance
+control          coordination          coup
+craftiness          craftsmanship          craftwork
+cunning          cunningness          cute trick
+deceit          deceitfulness          deftness
+design          device          deviousness
+dexterity          dexterousness          dextrousness
+diplomacy          dodge          duplicity
+efficiency          expedient          expertise
+expertness          fabricate          facility
+fakement          falseheartedness          falseness
+fashion          feint          fetch
+fine Italian hand          finesse          flair
+foxiness          fraud          furtiveness
+gambit          game          gamesmanship
+genius          gimmick          grace
+grift          grip          guile
+guilefulness          handicraft          handiness
+handiwork          hooker          horsemanship
+hovercraft          hulk          hull
+hypocrisy          indirection          industrial art
+industrial design          ingeniousness          ingenuity
+insidiousness          intrigue          inventiveness
+job          jugglery          keel
+knavery          know-how          leviathan
+lifework          line          line of business
+line of work          little game          low cunning
+make          maneuver          manual art
+marksmanship          mastership          mastery
+mechanics          mechanism          metalcraft
+method          metier          mission
+move          mystery          number
+occupation          one-upmanship          packet
+pawkiness          plane          plot
+ploy          practical ability          practice
+profession          proficiency          prowess
+pursuit          quickness          racket
+readiness          red herring          resource
+resourcefulness          rocket          ruse
+satanic cunning          savoir-faire          savvy
+scheme          science          seamanship
+sharpness          shift          shiftiness
+ship          shrewdness          skill
+skillfulness          sleight          slickness
+slipperiness          slyness          sneak attack
+sneakiness          sophistry          spacecraft
+spaceship          specialization          specialty
+stealth          stealthiness          stonecraft
+stratagem          strategy          style
+subterfuge          subtility          subtilty
+subtleness          subtlety          suppleness
+surreptitiousness          tact          tactfulness
+tactic          talent          technic
+technical brilliance          technical know-how          technical knowledge
+technical mastery          technical skill          technics
+technique          technology          timing
+trade          treacherousness          trick
+trickery          trickiness          tub
+underhandedness          vessel          virtuosity
+vocation          walk          walk of life
+wariness          watercraft          wile
+wiles          wiliness          wily device
+wit          wizardry          woodcraft
+work          workmanship          ------------
+
+discipline
+Spartanism          academic discipline          academic specialty
+accommodate          accommodate with          accord
+adapt          adapt to          adjust
+adjust to          administer          administrate
+administration          agree with          anality
+aplomb          apple-pie order          applied science
+apprentice          apprenticeship          area
+arena          art          assimilate to
+astringency          austerity          authoritarianism
+basic training          be guided by          be master
+beat          bend          bound
+boundary          bounds          break
+break in          breaking          breed
+breeding          bridle          bring to account
+bring to book          bring up          call to account
+captain          castigate          castigation
+chair          chasten          chastening
+chastise          chastisement          check
+chime in with          civil government          classical education
+coach          command          comply
+comply with          compose          composure
+concern          condign punishment          condition
+conditioning          conduct          confine
+confinement          conform          constraint
+contain          continence          control
+copyright          core curriculum          correct
+correction          correspond          course
+course of study          criticize          cultivate
+cultivation          curb          curriculum
+deal with          decorum          demandingness
+demesne          department          department of knowledge
+deserts          develop          development
+direct          direction          disciplinary measures
+dispensation          disposition          domain
+draw the line          drill          drilling
+edify          educate          elective
+empery          empire          enlighten
+exactingness          exercise          fall in with
+ferule          fetch up          fetching-up
+field          field of inquiry          field of study
+fine fettle          fit          follow
+form          form of government          foster
+fostering          gear to          general education
+general studies          go by          good condition
+good shape          good trim          govern
+governance          government          grimness
+groom          grooming          guide
+harmonize          harshness          head
+hedge about          hold in check          housebreak
+housebreaking          humanities          improve
+improvement          in-service training          inculcate
+inculcation          independence          indoctrinate
+indoctrination          inflict upon          infliction
+inform          inhibit          instruct
+instruction          judgment          judicial punishment
+keep in check          keep in line          lead
+liberal arts          lick into shape          limit
+limitation          major          make conform
+manage          management          manual training
+masthead          meet          method
+methodicalness          methodology          meticulousness
+military training          minor          moderate
+moderation          mold          narrow
+natural science          neatness          nemesis
+nurse          nurture          nurturing
+observe          officer          ology
+on-the-job training          orb          orbit
+order          orderliness          overcome
+oversight          pains          pains and punishments
+patent          pay          payment
+penal retribution          penalize          penalty
+penology          pillory          political organization
+polity          possession          practice
+preparation          prepare          prescription
+preside over          proscription          proseminar
+province          punish          punishment
+punition          pure science          put in tune
+put to school          quadrivium          qualification
+qualify          raise          raising
+ready          readying          realm
+rear          rearing          rebuke
+reconcile          rectify          reduce
+refresher course          regime          regimen
+regiment          regimentation          register
+regnancy          regulate          regulation
+rehearsal          rehearse          reign
+reprimand          reprove          restrain
+restraint          restrict          restriction
+retribution          retributive justice          ride herd on
+rigid discipline          rod          round
+routine          rub off corners          ruggedness
+rule          run          scant
+school          schooling          science
+scientific education          scourge          self-command
+self-conquest          self-control          self-denial
+self-discipline          self-government          self-mastery
+self-possession          self-restraint          seminar
+send to school          settle          settle with
+severity          shape          sloyd
+social science          sovereignty          specialize
+specialty          sphere          square accounts
+stand over          sternness          stint
+straighten          straiten          strictness
+stringency          study          subdiscipline
+subdue          subject          subjection
+subjugate          suit          supervise
+supervision          sway          system
+system of government          systematicness          take in hand
+take to task          tally with          teach
+technical education          technicology          technics
+technology          tidiness          toughness
+train          training          trimness
+trivium          upbringing          visit upon
+vocational education          vocational training          walk
+well-deserved punishment          what-for          wield authority
+willpower          yield          ------------
+
+domain
+academic discipline          academic specialty          acres
+ally          ambit          animal kingdom
+applied science          archduchy          archdukedom
+area          arena          art
+bailiwick          beat          body politic
+border          borderland          buffer state
+captive nation          chain of being          champaign
+chattels real          chieftaincy          chieftainry
+circle          circuit          city-state
+class structure          colony          commonweal
+commonwealth          concern          country
+county          demesne          department
+department of knowledge          discipline          dominion
+duchy          dukedom          earldom
+empery          empire          establishment
+field          field of inquiry          field of study
+free city          grand duchy          grounds
+hemisphere          hierarchy          honor
+judicial circuit          jurisdiction          kingdom
+land          landed property          lands
+lot          lots          mandant
+mandate          mandated territory          mandatee
+mandatory          manor          march
+messuage          mineral kingdom          nation
+nationality          natural hierarchy          natural science
+ology          orb          orbit
+pale          parcel          pecking order
+plat          plot          polis
+polity          possession          power
+power structure          praedium          precinct
+principality          principate          property
+protectorate          province          puppet government
+puppet regime          pure science          pyramid
+quadrat          real estate          real property
+realm          realty          republic
+round          satellite          science
+seneschalty          settlement          social science
+sovereign nation          speciality          specialization
+specialty          sphere          state
+study          subdiscipline          sultanate
+superpower          technicology          technics
+technology          tenements          terrain
+territory          toft          toparchia
+toparchy          vegetable kingdom          walk
+------------
+
+erudition          Sophia          bibliolatry
+bibliomania          bluestockingism          book learning
+book madness          bookiness          bookishness
+booklore          broad-mindedness          broadening the mind
+classical scholarship          classicism          cultivation
+culture          depth          donnishness
+education          eruditeness          good understanding
+humanism          humanistic scholarship          intellectual acquirement
+intellectualism          intellectuality          knowledge
+learnedness          learning          letters
+literacy          mastery of skills          mellow wisdom
+memorization          mental cultivation          mental culture
+pedantism          pedantry          profoundness
+profundity          reading          ripe wisdom
+sageness          sapience          scholarliness
+scholarship          science          seasoned understanding
+self-instruction          sound understanding          storing the mind
+studiousness          wisdom          wiseness
+------------
+
+field          DMZ          academic discipline
+academic specialty          aceldama          achievement
+acreage          aerodrome          agora
+air base          airdrome          airfield
+airport          alerion          ambit
+amphitheater          ample scope          animal charge
+annulet          answer          applicants
+applied science          arable          archery ground
+area          arena          argent
+armorial bearings          armory          arms
+art          athletic field          auditorium
+azure          back          backdrop
+background          badminton court          bag
+bailiwick          bandeau          bar
+bar sinister          baseball field          basketball court
+baton          battle line          battle site
+battlefield          battleground          bear garden
+bearings          beat          bend
+bend sinister          billet          billiard parlor
+blank check          blazon          blazonry
+block          border          borderland
+bordure          bounds          bowl
+bowling alley          bowling green          boxing ring
+breadth          broad arrow          bull ring
+cadency mark          campus          candidates
+canton          canvas          carte blanche
+catch          champaign          chaplet
+charge          chevron          chief
+cincture          circle          circuit
+circus          classical education          clearance
+clearing          clos          close
+coat of arms          cockatrice          cockpit
+coliseum          colosseum          combat area
+combat zone          common          compass
+competition          competitor          competitors
+concern          confine          confines
+container          contender          contestant
+continuum          coop          cope with
+core curriculum          corn field          coronet
+corrival          course          course of study
+court          courtyard          crescent
+crest          cricket ground          croft
+croquet ground          croquet lawn          cross
+cross moline          crown          cultivated land
+cup of tea          curriculum          curtilage
+deal with          delimited field          demesne
+department          department of knowledge          device
+diamond          difference          differencing
+dimension          discipline          distance
+division          domain          dominion
+eagle          elbowroom          elective
+emptiness          empty space          emulator
+enclave          enclosure          enemy line
+entrant          ermine          ermines
+erminites          erminois          escutcheon
+expanse          expansion          expertise
+extension          extent          fairway
+falcon          fess          fess point
+field of battle          field of blood          field of inquiry
+field of study          file          firing line
+flanch          fleur-de-lis          floor
+fold          football field          forte
+forty          forum          free course
+free hand          free play          free scope
+fret          front line          full scope
+full swing          fur          fusil
+galactic space          garland          general education
+general studies          glaciarium          golf course
+golf links          grassland          green
+greensward          gridiron          griffin
+ground          gules          gym
+gymnasium          gyron          hall
+handle          hatchment          hayfield
+heliport          helmet          hemisphere
+heraldic device          hinterland          humanities
+ice rink          impalement          impaling
+inescutcheon          infield          infinite space
+interest          interstellar space          island
+judicial circuit          jurisdiction          killing ground
+kraal          label          land
+landing          landing beach          landing field
+latitude          lawn          lea
+leeway          liberal arts          limits
+line          line of battle          links
+lion          list          lists
+locale          long rope          long suit
+lot          lozenge          main interest
+major          maneuvering space          manipulate
+manner          mantling          march
+margin          marketplace          marshaling
+martlet          mascle          mat
+mead          meadow          measure
+metal          metier          milieu
+minor          mise-en-scene          motto
+mullet          natural science          no holds barred
+nombril point          nothingness          octofoil
+ology          open forum          open space
+or          orb          orbit
+ordinary          orle          outer space
+outfield          oval          paddy
+palaestra          pale          paling
+paly          parade ground          parcel of land
+park          pasture          patch
+pean          pen          pet subject
+pheon          pick up          piece of land
+pit          place          plat
+platform          play          player
+playground          playing field          playroom
+plot          plot of ground          polo ground
+pool hall          poolroom          port
+possibilities          precinct          prize ring
+proportion          proseminar          province
+public square          pure science          purlieu
+purpure          pursuit          purview
+putting green          quad          quadrangle
+quadrivium          quarter          quartering
+racecourse          racket court          range
+reach          real estate          realm
+rear          refresher course          region
+reply to          respond to          retrieve
+return          rice paddy          ring
+rink          rival          room
+rope          rose          round
+sable          saltire          scene
+scene of action          scenery          science
+scientific education          scope          scutcheon
+sea room          seat of war          section
+seminar          setting          shambles
+shield          site          skating rink
+soccer field          social science          space
+spatial extension          specialism          speciality
+specialization          specialty          sphere
+spread          spread eagle          square
+squared circle          squash court          stadium
+stage          stage set          stage setting
+stop          strength          stretch
+strong point          study          style
+subdiscipline          subject          subordinary
+superficial extension          surface          sward
+sweep          swing          technical education
+technicality          technicology          technics
+technology          tenne          tennis court
+terrain          territory          the field
+the front          theater          theater of operations
+theater of war          thing          tilting ground
+tiltyard          tincture          toft
+tolerance          torse          track
+tract          tressure          trivium
+turf          type          unicorn
+vair          vert          vier
+vocation          void          walk
+way          weakness          wheat field
+wide berth          wreath          wrestling ring
+yale          yard          zone of communications
+------------
+
+information          ALGOL          COBOL
+ESP          FORTRAN          accusal
+accusation          accusing          acquaintance
+advice          allegation          allegement
+alphabetic data          alphanumeric code          angular data
+answer          arraignment          assembler
+bail          bill of particulars          binary digit
+binary scale          binary system          bit
+blame          brass tacks          bringing of charges
+bringing to book          broadcast journalism          bug
+byte          catechization          charge
+coaching          command pulses          commands
+commerce          communication          communion
+compiler          complaint          computer code
+computer language          computer program          congress
+connection          contact          control signals
+controlled quantity          conversation          converse
+corpus          correcting signals          correspondence
+count          data          datum
+dealing          dealings          delation
+denouncement          denunciation          didactics
+direction          dirt          dope
+edification          education          enlightenment
+error          error signals          essential facts
+essentials          exchange          experience
+expertise          facts          factual base
+familiarity          feedback pulses          feedback signals
+film data          gen          guidance
+hexadecimal system          illumination          impeachment
+implication          imputation          indictment
+info          innuendo          input data
+input quantity          insinuation          instruction
+instructions          intelligence          interaction
+interchange          intercommunication          intercommunion
+intercourse          interplay          intimacy
+journalism          ken          know-how
+knowing          knowledge          lawsuit
+laying of charges          linguistic intercourse          lore
+low-down          machine language          message
+multiple messages          news          news agency
+news medium          news service          newsiness
+newsletter          newsmagazine          newspaper
+newsworthiness          noise          numeric data
+octal system          oscillograph data          output data
+output quantity          pedagogics          pedagogy
+plaint          play          polar data
+poop          practical knowledge          presentment
+press association          private knowledge          private teaching
+privity          programmed instruction          prosecution
+punch-card data          radio          random data
+ratio cognoscendi          rectangular data          reeducation
+reference quantity          reply          report
+reportage          reproach          response
+ruly English          schooling          science
+self-instruction          self-knowledge          self-teaching
+signals          single messages          social intercourse
+speaking          speech          speech circuit
+speech situation          spoon-feeding          suit
+talking          taxing          teaching
+technic          technics          technique
+telegraph agency          telepathy          television
+the data          the details          the dope
+the facts          the fourth estate          the information
+the particulars          the picture          the press
+the scoop          the score          the specifics
+the whole story          tidings          touch
+traffic          truck          true bill
+tuition          tutelage          tutorage
+tutoring          tutorship          two-way communication
+unorganized data          unspoken accusation          veiled accusation
+visible-speech data          wire service          wisdom
+word          ------------
+
+knowledge          IQ
+account          acquaintance          adeptness
+advice          announcement          appreciation
+apprehension          awareness          blue book
+briefing          broadening the mind          bulletin
+caliber          capacity          cognition
+communication          communique          comprehension
+conception          consciousness          data
+datum          deductive power          directory
+discernment          dispatch          education
+enlightenment          erudition          esemplastic power
+evidence          experience          expertise
+facts          factual information          familiarity
+familiarization          gen          general information
+grasp          guidebook          handout
+hard information          ideation          incidental information
+info          information          insight
+instruction          integrative power          intellect
+intellectual acquirement          intellectual grasp          intellectual power
+intellectualism          intellectuality          intelligence
+intelligence quotient          knowing          learning
+light          lore          mastery of skills
+memorization          mental age          mental capacity
+mental cultivation          mental culture          mental grasp
+mental ratio          mentality          mention
+message          mother wit          native wit
+news          notice          notification
+power of mind          presentation          proficiency
+promotional material          proof          publication
+publicity          rationality          reasoning power
+release          report          sanity
+scholarship          schooling          science
+scope of mind          self-instruction          sense
+sidelight          statement          storing the mind
+the dope          the goods          the know
+the scoop          thinking power          transmission
+understanding          white book          white paper
+wisdom          wit          word
+------------
+
+lore          Lorelei          Mishnah
+Spiritus Mundi          Sunna          Talmud
+ancient wisdom          archetypal myth          archetypal pattern
+bibliography          body of knowledge          body of learning
+charm          common law          culture
+custom          cyclopedia          doctrine
+encyclopedia          erudition          ethos
+fable          fairy lore          fairyism
+femme fatale          folk motif          folklore
+folktale          folkway          immemorial usage
+information          knowledge          learning
+legend          literature          materials
+myth          mythical lore          mythicism
+mythology          mythos          popular belief
+publications          racial memory          science
+seductress          spell          store of knowledge
+superstition          superstitiousness          system of knowledge
+temptress          tradition          traditionalism
+traditionality          traditions          treasury of information
+wisdom          ------------
+
+mechanics          Newtonian physics
+acoustics          aerophysics          applied physics
+art          astrophysics          basic conductor physics
+biophysics          chemical physics          craft
+cryogenics          crystallography          cytophysics
+electron physics          electronics          electrophysics
+geophysics          macrophysics          mathematical physics
+mechanism          medicophysics          method
+microphysics          natural philosophy          natural science
+nuclear physics          optics          philosophy
+physic          physical chemistry          physical science
+physicochemistry          physicomathematics          physics
+psychophysics          radiation physics          radionics
+science          skill          solar physics
+solid-state physics          statics          stereophysics
+technic          technical know-how          technical knowledge
+technical skill          technics          technique
+technology          theoretical physics          thermodynamics
+zoophysics          ------------
+
+mechanism          Charlie McCarthy
+Marxism          action          agency
+agent          ancilla          animalism
+apparatus          appliance          approach
+arrangement          art          atomism
+automatic switch          behaviorism          channel selector
+check valve          clockworks          commonsense realism
+contour follower          contrivance          control valve
+convenience          craft          creature
+device          dialectical materialism          drive
+drive train          dummy          dupe
+earthliness          electronic control          emergency control
+empiricism          engine          enginery
+epiphenomenalism          expedient          facility
+finder switch          fixture          flowmanostat
+gear          go-between          going between
+handmaid          handmaiden          historical materialism
+hylomorphism          hylotheism          hylozoism
+implement          innards          instrument
+instrumentality          interagent          intermediary
+intermediate          intermediation          intermedium
+internal selector          lever          machine
+machinery          materialism          means
+mechanical aid          mechanical device          mechanics
+mediation          mediator          medium
+method          midwife          minion
+monism          motion          motive power
+motor          movement          movements
+natural realism          naturalism          new realism
+organ          organization          pawn
+physicalism          physicism          plaything
+positive philosophy          positivism          power plant
+power source          power train          pragmaticism
+pragmatism          procedure          process
+puppet          realism          recourse
+rectifier          register regulator          representative realism
+resort          safety control          safety fuse
+safety stop          safety switch          safety valve
+science          secularism          selector switch
+sequence switch          servant          service
+servo valve          servomechanism          skill
+slave          stooge          structure
+substantialism          system          technic
+technical know-how          technical knowledge          technical skill
+technics          technique          technology
+temporality          thermoswitch          timer
+tool          toy          utility
+vehicle          voltage regulator          voltage stabilizer
+watchworks          way          wheels
+wheels within wheels          workings          works
+worldliness          ------------
+
+method          MO
+ability          action          actions
+activity          acts          address
+affectation          air          algorithm
+anality          apple-pie order          approach
+arrangement          art          avenue
+behavior          behavior pattern          behavioral norm
+behavioral science          blueprint          blueprinting
+calculation          capacity          capital
+carriage          charting          comportment
+conception          conduct          contrivance
+course          craft          culture pattern
+custom          demeanor          deportment
+design          device          devices
+discipline          disposable resources          disposition
+doing          doings          enterprise
+envisagement          fashion          figuring
+fine fettle          folkway          foresight
+forethought          form          funds
+game          gestures          goings-on
+good condition          good shape          good trim
+graphing          ground plan          guidelines
+guise          idea          intention
+layout          line          line of action
+lines          lineup          long-range plan
+maintien          manner          manner of working
+manners          mapping          master plan
+means          mechanics          mechanism
+methodicalness          methodology          methods
+mien          mode          mode of operation
+mode of procedure          modus          modus operandi
+modus vivendi          motions          movements
+moves          neatness          observable behavior
+operations research          order          orderliness
+organization          pattern          plan
+planning          planning function          poise
+port          pose          posture
+power          practice          praxis
+prearrangement          presence          procedure
+proceeding          process          program
+program of action          rationalization          recourses
+regularity          resorts          resources
+road          route          routine
+schedule          schema          schematism
+schematization          scheme          scheme of arrangement
+science          setup          skill
+social science          stock          strategic plan
+strategy          structure          style
+supply          system          systematicness
+systematization          tack          tactical plan
+tactics          technic          technical know-how
+technical knowledge          technical skill          technics
+technique          technology          the big picture
+the drill          the how          the picture
+the way of          tidiness          tone
+trimness          way          way of life
+ways          ways and means          wherewith
+wherewithal          wise          working plan
+wrinkle          ------------
+
+natural science          Newtonian physics
+academic discipline          academic specialty          acoustics
+aerophysics          applied physics          applied science
+area          arena          art
+astrophysics          basic conductor physics          biophysics
+chemical physics          concern          cryogenics
+crystallography          cytophysics          department of knowledge
+discipline          domain          electron physics
+electronics          electrophysics          field
+field of inquiry          field of study          geophysics
+macrophysics          mathematical physics          mechanics
+medicophysics          microphysics          natural philosophy
+nuclear physics          ology          optics
+philosophy          physic          physical chemistry
+physical science          physicochemistry          physicomathematics
+physics          province          psychophysics
+pure science          radiation physics          radionics
+science          social science          solar physics
+solid-state physics          specialty          sphere
+statics          stereophysics          study
+technicology          technics          technology
+theoretical physics          thermodynamics          zoophysics
+------------
+
+ology          academic discipline          academic specialty
+applied science          area          arena
+art          concern          department of knowledge
+discipline          domain          field
+field of inquiry          field of study          natural science
+province          pure science          science
+social science          specialty          sphere
+study          technicology          technics
+technology          ------------
+
+province          Kreis
+academic discipline          academic specialty          agricultural region
+ally          ambit          applied science
+arable land          archbishopric          archdiocese
+archduchy          archdukedom          area
+arena          arrondissement          art
+bailiwick          beat          bishopric
+black belt          body politic          boondocks
+border          borderland          borough
+buffer state          business          calling
+canton          capacity          captive nation
+champaign          character          charge
+chieftaincy          chieftainry          circle
+circuit          citrus belt          city
+city-state          colony          commonweal
+commonwealth          commune          concern
+conference          congressional district          constablewick
+corn belt          cotton belt          country
+countryside          county          demesne
+departement          department          department of knowledge
+diocese          discipline          district
+division          domain          dominion
+duchy          dukedom          dust bowl
+duty          earldom          electoral district
+electorate          empery          empire
+exurbia          farm belt          farm country
+farmland          field          field of inquiry
+field of study          free city          fruit belt
+function          government          grand duchy
+grass roots          grassland          grazing region
+hamlet          headache          hemisphere
+highlands          hundred          job
+judicial circuit          jurisdiction          kingdom
+land          lowlands          magistracy
+mandant          mandate          mandated territory
+mandatee          mandatory          march
+meadows and pastures          metropolis          metropolitan area
+moors          nation          nationality
+natural science          oblast          office
+okrug          ology          orb
+orbit          pale          parish
+part          place          plains
+polis          polity          position
+possession          power          prairies
+precinct          principality          principate
+protectorate          provinces          puppet government
+puppet regime          pure science          pursuit
+quarter          realm          region
+republic          responsibility          riding
+role          round          rural district
+rustic region          satellite          science
+section          see          seneschalty
+settlement          sheriffalty          sheriffwick
+shire          shrievalty          social science
+soke          sovereign nation          specialty
+sphere          stake          state
+steppes          strand          study
+subdiscipline          sultanate          superpower
+synod          technicology          technics
+technology          terrain          territory
+the country          the soil          the sticks
+thing          tobacco belt          toparchia
+toparchy          town          township
+tract          uplands          veld
+village          walk          wapentake
+ward          wheat belt          wide-open spaces
+woodland          woods and fields          work
+worry          yokeldom          zone
+------------
+
+scholarship          aid          alimony
+allotment          allowance          annuity
+assistance          award          bibliolatry
+bibliomania          bluestockingism          book learning
+book madness          bookiness          bookishness
+booklore          bounty          bursary
+classical scholarship          classicism          culture
+depletion allowance          diligence          dole
+donnishness          education          endowment
+eruditeness          erudition          exhibition
+fellowship          financial assistance          grant
+grant-in-aid          guaranteed annual income          help
+humanism          humanistic scholarship          intellectualism
+intellectuality          know-how          knowledge
+learnedness          learning          letters
+literacy          lore          old-age insurance
+pecuniary aid          pedantism          pedantry
+pension          preparation          price support
+public assistance          public welfare          reading
+relief          retirement benefits          scholarliness
+schooling          science          stipend
+studiousness          subsidization          subsidy
+subvention          support          tax benefit
+training          welfare          welfare aid
+welfare payments          ------------
+
+science          academic discipline
+academic specialty          applied science          area
+arena          art          body of knowledge
+branch          concern          craft
+department of knowledge          discipline          domain
+electrobiology          electrochemistry          electrokinetics
+electromechanics          electrometallurgy          electrometry
+electronics          electrooptics          electrophysics
+electrostatics          electrotechnics          electrotechnology
+erudition          expertise          field
+field of inquiry          field of study          galvanism
+information          knowledge          learning
+lore          magnetics          mechanics
+mechanism          method          natural science
+ology          proficiency          province
+pure science          realm          scholarship
+skill          social science          specialty
+sphere          study          subject
+system          technic          technical know-how
+technical knowledge          technical skill          technicology
+technics          technique          technology
+thermionics          wisdom          ------------
+
+skill
+Mnemosyne          ability          accomplishment
+adeptness          adroitness          affect memory
+anterograde memory          aptitude          art
+artistry          ascendancy          atavism
+capability          cleverness          collective memory
+command          computer memory          craft
+cunning          deanship          deftness
+dexterity          dexterousness          disk memory
+drum memory          ease          emotional response
+engram          excellence          experience
+expertise          expertism          expertness
+facility          faculty          favor
+finesse          forte          gift
+greatness          handiness          incomparability
+information storage          ingenuity          inimitability
+kinesthetic memory          knack          know-how
+lead          majority          mastership
+mastery          mechanics          mechanism
+memory          memory bank          memory circuit
+memory trace          method          mind
+mneme          one-upmanship          precedence
+predominance          predomination          preeminence
+preponderance          prepotence          prepotency
+prerogative          prestige          priority
+privilege          proficiency          prowess
+quickness          race memory          readiness
+recollection          remembrance          right-of-way
+science          screen memory          seniority
+skillfulness          sleight          souvenir
+strength          success          superiority
+talent          tape memory          technic
+technical know-how          technical knowledge          technical skill
+technics          technique          technology
+transcendence          transcendency          verbal response
+virtuosity          visual memory          ------------
+
+social science
+academic discipline          academic specialty          action
+actions          activity          acts
+address          affectation          air
+applied science          area          arena
+art          bearing          behavior
+behavior pattern          behavioral norm          behavioral science
+carriage          comportment          concern
+conduct          culture pattern          custom
+demeanor          department of knowledge          deportment
+discipline          doing          doings
+domain          field          field of inquiry
+field of study          folkway          gestures
+goings-on          guise          maintien
+manner          manners          method
+methodology          methods          mien
+modus vivendi          motions          movements
+moves          natural science          observable behavior
+ology          pattern          poise
+port          pose          posture
+practice          praxis          presence
+procedure          proceeding          province
+pure science          science          specialty
+sphere          study          style
+tactics          technicology          technics
+technology          tone          way
+way of life          ways          ------------
+
+specialty
+academic discipline          academic specialty          adjunct
+applied science          appurtenance          area
+arena          aroma          arrangement
+art          aspect          attribute
+badge          bond          brand
+business          cachet          calling
+career          career building          careerism
+cast          character          characteristic
+circumstance          classical education          component
+concern          configuration          constituent
+contents          contract by deed          contract of record
+contract quasi          core curriculum          course
+course of study          covenant of indemnity          craft
+curriculum          cut          debenture
+debenture bond          deed          deed of trust
+deed poll          definiteness          department of knowledge
+detail          differentia          differential
+discipline          distinctive feature          domain
+earmark          elective          element
+factor          feature          field
+field of inquiry          field of study          figure
+fixings          flavor          formal contract
+game          general education          general studies
+group policy          gust          hallmark
+handicraft          humanities          idiocrasy
+idiosyncrasy          implied contract          impress
+impression          indent          indenture
+index          individualism          ingredient
+insurance policy          integrant          item
+keynote          liberal arts          lifework
+line          line of business          line of work
+lineaments          major          makings
+mannerism          mark          marking
+metier          minor          mission
+mold          mortgage deed          mystery
+natural science          nature          number
+occupation          odor          ology
+parol contract          part          part and parcel
+particularity          peculiarity          policy
+practice          profession          promissory note
+property          proseminar          province
+pure science          pursuit          quadrivium
+quality          quirk          racket
+recognizance          refresher course          savor
+science          scientific education          seal
+seminar          shape          singularity
+smack          social science          special case
+special contract          speciality          specialization
+specialness          specialty contract          specificality
+specificness          sphere          stamp
+study          subdiscipline          subject
+taint          tang          taste
+technical education          technicology          technics
+technology          title deed          token
+trade          trait          trick
+trivium          vocation          walk
+walk of life          work          ------------
+
+sphere
+Aldebaran          Canicula          Dog Star
+Hesper          Hesperus          Lucifer
+North Star          Phosphor          Phosphorus
+Polaris          Sirius          Venus
+Vesper          academic discipline          academic specialty
+acreage          agora          ambit
+amphitheater          applied science          area
+arena          art          athletic field
+auditorium          background          bag
+bailiwick          ball          balloon
+bear garden          beat          bladder
+blob          boll          bolus
+border          borderland          bowl
+boxing ring          breadth          bubble
+bulb          bulbil          bulblet
+bull ring          campus          canvas
+caste          celestial body          champaign
+circle          circuit          circus
+class          cockpit          coliseum
+colosseum          comet          concern
+condition          continuum          course
+daystar          demesne          department
+department of knowledge          dimension          discipline
+domain          dominion          drop
+droplet          echelon          ellipsoid
+emptiness          empty space          ensphere
+evening star          expanse          expansion
+extension          extent          field
+field of inquiry          field of study          fixed stars
+floor          footing          forte
+forum          galactic space          geoid
+globe          globelet          globoid
+globule          glomerulus          gob
+gobbet          ground          gym
+gymnasium          hall          heavenly body
+hemisphere          hierarchy          hippodrome
+infinite space          interstellar space          judicial circuit
+jurisdiction          knob          knot
+level          lists          living sapphires
+locale          lodestar          march
+marketplace          mat          measure
+milieu          morning star          natural science
+nothingness          oblate spheroid          ology
+open forum          orb          orbit
+orblet          order          outer space
+palaestra          pale          parade ground
+pellet          pit          place
+platform          polar star          polestar
+position          power structure          precedence
+precinct          prize ring          prolate spheroid
+proportion          province          public square
+pure science          purlieu          range
+rank          rate          rating
+realm          ring          rondure
+round          scene          scene of action
+scenery          science          setting
+site          social science          society
+space          spatial extension          specialty
+spheroid          spherule          spread
+squared circle          stadium          stage
+stage set          stage setting          standing
+starry host          stars          station
+status          stratum          study
+subdiscipline          subject          superficial extension
+surface          technicology          technics
+technology          terrain          territory
+theater          thing          tilting ground
+tiltyard          tract          void
+volume          walk          walk of life
+wrestling ring          ------------
+
+study          Nachtmusik
+Pap test          Walter Mitty          absence of mind
+absolute music          absorbed attention          absorption
+abstractedness          abstraction          academic discipline
+academic specialty          adaptation          advisement
+aim          air          air varie
+airing          aleatory          aleatory music
+ambition          analysis          analyze
+anatomic diagnosis          animus          application
+applied science          area          arena
+arrangement          art          art object
+article          aspiration          atelier
+attend to business          autopsy          be abstracted
+be alert          be determined          be obsessed with
+bemusement          biological diagnosis          biopsy
+black and white          bone          boning
+booking office          box office          brainchild
+brainwork          branch          branch office
+bric-a-brac          brood          brooding
+brouillon          brown study          buzz session
+cabinet          canvass          canvassing
+cartoon          castle-building          causerie
+chamber music          chamber orchestra          chambers
+chancellery          chancery          charcoal
+charcoal drawing          check          check out
+check over          check up          check up on
+chew over          chew the cud          chiaroscuro
+classic          classical education          clinical diagnosis
+close study          closet          colloquium
+comment upon          commit to memory          commitment to memory
+composition          con          concentrate on
+concentration          concern          conference
+conning          consider          consideration
+consulate          contemplate          contemplation
+contemplativeness          controvert          core curriculum
+corporate headquarters          counsel          course
+course of study          cram          cramming
+crayon          creation          curriculum
+cytodiagnosis          daydream          daydreamer
+daydreaming          deal with          debate
+debating          deep study          deep thought
+deliberate          deliberate upon          deliberation
+delineation          den          department of knowledge
+depth of thought          descant          desideration
+desideratum          design          desire
+determination          diagnosis          diagram
+dialectic          dialogue          differential diagnosis
+dig          digest          digital examination
+discipline          discourse          discourse about
+discuss          discussion          disquisition
+dissertation          domain          doodle
+draft          drawing          dream
+dreaming          drill          ebauche
+effect          elective          electrocardiography
+electroencephalography          electromyography          electronic music
+elucubrate          embassy          endeavor
+engagement          engrossment          enquiry
+esquisse          essay          etude
+examination          examine          exchange of views
+exchange views          excogitate          excursus
+executive office          exercise          exercise of memory
+exploration          exposition          extensive study
+fantasy          fantasying          feature
+field          field of inquiry          field of study
+first approach          fit of abstraction          fix on
+fixed purpose          flashback          focus on
+forum          function          general education
+general studies          get by heart          get letter-perfect
+give an examination          give heed          go into
+go over          graph          grind
+grinding          grotesque          handle
+harmonization          haunt          have by heart
+headquarters          headwork          heed
+hindsight          home office          homily
+humanities          idea          immersion
+incidental music          inquiry          inspect
+inspection          instrumental music          intendment
+intent          intention          intentness
+introductory study          introspect          invention
+investigate          investigation          involvement
+joint discussion          kitsch          knock around
+know by heart          labor          laboratory diagnosis
+learn about          learn by heart          learn verbatim
+learning          learning by heart          legation
+lesson          lessons          liberal arts
+library          line drawing          loft
+logical analysis          logical discussion          look at
+look lively          look out          look over
+look sharp          looking back          lucubrate
+lucubration          main office          major
+mammography          master          masterpiece
+masterwork          meaning          meditate
+meditation          melancholy          memoir
+memorization          memorize          memorizing
+mental labor          mind          minor
+miss nothing          mobile          monitor
+monograph          monomania          mooning
+moonraking          morceau          motive
+mull over          muse          muse on
+musefulness          museum piece          musing
+muted ecstasy          natural science          nisus
+nocturne          note          nude
+observe          obsession          office
+old master          ology          open discussion
+open forum          opus          oral examination
+orchestration          outline          overhaul
+overhauling          overlook          pandect
+panel discussion          paper          paragraph
+parrot          pass over          pass under review
+pastel          pasticcio          pastiche
+pay attention          pay heed          peer at
+pen-and-ink          pencil drawing          pensiveness
+perlustration          perpend          perusal
+peruse          physical diagnosis          physical examination
+piece          piece of virtu          pipe dream
+pipe-dreaming          plan          play around with
+play with          plunge into          point
+ponder          pondering          pore over
+postmortem          postmortem diagnosis          practice
+preliminary study          preoccupation          production
+profound thought          program music          project
+prolegomenon          proposal          proseminar
+prospectus          province          pure science
+purpose          quadrivium          quality control
+rap          rap session          rapt attention
+read          reading          reason
+reason about          reason the point          recall
+recalling          recite          recollecting
+recollection          reconsideration          reflect
+reflection          reflectiveness          refresher course
+regard studiously          remembering          remembrance
+reminiscence          repeat          repeat by heart
+research          research paper          resolution
+resolve          restudy          restudying
+retreat          retrospect          retrospection
+reverie          review          revolving
+ricercar          rote          rote memory
+rough copy          rough draft          rough outline
+ruminate          rumination          run over
+run-through          sail loft          sake
+sanctum sanctorum          scan          science
+scientific education          score          screed
+scrutinize          scrutiny          seek
+seminar          serodiagnosis          set an examination
+shop          sift          silhouette
+silver-print drawing          single-mindedness          sinopia
+size          size up          sketch
+smear          social science          sonata
+sonatina          special article          specialty
+speculate          speculation          speculativeness
+sphere          stabile          stacks
+stargazing          statue          still life
+strain          string orchestra          string quartet
+strive          striving          struggle
+studio          studiousness          studying
+subdiscipline          subject          submersion
+survey          swat          swatting
+sweat          sweat blood          swot
+swot up          swotting          symposium
+take care          take heed          take stock of
+take the measure          take up          talk
+talk about          talk of          talk over
+technical education          technicology          technics
+technology          term paper          test
+theme          theme and variations          thesis
+think about          think over          thoughtfulness
+thresh out          ticket office          town meeting
+toy with          tracing          tract
+tractate          trance          treat
+treatise          treatment          trio
+trivium          turn over          urinalysis
+uroscopy          variation          ventilate
+ventilation          vet          view
+vignette          virtu          visitation
+wade through          watch out          weigh
+weighing          wide reading          will
+wistfulness          woolgathering          work
+work of art          work-up          workroom
+------------
+
+technics          academic discipline          academic specialty
+acquaintance          applied science          area
+arena          art          concern
+corpus          craft          data
+datum          department of knowledge          discipline
+domain          experience          expertise
+facts          factual base          familiarity
+field          field of inquiry          field of study
+information          intelligence          intimacy
+ken          know-how          knowing
+knowledge          mechanics          mechanism
+method          natural science          ology
+practical knowledge          private knowledge          privity
+province          pure science          ratio cognoscendi
+science          self-knowledge          skill
+social science          specialty          sphere
+study          technic          technical know-how
+technical knowledge          technical skill          technicology
+technique          technology          ------------
+
+technique
+MO          SOP          ability
+acquaintance          address          adeptness
+adroitness          airmanship          algorithm
+approach          aptitude          arrangement
+art          artfulness          artisanship
+artistry          atmosphere          attack
+balance          bravura          brilliance
+brushwork          capability          capacity
+cleverness          color          command
+competence          composition          control
+coordination          corpus          course
+craft          craftsmanship          cunning
+data          datum          deftness
+design          dexterity          dexterousness
+dextrousness          diplomacy          draftsmanship
+efficiency          experience          expertise
+facility          facts          factual base
+faculty          familiarity          fashion
+finesse          form          genius
+gift          grace          grip
+grouping          guise          handiness
+horsemanship          information          ingeniousness
+ingenuity          intelligence          intimacy
+ken          knack          know-how
+knowing          knowledge          line
+line of action          lines          manner
+manner of working          marksmanship          mastership
+mastery          means          mechanics
+mechanism          method          methodology
+mode          mode of operation          mode of procedure
+modus          modus operandi          order
+painterliness          performance          perspective
+practical ability          practical knowledge          practice
+private knowledge          privity          procedure
+proceeding          process          proficiency
+prowess          quickness          ratio cognoscendi
+readiness          resource          resourcefulness
+routine          savoir-faire          savvy
+science          seamanship          self-knowledge
+shading          shadow          skill
+skillfulness          standard operating procedure          style
+system          tack          tact
+tactfulness          talent          technic
+technical brilliance          technical know-how          technical knowledge
+technical mastery          technical skill          technics
+technology          the drill          the how
+the way of          timing          tone
+touch          treatment          values
+virtuosity          way          wise
+wit          wizardry          workmanship
+------------
+
+technology          academic discipline          academic specialty
+applied science          area          arena
+art          concern          craft
+department of knowledge          discipline          domain
+field          field of inquiry          field of study
+mechanics          mechanism          method
+natural science          ology          province
+pure science          science          skill
+social science          specialty          sphere
+study          technic          technical know-how
+technical knowledge          technical skill          technicology
+technics          technique          ------------
+
+wisdom
+Sophia          adage          advantage
+advantageousness          advisability          ana
+analects          aphorism          apothegm
+apprehension          appropriateness          axiom
+beneficialness          broad-mindedness          byword
+catchword          clairvoyance          collected sayings
+command          comprehension          conception
+conceptualization          convenience          current saying
+decency          depth          desirability
+dictate          dictum          distich
+epigram          erudition          expedience
+expediency          expression          feasibility
+fitness          fittingness          foreknowledge
+fruitfulness          gnome          golden saying
+good sense          good understanding          grasp
+grip          gumption          horse sense
+ideation          information          insight
+intellection          intelligence          judgment
+judiciousness          know-it-all          lore
+mastery          maxim          mellow wisdom
+mental grasp          moral          mot
+motto          opportuneness          oracle
+percentage          perspicacity          phrase
+pithy saying          politicness          precept
+precognition          prehension          prescript
+profit          profitability          profoundness
+profundity          propriety          proverb
+proverbial saying          proverbs          prudence
+rightness          ripe wisdom          sagaciousness
+sagacity          sageness          saneness
+sapience          savvy          saw
+saying          science          seasonableness
+seasoned understanding          seemliness          sentence
+sententious expression          shrewdness          sloka
+smart          smarty          smarty-pants
+sound understanding          stock saying          suitability
+sutra          teaching          text
+timeliness          understanding          usefulness
+verse          wisdom literature          wise guy
+wise saying          wiseacre          wisecracker
+wisehead          wiseness          wisenheimer
+witticism          word          words of wisdom
+worthwhileness          

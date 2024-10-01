@@ -1,0 +1,3 @@
+ARCE          ARSE          CARSE
+FARCE          MARSE          PARSE
+SPARSE          

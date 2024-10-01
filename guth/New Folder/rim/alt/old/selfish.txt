@@ -1,0 +1,1376 @@
+------------
+
+acquisitive          a hog for          acquiring
+all-devouring          ambitious for self          autistic
+avaricious          avid          bottomless
+careerist          coveting          covetous
+demanding          desirous          devouring
+egotistical          esurient          exacting
+exigent          gluttonous          gobbling
+grabby          grasping          greedy
+hoggish          individualistic          insatiable
+insatiate          itchy          limitless
+mercenary          miserly          money-hungry
+money-mad          narcissistic          omnivorous
+overgreedy          personalistic          piggish
+possessive          prehensile          privatistic
+quenchless          rapacious          ravening
+ravenous          remote          self-absorbed
+self-admiring          self-advancing          self-besot
+self-centered          self-considerative          self-contained
+self-devoted          self-esteeming          self-indulgent
+self-interested          self-jealous          self-occupied
+self-pleasing          self-seeking          self-serving
+self-sufficient          selfish          slakeless
+sordid          swinish          unappeasable
+unappeased          unquenchable          unsated
+unsatisfied          unslakeable          unslaked
+venal          voracious          ------------
+
+audacious
+adventuresome          adventurous          arrogant
+bold          brash          brassy
+brave          brazen          bumptious
+careless          challenging          cheeky
+cocky          cold          confident
+contemptuous          contumelious          cool
+courageous          daredevil          daring
+dauntless          death-defying          defiant
+defying          derisive          devil-may-care
+disdainful          disregardful          disrespectful
+doughty          easy          emancipated
+enterprising          familiar          fearless
+fire-eating          foolhardy          forward
+free          greatly daring          harebrained
+heedless          hubristic          impertinent
+impudent          independent          insolent
+insulting          intrepid          madbrain
+madbrained          madcap          mettlesome
+obtrusive          overbold          overpresumptuous
+overweening          pert          presuming
+presumptuous          procacious          pushy
+rash          reckless          regardless of consequences
+relaxed          rude          saucy
+self-absorbed          self-centered          selfish
+shameless          temerarious          thoughtless
+unabashed          unafraid          uncurbed
+undaunted          ungoverned          unhampered
+uninhibited          unrestrained          untrammeled
+uppish          uppity          valiant
+valorous          venturesome          venturous
+wild          wild-ass          ------------
+
+autistic
+Barmecidal          Barmecide          acquisitive
+affectless          airy          ambitious for self
+anesthetized          apparent          apparitional
+arctic          bashful          blunt
+careerist          catatonic          chill
+chilly          chimeric          close
+cold          cold as charity          cold-blooded
+coldhearted          cool          deceptive
+delusional          delusionary          delusive
+delusory          dereistic          dispassionate
+dissociable          dreamlike          dreamy
+drugged          dull          egotistical
+emotionally dead          emotionless          erroneous
+fallacious          false          fantastic
+frigid          frosted          frosty
+frozen          grasping          greedy
+heartless          icy          idealistic
+illusional          illusionary          illusive
+illusory          imaginary          immovable
+impassible          impassive          impractical
+in the clouds          incompatible          individualistic
+inexcitable          insociable          insusceptible
+misleading          mopey          mopish
+morose          narcissistic          nonemotional
+nongregarious          objective          obtuse
+ostensible          otherworldly          out of touch
+passionless          personalistic          phantasmagoric
+phantasmal          phantom          poetic
+possessive          privatistic          quixotic
+remote          romancing          romantic
+romanticized          seeming          self-absorbed
+self-admiring          self-advancing          self-besot
+self-centered          self-considerative          self-contained
+self-deceptive          self-deluding          self-devoted
+self-esteeming          self-indulgent          self-interested
+self-jealous          self-occupied          self-pleasing
+self-seeking          self-serving          self-sufficient
+selfish          snug          socially incompatible
+soulless          specious          spectral
+spiritless          starry-eyed          storybook
+sullen          supposititious          transcendental
+transmundane          unactual          unaffectionate
+unclubbable          uncommunicative          uncompanionable
+uncongenial          unemotional          unfeeling
+unfounded          unfriendly          ungenial
+unimpassioned          unimpressionable          unloving
+unpassionate          unpractical          unreal
+unrealistic          unresponding          unresponsive
+unsociable          unsocial          unsubstantial
+unsusceptible          unsympathetic          untouchable
+visionary          wish-fulfilling          ------------
+
+avaricious
+a hog for          acquisitive          all-devouring
+avid          bottomless          cheap
+close          closefisted          coveting
+covetous          devouring          esurient
+gluttonous          gobbling          grabby
+grasping          greedy          hardfisted
+hoggish          illiberal          insatiable
+insatiate          limitless          mean
+mercenary          miserly          money-hungry
+money-mad          near          niggardly
+omnivorous          overgreedy          parsimonious
+penny-pinching          penurious          piggish
+pinchfisted          pinching          quenchless
+rapacious          ravening          ravenous
+save-all          selfish          slakeless
+sordid          stingy          swinish
+tight          tight-fisted          tightfisted
+unappeasable          unappeased          ungenerous
+unquenchable          unsated          unsatisfied
+unslakeable          unslaked          venal
+voracious          ------------
+
+base          CP
+GHQ          HQ          Mickey Mouse
+abhorrent          abject          abominable
+acid          acidity          agent
+alkali          alkalinity          alloisomer
+anchor          angle          anion
+antacid          antecedents          arrant
+atom          atrocious          awful
+background          bad          baluster
+balustrade          banister          base of operations
+base-minded          baseboard          baseborn
+basement          basis          bearing wall
+beastly          bed          bed on
+bedding          bedrock          beggarly
+below contempt          beneath contempt          biochemical
+black          blackguardly          blamable
+blameworthy          bolster          bottom
+bottom on          brutal          build
+build in          build on          buttress
+caitiff          call          camp
+caryatid          cation          causation
+cause          cause and effect          center of authority
+central administration          central office          central station
+chassis          cheap          cheesy
+chemical          chemical element          chromoisomer
+clown white          coarse          cold cream
+collector          colonnade          column
+command post          common          compact
+company headquarters          compound          construct
+contemptible          copolymer          core
+corrupt          cosmetics          counterfeit
+cowardly          craven          criminal
+crude          crummy          dado
+damnable          dark          dastard
+dastardly          debased          deficient
+degraded          degrading          deplorable
+depraved          derive          despicable
+determinant          determinative          detestable
+die          dimer          dire
+dirty          disgraceful          disgusting
+dishonorable          disreputable          distance
+downtrodden          draw          dreadful
+drugstore complexion          dunghill          dunghilly
+egregious          element          emitter
+enormous          establish          etiology
+evil          evil-minded          execrable
+eye shadow          eyebrow pencil          factor
+fake          fetid          filamentary transistor
+filthy          fix          flagitious
+flagrant          floor          flooring
+fond          foot          footing
+footstalk          forbidding          forged
+form          foul          found
+found on          foundation          foundation cream
+fourth-class          frame          framework
+fraudulent          fulsome          fundament
+fundamental          general headquarters          germanium crystal triode
+grave          greasepaint          grievous
+gross          ground          ground on
+grounds          groundwork          hand cream
+hand lotion          hardpan          hateful
+headquarters          heavy chemicals          heinous
+high polymer          hinge          home
+homopolymer          hook-collector transistor          horrible
+horrid          humble          humiliating
+hydracid          ignoble          ignominious
+imperfect          improper          inadequate
+incompetent          indecent          infamous
+inferior          infra dig          infrastructure
+iniquitous          inorganic chemical          install
+insufferable          insufficient          invest
+ion          irregular          isomer
+jack          keel          knavish
+lamentable          lascivious          lay the foundation
+lewd          line of departure          lip rouge
+lipstick          little          loathsome
+lousy          low          low-class
+low-down          low-grade          low-minded
+low-quality          low-test          lowborn
+lower strata          lowest level          lowest point
+lowly          lumpen          macromolecule
+main office          makeup          maladroit
+malodorous          mangy          mascara
+mean          measly          mediocre
+menial          mephitic          metamer
+miasmal          miasmic          miserable
+molecule          monomer          monstrous
+mopboard          mudpack          nadir
+nail polish          nasty          naughty
+nauseating          nefarious          neutralizer
+newel-post          noisome          nonacid
+not comparable          not in it          notorious
+noxious          objectionable          obnoxious
+obscene          occasion          odious
+offensive          organic chemical          ornery
+out of it          outrageous          oxyacid
+paint          paltry          pavement
+peccant          pedestal          pedicel
+peduncle          perspective          petty
+pier          pilaster          pile
+piling          pillar          pinchbeck
+pitch          pitiable          pitiful
+place          plant          plebeian
+plinth          point of departure          point-contact transistor
+poky          pole          poltroon
+poltroonish          polymer          poor
+pornographic          port of embarkation          position
+post          powder          powder puff
+predicate          principle          profane
+prop          pseudoisomer          puff
+punk          pusillanimous          put in
+put up          queen-post          radical
+rank          rascally          reagent
+rebarbative          recreant          regrettable
+repellent          reprehensible          reprobate
+reptilian          repugnant          repulsive
+rest          revolting          ribald
+riprap          rock bottom          roguish
+root          rotten          rouge
+rubbishy          rude          rudiment
+sad          scabby          scampish
+scandalous          schlock          scoundrelly
+scrubby          scruffy          scummy
+scurrilous          scurvy          seat
+seating          second-best          second-class
+secure          seedy          selfish
+servile          set          set on
+set up          shabby          shaft
+shameful          shocking          shoddy
+shoemold          sickening          sill
+sinful          slavish          sleazy
+small          socle          sole
+solid ground          solid rock          sordid
+sorry          spacistor          spurious
+squalid          staff          stalk
+stanchion          stand          standard
+standing          start          starting gate
+starting place          starting point          starting post
+station          status          stay
+stem          stereobate          stimulus
+stinking          stylobate          subbase
+submissive          subservient          substratum
+substruction          substructure          sulfacid
+support          surbase          tacky
+takeoff          talcum          talcum powder
+tatty          terra firma          terrible
+tetrode transistor          theme          third-class
+third-rate          tinny          toe
+too bad          transistor          trashy
+trimer          trivial          trunk
+ugly          unclean          underbuilding
+undercarriage          undergird          undergirding
+underlie          underlying level          underpinning
+understruction          understructure          undignified
+unforgivable          unipolar transistor          unmentionable
+unpardonable          unseemly          unskillful
+unspeakable          unwashed          unworthy
+upright          vanishing cream          vanity case
+venue          vest          vicious
+viewpoint          vile          villainous
+vulgar          wainscot          war paint
+warrant          wicked          woeful
+worst          worthless          wretched
+wrong          ------------
+
+covetous          acquisitive
+assembly          avid          band
+bevy          bunch          cluster
+covey          crew          desirous
+eager          envious          esurient
+gluttonous          grabby          grasping
+greedy          grudging          hoggish
+itchy          jealous          keen
+lickerish          party          piggish
+prehensile          rapacious          ravenous
+selfish          swinish          voracious
+------------
+
+egocentric          Narcissus          braggart
+compare          conceited          egocentristic
+egoist          egoistic          egomaniacal
+egotist          egotistic          egotistical
+individualist          individualistic          know-it-all
+narcissan          narcissine          narcissist
+narcissistic          narcist          narcistic
+no modest violet          self-absorbed          self-applauding
+self-centered          self-conceited          self-indulgent
+self-interested          self-loving          self-seeking
+self-serving          selfish          smart aleck
+stuck-up          swellhead          vainglorious
+------------
+
+egotistic          acquisitive          ambitious for self
+autistic          boastful          careerist
+cocky          conceited          egocentric
+egocentristic          egoistic          egomaniacal
+egotistical          grasping          greedy
+individualistic          inflated          narcissan
+narcissine          narcissistic          narcistic
+personalistic          possessive          pretentious
+privatistic          proud          puffed up
+remote          self-absorbed          self-admiring
+self-advancing          self-besot          self-centered
+self-concerned          self-considerative          self-contained
+self-devoted          self-esteeming          self-indulgent
+self-interested          self-jealous          self-occupied
+self-pleasing          self-satisfied          self-seeking
+self-serving          self-sufficient          selfish
+stuck-up          ------------
+
+egotistical          acquisitive
+ambitious for self          autistic          boastful
+boasting          bragging          careerist
+conceited          crowing          egocentric
+egocentristic          egoistic          egotistic
+grasping          greedy          individualistic
+narcissan          narcissine          narcissistic
+narcistic          overweening          personalistic
+possessive          privatistic          proud
+remote          self-absorbed          self-admiring
+self-advancing          self-besot          self-centered
+self-considerative          self-contained          self-devoted
+self-esteeming          self-indulgent          self-interested
+self-jealous          self-occupied          self-pleasing
+self-seeking          self-serving          self-sufficient
+selfish          swelled-headed          vain
+vainglorious          vaunting          ------------
+
+grasping
+a hog for          acquiring          acquisitive
+acquisitiveness          all-devouring          all-engulfing
+ambitious for self          autistic          avarice
+avaricious          avariciousness          avid
+avidity          avidness          bloodsucking
+bottomless          careerist          clamant
+clamorous          clinging          coveting
+covetous          covetousness          crying
+cupidity          demanding          desirous
+devouring          draining          egotistical
+esurient          exacting          exigent
+exorbitant          extortionate          frenzy of desire
+fury of desire          gluttonous          gluttony
+gobbling          grabby          graspingness
+greed          greediness          greedy
+gripping          hoggish          hoggishness
+holding          importunate          incontinence
+individualistic          inordinate desire          insatiability
+insatiable          insatiable desire          insatiate
+insistent          instant          intemperateness
+itching palm          itchy          keeping
+limitless          loud          lupine
+lust          mean          mercenary
+miserly          money-hungry          money-mad
+narcissistic          niggardly          omnivorous
+overgreediness          overgreedy          parasitic
+parsimonious          penny-pinching          penurious
+persistent          personalistic          pertinacious
+piggish          piggishness          possessive
+predacious          predatory          prehensile
+pressing          privatistic          quenchless
+rapacious          rapaciousness          rapacity
+raptorial          ravening          ravenous
+ravenousness          remote          retentive
+self-absorbed          self-admiring          self-advancing
+self-besot          self-centered          self-considerative
+self-contained          self-devoted          self-esteeming
+self-indulgent          self-interested          self-jealous
+self-occupied          self-pleasing          self-seeking
+self-serving          self-sufficient          selfish
+sharkish          slakeless          sordid
+sordidness          stingy          swinish
+swinishness          taxing          tenacious
+tight          tight-fisted          unappeasable
+unappeased          unquenchable          unsated
+unsatisfied          unslakeable          unslaked
+urgent          venal          voracious
+voraciousness          voracity          vulturine
+vulturous          wolfish          wolfishness
+------------
+
+greedy          Apician          a hog for
+acquiring          acquisitive          all-devouring
+ambitious for self          autistic          avaricious
+avid          bolting          bottomless
+careerist          close          cormorant
+coveting          covetous          cramming
+crapulent          crapulous          craving
+desirous          devouring          edacious
+egotistical          esurient          glutting
+gluttonizing          gluttonous          gobbling
+gorging          grabby          grasping
+gulping          guttling          guzzling
+hoggish          hyperphagic          individualistic
+insatiable          insatiate          intemperate
+itchy          limitless          materialistic
+mean          mercenary          mingy
+miserly          money-hungry          money-mad
+narcissistic          near          niggardly
+omnivorous          overgreedy          parsimonious
+penny-pinching          penurious          personalistic
+piggish          polyphagic          possessive
+prehensile          privatistic          quenchless
+rapacious          ravening          ravenous
+remote          self-absorbed          self-admiring
+self-advancing          self-besot          self-centered
+self-considerative          self-contained          self-devoted
+self-esteeming          self-indulgent          self-interested
+self-jealous          self-occupied          self-pleasing
+self-seeking          self-serving          self-sufficient
+selfish          slakeless          sordid
+stingy          stuffing          swinish
+tight          tight-fisted          unappeasable
+unappeased          unquenchable          unsated
+unsatisfied          unslakeable          unslaked
+venal          voracious          wolfing
+------------
+
+hoggish          Apician          a hog for
+acquisitive          all-devouring          asinine
+avaricious          avid          beastly
+bolting          bottomless          bovid
+bovine          caprid          caprine
+coveting          covetous          cowish
+cowlike          cramming          crapulent
+crapulous          deerlike          devouring
+edacious          equestrian          equine
+esurient          glutting          gluttonizing
+gluttonous          goatish          goatlike
+gobbling          gorging          grabby
+grasping          greedy          gulping
+guttling          guzzling          hircine
+hogging          hoofed          horsy
+hyperphagic          insatiable          insatiate
+intemperate          limitless          mercenary
+miserly          money-hungry          money-mad
+monopolistic          monopolizing          monopoloid
+mulish          omnivorous          overgreedy
+ovine          piggish          polyphagic
+possessive          quenchless          rapacious
+ravening          ravenous          ruminant
+self-seeking          selfish          sheepish
+sheeplike          slakeless          sordid
+stuffing          swinish          unappeasable
+unappeased          ungulate          unquenchable
+unsated          unsatisfied          unslakeable
+unslaked          venal          voracious
+wolfing          ------------
+
+individualistic          absolute
+acquisitive          ambitious for self          autarchic
+autarkic          autistic          autonomous
+bourgeois          capitalist          careerist
+certain          concrete          defined
+definite          detailed          determinate
+different          distinct          distinguished
+egotistical          esoteric          especial
+exceptional          express          extraordinary
+fixed          free-enterprise          free-spirited
+freewheeling          grasping          greedy
+heretical          heterodox          independent
+individual          individualist          inner
+inner-directed          intimate          minute
+narcissistic          neutral          nonaligned
+nonconformist          nonpartisan          nonsocialistic
+noteworthy          particular          personal
+personalistic          possessive          precise
+private          private-enterprise          privatistic
+remote          respective          self-absorbed
+self-admiring          self-advancing          self-besot
+self-centered          self-considerative          self-contained
+self-dependent          self-determined          self-devoted
+self-directing          self-esteeming          self-governed
+self-governing          self-indulgent          self-interested
+self-jealous          self-occupied          self-pleasing
+self-reliant          self-seeking          self-serving
+self-subsistent          self-sufficient          self-supporting
+selfish          several          singular
+solipsistic          sovereign          special
+specific          third-force          third-world
+unorthodox          ------------
+
+little          Lilliputian
+a bit          a breath          a little
+abject          abominable          ace
+arrant          atom          atrocious
+authoritarian          baby          back-burner
+bantam          barely          base
+beggarly          bigot          bigoted
+bit          borne          bowshot
+brief          brief span          by a hair
+by an ace          casual          cheap
+cheesy          close quarters          close range
+closed          collateral          compact
+compendious          concise          constricted
+contemptible          crack          cramped
+creedbound          crumb          crummy
+cursory          curt          curtal
+curtate          dab          deaf
+deaf to reason          debased          decurtate
+deficient          degraded          depraved
+depthless          despicable          diminutive
+dinky          dirty          disgusting
+dispensable          dole          dollop
+dot          dram          dribble
+driblet          dwarf          earreach
+earshot          elfin          ever so little
+execrable          exiguous          exiguously
+faintly          fanatical          farthing
+feebly          few          flagrant
+fleck          flyspeck          footling
+fortuitous          foul          fragment
+fulsome          gobbet          grain
+granule          grave          groat
+gross          gunshot          hair
+hair space          hairbreadth          hairsbreadth
+half-pint          handful          hardly
+hardly any          hardly ever          heinous
+hidebound          illiberal          immaterial
+imperfect          imperfectly          in a nutshell
+in miniature          in the small          inadequate
+inappreciable          inappreciably          inch
+incidental          incompetent          inconsequential
+inconsequentially          inconsiderable          ineffectual
+inessential          inferior          infinitesimal
+infrequently          insignificant          insignificantly
+instant          instantaneous          insufficient
+insular          iota          irrelevant
+itsy-bitsy          itty-bitty          jot
+just a bit          knee-high          light
+lightly          limited          little bit
+little ways          little while          little-minded
+low          low-down          lumpen
+maladroit          mangy          meager
+meagerly          mean          mean-minded
+mean-spirited          measly          mediocre
+microscopic          midget          mingy
+mini          miniature          minim
+minimally          minimum          minor
+minuscule          minute          minutely
+minutiae          miserable          mite
+modicum          molecule          moment
+monkey          monstrous          mote
+narrow          narrow-hearted          narrow-minded
+narrow-souled          narrow-spirited          nearsighted
+nefarious          negligible          negligibly
+niggard          niggardly          no
+no great shakes          no time          nonessential
+not any          not comparable          not enough
+not hardly          not in it          not much
+not vital          nutshell          obnoxious
+odious          one-horse          only just
+ounce          out of it          pair of winks
+paltry          parochial          particle
+pebble          petit          petite
+petty          picayune          picayunish
+piddling          pinch          pindling
+pint-sized          pistol shot          pittance
+point          poky          poor
+potty          provincial          puny
+purblind          pygmy          rank
+rarely          reptilian          scabby
+scant          scantily          scanty
+scarcely          scrap          scrubby
+scruffy          scruple          scummy
+scurvy          secondary          seldom
+self-centered          selfish          set
+shabby          shallow          shoddy
+shoestring          short          short and sweet
+short distance          short piece          short spell
+short time          short way          shortsighted
+skimpy          skin-deep          slight
+slightly          small          small space
+small-beer          small-minded          smallish
+smally          smidgen          smidgin
+smitch          span          sparse
+speck          spitting distance          spoonful
+spot          spurt          squalid
+step          stingy          straitlaced
+stuffy          subordinate          subsidiary
+succinct          summary          superficial
+synoptic          tant soit peu          taste
+technical          teensy-weensy          teeny
+teeny-weeny          thimbleful          tiny
+tiny bit          tittle          toy
+transient          trifling          trifling amount
+triflingly          trivia          trivial
+two shakes          two-by-four          uncatholic
+uncharitable          unchivalrous          undersized
+unessential          unfrequently          ungenerous
+unimaginative          unimportant          unimpressive
+unliberal          unmentionable          unnoteworthy
+unoften          unskillful          vile
+weakly          wee          whit
+wretched          young          youthful
+------------
+
+narcissistic          acquisitive          ambitious for self
+autistic          careerist          complacent
+conceited          consequential          egocentric
+egocentristic          egoistic          egotistical
+grasping          greedy          individualistic
+narcissan          narcissine          narcistic
+overproud          overweening          personalistic
+possessive          privatistic          remote
+self          self-absorbed          self-admiring
+self-advancing          self-approving          self-assuming
+self-besot          self-centered          self-complacent
+self-congratulating          self-congratulatory          self-considerative
+self-contained          self-content          self-contented
+self-delighting          self-devoted          self-endeared
+self-esteeming          self-gratulating          self-gratulatory
+self-important          self-indulgent          self-interested
+self-jealous          self-loving          self-occupied
+self-pleasing          self-respecting          self-satisfied
+self-seeking          self-serving          self-sufficient
+selfish          smug          stuck-up
+vain          vainglorious          ------------
+
+near
+about          about to be          abutting
+accost          adjacent          adjoining
+advance          advancing          all but
+almost          along toward          already in sight
+among          angustifoliate          angustirostrate
+angustisellate          angustiseptal          anticipate
+ape          appear like          approach
+approaching          appropinquate          approximate
+approximating          approximative          arm-in-arm
+around          as good as          aside
+at          at close quarters          at hand
+at next hand          attached          attracted to
+avaricious          await          be destined
+be fated          be imminent          be in store
+be like          be redolent of          be to be
+be to come          bear down on          bear down upon
+bear resemblance          bear up          beside
+bordering on          brew          brewing
+bring to mind          burning          by
+call to mind          call up          cheap
+cheek-by-jowl          circa          circumscribed
+close          close about          close at hand
+close by          close in          close to
+close upon          close with          close-by
+close-fitting          closefisted          closely
+come          come close          come closer
+come forward          come near          come on
+come up          coming          comparable
+compare with          confined          confront
+connected          constricted          contiguous
+converge          copy          correspond
+counterclockwise          counterfeit          cramp
+cramped          crowded          draw near
+draw nigh          draw on          drawn to
+encounter          equal          evoke
+expect          face          familiar
+fast by          favor          follow
+foresee          foretell          forthcome
+forthcoming          from          future
+gain upon          gather          gathering
+going to happen          hairbreadth          hand and glove
+hand-in-hand          hang over          hard
+hard by          hard on          hardfisted
+hereabout          hereabouts          homologous
+hope          hot          hover
+illiberal          imitate          immediate
+imminent          impend          impendent
+impending          in          in danger imminent
+in prospect          in reserve          in spitting distance
+in store          in the cards          in the offing
+in the wind          in view          incapacious
+incommodious          inseparable          instant
+intimate          isthmian          isthmic
+just about          larboard          lean towards
+left          left-hand          left-wing
+left-wingish          levorotatory          liberal
+lie ahead          lie over          like
+limited          look for          look forward to
+look like          loom          looming
+lower          lowering          lurking
+match          meager          mean
+menace          menacing          mimic
+mirror          miserly          much at one
+much the same          narrow          narrow the gap
+near at hand          near the mark          near to
+near upon          nearabout          nearabouts
+nearby          nearing          nearish
+nearly          nearly reproduce          nearly the same
+next door to          next to          niggardly
+nigh          nigh about          nighhand
+nighish          not far          not far from
+not quite          not tell apart          on
+on the horizon          oncoming          only a step
+overhang          overhanging          parallel
+parsimonious          partake of          penny-pinching
+penurious          pinchfisted          pinching
+plan          plot          port
+predict          preparing          pretty near
+project          prophesy          propinque
+proximal          proximate          quasi
+radical          relatable          related
+relative          remind one of          resemble
+restricted          rival          round
+same but different          save-all          savor of
+scant          scanty          seem like
+selfish          side-by-side          sidle up to
+similar          simulate          sinister
+sinistral          sinistrocerebral          sinistrocular
+sinistrogyrate          sinistrorse          slender
+smack of          sound like          stack up with
+step up          stingy          strait
+suggest          take after          that will be
+thereabout          thereabouts          thick
+thick as thieves          threaten          threatening
+tight          tight-fisted          tightfisted
+to          to come          touch
+toward          ungenerous          upcoming
+verge on          verging on          verging upon
+vicinal          virtually          waiting
+warm          well-nigh          with
+within call          within earshot          within hearing
+within reach          within sight          ------------
+
+pompous
+Gongoresque          Johnsonian          Latinate
+affected          arrogant          assured
+aureate          awkward          bedizened
+big-sounding          bloated          boastful
+bombastic          braggart          ceremonial
+ceremonious          cocksure          conceited
+confident          conventional          convinced
+convoluted          cramped          cumbrous
+decided          declamatory          decorous
+determined          egotistical          elephantine
+elevated          embroidered          euphuistic
+exhibitionist          flamboyant          flaming
+flashy          flatulent          flaunting
+flossy          flowery          forced
+formal          fulsome          fustian
+garish          gassy          gaudy
+grandiloquent          grandiose          grandisonant
+guinde          halting          haughty
+heavy          hieratic          high-flowing
+high-flown          high-flying          high-hat
+high-sounding          highfalutin          hoity-toity
+hubristic          imperious          important
+inflated          inkhorn          labored
+labyrinthine          leaden          lexiphanic
+liturgic          lofty          lumbering
+lurid          magisterial          magniloquent
+meretricious          narcissistic          ornate
+orotund          ostentatious          overbearing
+overblown          overconfident          overdone
+overelaborate          overinvolved          oversure
+overweening          overwrought          pedantic
+persuaded          poised          ponderous
+pontifical          positive          presumptuous
+pretentious          proud          puffy
+reassured          rhetorical          ritual
+ritualistic          sacerdotal          secure
+self-assured          self-centered          self-conceited
+self-confident          self-important          self-reliant
+selfish          sensational          sensationalistic
+sententious          sesquipedalian          showy
+snobbish          snooty          snotty
+solemn          sonorous          stately
+stiff          stilted          stuck-up
+stuffy          sure          swollen
+tall          tortuous          tumid
+turgid          unafraid          undoubting
+unfaltering          unhesitating          unwavering
+unwieldy          uppity          vain
+vainglorious          well-mannered          windy
+------------
+
+possessive          acquisitive          ambitious for self
+autistic          careerist          controlling
+covetous          dominating          domineering
+egotistical          grasping          greedy
+individualistic          materialistic          narcissistic
+niggardly          overbearing          personalistic
+possessory          privatistic          proprietary
+remote          self-absorbed          self-admiring
+self-advancing          self-besot          self-centered
+self-considerative          self-contained          self-devoted
+self-esteeming          self-indulgent          self-interested
+self-jealous          self-occupied          self-pleasing
+self-seeking          self-serving          self-sufficient
+selfish          stingy          ungenerous
+ungiving          unyielding          ------------
+
+remote
+Olympian          above all that          abstracted
+acquisitive          alien          aloof
+ambitious for self          ancient          apart
+arcane          asunder          at a distance
+autistic          away          back
+backward          bashful          blank
+careerist          casual          chilled
+chilly          cold          constrained
+cool          detached          devious
+discreet          disinterested          distal
+distant          early          egotistical
+exclusive          exotic          expressionless
+faint          far          far off
+far-flung          far-off          faraway
+farfetched          fat          foggy
+forbidding          forced          frigid
+frontier          frosty          grasping
+greedy          guarded          icy
+impassive          impersonal          implausible
+improbable          in a backwater          inaccessible
+inappropriate          inconsiderable          incurious
+indifferent          individualistic          insignificant
+insular          introverted          irrelevant
+isolated          lonely          lonesome
+long-distance          long-range          modest
+narcissistic          negligible          obscure
+off          offish          out-of-the-way
+out-of-the-world          outlandish          outlying
+outside          personalistic          poor
+possessive          privatistic          quarantined
+quite another thing          recondite          removed
+repressed          reserved          restrained
+reticent          retired          retiring
+secluded          seclusive          secret
+segregated          self-absorbed          self-admiring
+self-advancing          self-besot          self-centered
+self-considerative          self-contained          self-devoted
+self-esteeming          self-indulgent          self-interested
+self-jealous          self-occupied          self-pleasing
+self-seeking          self-serving          self-sufficient
+selfish          separate          separated
+sequestered          shrinking          shut off
+slender          slight          slim
+small          something else again          standoff
+standoffish          strained          subdued
+subtle          suppressed          tramontane
+ultramontane          unaffable          unapproachable
+unconcerned          uncongenial          unconnected
+undemonstrative          unexpansive          unfamiliar
+unfrequented          ungenial          uninterested
+unlikely          unrelated          unsettled
+unusual          unvisited          withdrawn
+------------
+
+self-centered          acquisitive          ambitious for self
+autistic          careerist          egocentric
+egocentristic          egoistic          egotistical
+grasping          greedy          individualistic
+narcissan          narcissine          narcissistic
+narcistic          personalistic          possessive
+privatistic          remote          self-absorbed
+self-admiring          self-advancing          self-besot
+self-considerative          self-contained          self-devoted
+self-esteeming          self-indulgent          self-interested
+self-jealous          self-occupied          self-pleasing
+self-seeking          self-serving          self-sufficient
+selfish          ------------
+
+self-complacent          bovine
+complacent          consequential          narcissan
+narcissine          narcissistic          narcistic
+overproud          overweening          priggish
+self-admiring          self-approving          self-assuming
+self-congratulating          self-congratulatory          self-content
+self-contented          self-delighting          self-endeared
+self-esteeming          self-gratulating          self-gratulatory
+self-important          self-loving          self-respecting
+self-satisfied          self-sufficient          selfish
+smug          vain          vainglorious
+------------
+
+self-contained          acquisitive          aloof
+ambitious for self          autarchic          autarkic
+autistic          autonomous          bashful
+calm          careerist          close
+collected          complete          composed
+controlled          cool          detached
+dissociable          distant          egotistical
+entire          even-tempered          formal
+free-spirited          freewheeling          grasping
+grave          greedy          imperturbable
+in control          incompatible          independent
+individualistic          inner-directed          insociable
+mopey          mopish          morose
+narcissistic          neutral          nonaligned
+nongregarious          nonpartisan          peaceful
+personalistic          placid          possessive
+privatistic          remote          reserved
+reticent          self-absorbed          self-admiring
+self-advancing          self-besot          self-centered
+self-considerative          self-controlled          self-dependent
+self-determined          self-devoted          self-directing
+self-esteeming          self-governed          self-governing
+self-indulgent          self-interested          self-jealous
+self-occupied          self-pleasing          self-possessed
+self-reliant          self-seeking          self-serving
+self-subsistent          self-sufficient          self-supporting
+selfish          serene          serious
+snug          sober          socially incompatible
+solemn          sovereign          standoffish
+sullen          third-force          third-world
+tranquil          unclubbable          uncommunicative
+uncompanionable          uncongenial          undisturbed
+unemotional          unflappable          unfriendly
+ungenial          unitary          unperturbed
+unruffled          unsociable          unsocial
+whole          withdrawn          ------------
+
+self-esteeming
+acquisitive          ambitious for self          autistic
+careerist          complacent          consequential
+egotistical          erect          grasping
+greedy          house-proud          independent
+individualistic          narcissan          narcissine
+narcissistic          narcistic          overproud
+overweening          personalistic          possessive
+prideful          privatistic          proud
+proud as Lucifer          proud-blooded          proud-looking
+proud-minded          proud-spirited          proudful
+proudhearted          purse-proud          remote
+self-absorbed          self-admiring          self-advancing
+self-approving          self-assuming          self-besot
+self-centered          self-complacent          self-confident
+self-congratulating          self-congratulatory          self-considerative
+self-contained          self-content          self-contented
+self-delighting          self-devoted          self-endeared
+self-gratulating          self-gratulatory          self-important
+self-indulgent          self-interested          self-jealous
+self-loving          self-occupied          self-pleasing
+self-reliant          self-respecting          self-satisfied
+self-seeking          self-serving          self-sufficient
+selfish          smug          stiff-necked
+vain          vainglorious          ------------
+
+self-indulgent
+acquisitive          ambitious for self          autistic
+bibulous          careerist          crapulent
+crapulous          debauching          dissipating
+dissolute          egotistical          epicurean
+excessive          extravagant          extreme
+gluttonous          grasping          greedy
+hedonistic          immoderate          incontinent
+individualistic          indulgent          inordinate
+intemperate          licentious          narcissistic
+overindulgent          overindulging          personalistic
+pleasure-seeking          possessive          privatistic
+prodigal          profligate          remote
+self-absorbed          self-admiring          self-advancing
+self-besot          self-centered          self-considerative
+self-contained          self-devoted          self-esteeming
+self-interested          self-jealous          self-occupied
+self-pleasing          self-seeking          self-serving
+self-sufficient          selfish          sensual
+swinish          sybaritic          too much
+unbridled          unconstrained          uncontrolled
+undisciplined          unfrugal          unlimited
+unmeasured          unrestrained          unthrifty
+------------
+
+self-seeking          acquisitive          acquisitiveness
+ambitious for self          autism          autistic
+careerism          careerist          ego trip
+egoistic          egomaniacal          egotism
+egotistic          egotistical          grasping
+graspingness          greed          greedy
+individualism          individualistic          interest
+narcissism          narcissistic          personal aims
+personal ambition          personal desires          personalism
+personalistic          possessive          possessiveness
+privatism          privatistic          remote
+remoteness          self-absorbed          self-absorption
+self-admiration          self-admiring          self-advancement
+self-advancing          self-besot          self-centered
+self-centeredness          self-concerned          self-consideration
+self-considerative          self-contained          self-containment
+self-devoted          self-devotion          self-esteem
+self-esteeming          self-indulgence          self-indulgent
+self-interest          self-interested          self-interestedness
+self-jealous          self-jealousy          self-occupation
+self-occupied          self-pleasing          self-regard
+self-serving          self-solicitude          self-sufficiency
+self-sufficient          selfhood          selfish
+selfishness          selfism          ------------
+
+self-serving
+acquisitive          acquisitiveness          ambitious for self
+autism          autistic          careerism
+careerist          ego trip          egoistic
+egomaniacal          egotism          egotistic
+egotistical          grasping          graspingness
+greed          greedy          individualism
+individualistic          interest          narcissism
+narcissistic          personal aims          personal ambition
+personal desires          personalism          personalistic
+possessive          possessiveness          privatism
+privatistic          remote          remoteness
+self-absorbed          self-absorption          self-admiration
+self-admiring          self-advancement          self-advancing
+self-besot          self-centered          self-centeredness
+self-concerned          self-consideration          self-considerative
+self-contained          self-containment          self-devoted
+self-devotion          self-esteem          self-esteeming
+self-indulgence          self-indulgent          self-interest
+self-interested          self-interestedness          self-jealous
+self-jealousy          self-occupation          self-occupied
+self-pleasing          self-seeking          self-solicitude
+self-sufficiency          self-sufficient          selfish
+selfishness          selfism          ------------
+
+self-sufficient
+acquisitive          ambitious for self          autarchic
+autarkic          autistic          autonomous
+bashful          careerist          close
+closed          complacent          consequential
+dissociable          egotistical          erect
+free-spirited          freewheeling          grasping
+greedy          house-proud          incompatible
+independent          individual          individualistic
+inner-directed          insociable          mopey
+mopish          morose          narcissan
+narcissine          narcissistic          narcistic
+neutral          nonaligned          nongregarious
+nonpartisan          one-man          overproud
+overweening          personalistic          possessive
+prideful          privatistic          proud
+proud as Lucifer          proud-blooded          proud-looking
+proud-minded          proud-spirited          proudful
+proudhearted          purse-proud          remote
+self-absorbed          self-admiring          self-advancing
+self-approving          self-assuming          self-besot
+self-centered          self-complacent          self-confident
+self-congratulating          self-congratulatory          self-considerative
+self-contained          self-content          self-contented
+self-delighting          self-dependent          self-determined
+self-devoted          self-directing          self-endeared
+self-esteeming          self-governed          self-governing
+self-gratulating          self-gratulatory          self-important
+self-indulgent          self-interested          self-jealous
+self-loving          self-occupied          self-pleasing
+self-reliant          self-respecting          self-satisfied
+self-seeking          self-serving          self-subsistent
+self-supporting          self-sustained          self-sustaining
+selfish          smug          snug
+socially incompatible          sovereign          stiff-necked
+sullen          third-force          third-world
+unclubbable          uncommunicative          uncompanionable
+uncongenial          unfriendly          ungenial
+unit          unsociable          unsocial
+vain          vainglorious          ------------
+
+selfish
+acquisitive          ambitious for self          autistic
+avaricious          careerist          covetous
+egocentric          egocentristic          egoistic
+egoistical          egomaniacal          egotistic
+egotistical          grasping          greedy
+grudging          illiberal          inconsiderate
+individualistic          mean          mercenary
+miserly          narcissan          narcissine
+narcissistic          narcistic          narrow
+niggardly          parsimonious          penny-pinching
+penurious          personalistic          possessive
+privatistic          remote          self-absorbed
+self-admiring          self-advancing          self-aggrandizing
+self-besot          self-centered          self-concerned
+self-considerative          self-contained          self-devoted
+self-esteeming          self-indulgent          self-interested
+self-jealous          self-loving          self-occupied
+self-pleasing          self-seeking          self-serving
+self-sufficient          stingy          thoughtless
+tight          tight-fisted          uncharitable
+ungenerous          ------------
+
+small          Lenten
+Lilliputian          Spartan          abject
+abominable          abstemious          airy
+arrant          ascetic          atrocious
+attenuate          attenuated          austere
+authoritarian          baby          back-burner
+bantam          base          beggarly
+bigot          bigoted          borne
+boyish          cheap          cheesy
+close          closed          commonplace
+constricted          contemptible          cramped
+creedbound          crummy          cursory
+deaf          deaf to reason          debased
+deficient          degraded          delicate
+depraved          depthless          despicable
+diaphanous          diluted          diminished
+diminutive          dinky          dirty
+disgusting          dispensable          dwarfed
+dwarfish          elfin          ethereal
+everyday          execrable          exiguous
+fanatical          few          fine
+fine-drawn          finespun          flagrant
+flat          flimsy          footling
+foul          frail          frugal
+fulsome          gauzy          girlish
+gossamer          gracile          grave
+gross          grudging          half-pint
+heinous          hidebound          homely
+humble          humble-looking          humble-visaged
+humblest          illiberal          immaterial
+immature          imperfect          impoverished
+in a nutshell          in miniature          in the small
+inadequate          inappreciable          incompetent
+inconsequential          inconsiderable          inessential
+inferior          inglorious          innocuous
+insignificant          insubstantial          insufficient
+insular          irrelevant          jejune
+knee-high          lacy          lean
+least          lesser          light
+limited          little          little-minded
+low          low-down          lowest
+lowliest          lowly          lumpen
+maladroit          mangy          matter-of-fact
+meager          mean          mean-minded
+mean-spirited          measly          mediocre
+midget          mingy          mini
+miniature          minor          minuscule
+minute          miserable          miserly
+misty          modest          monkey
+monstrous          mundane          narrow
+narrow-hearted          narrow-minded          narrow-souled
+narrow-spirited          nearsighted          nefarious
+negligible          niggardly          no great shakes
+nonessential          not comparable          not in it
+not vital          nugatory          obnoxious
+odious          one-horse          out of it
+paltry          papery          parochial
+parsimonious          peewee          petit
+petite          petty          picayune
+picayunish          piddling          pindling
+pint-sized          plain          pocket-sized
+poky          poor          provincial
+puny          purblind          rank
+rare          rarefied          reduced
+reptilian          scabby          scant
+scanty          scrawny          scrimp
+scrimpy          scrubby          scruffy
+scummy          scurvy          secondary
+selfish          shabby          shallow
+shoddy          short          shortsighted
+simple          skimp          skimpy
+skin-deep          slender          slenderish
+slight          slight-made          slightly
+slim          slimmish          slinky
+small-minded          small-scale          smallish
+smally          spare          sparing
+squalid          starvation          stingy
+stinted          stinting          straitened
+straitlaced          stuffy          stunted
+subsistence          subtle          superficial
+svelte          sylphlike          teachable
+technical          teeny          tenuous
+thin          thin-bodied          thin-set
+thin-spun          thinnish          threadlike
+tight          tight-fisted          tiny
+trifling          trivial          two-by-four
+two-dimensional          uncatholic          uncharitable
+unchivalrous          undersized          undistinguished
+unessential          ungenerous          unimaginative
+unimportant          unimpressive          uninspired
+unliberal          unmentionable          unnoteworthy
+unnourishing          unnutritious          unoriginal
+unpretentious          unprofound          unsatisfactory
+unskillful          vague          vile
+wasp-waisted          watered          watered-down
+watery          weak          wee
+willowy          wiredrawn          wispy
+wretched          young          ------------
+
+sordid
+a hog for          abased          abominable
+acquisitive          all-devouring          arrant
+atrocious          avaricious          avid
+awful          base          beastly
+beat-up          bedraggled          beneath contempt
+black          blameworthy          blowsy
+blowzy          bottomless          brutal
+careless          chintzy          contemptible
+corrupt          coveting          covetous
+debased          defiled          degraded
+deplorable          derogatory          despicable
+deteriorated          detestable          devouring
+dilapidated          dingy          dire
+dirty          discreditable          disgusting
+dishonorable          disreputable          dowdy
+down-and-out          drabbletailed          draggled
+draggletailed          dreadful          egregious
+enormous          esurient          execrable
+feculent          fetid          filthy
+flagrant          foul          frowsy
+frowzy          frumpish          frumpy
+fulsome          gluttonous          gobbling
+grabby          grasping          greedy
+grievous          gross          grubby
+grudging          hateful          heinous
+hoggish          horrible          horrid
+ignoble          ignominious          impoverished
+impure          in rags          infamous
+informal          inglorious          insanitary
+insatiable          insatiate          lamentable
+limitless          loathsome          loose
+lousy          low          low-down
+lumpen          maggoty          mean
+mercenary          messy          mingy
+miserable          miserly          money-hungry
+money-mad          monstrous          mucky
+mussy          nasty          nefarious
+negligent          niggard          niggardly
+noisome          notorious          obnoxious
+odious          offensive          omnivorous
+outrageous          overgreedy          parsimonious
+penurious          piggish          pinchpenny
+pitiable          pitiful          poky
+polluted          poor          poverty-stricken
+putrid          quenchless          ragged
+raggedy          ramshackle          rank
+rapacious          ravening          ravenous
+regrettable          reprehensible          repulsive
+rotten          ruinous          sad
+scandalous          schlock          scraggly
+scurvy          seamy          seedy
+selfish          servile          shabby
+shady          shameful          shocking
+shoddy          slack          slakeless
+slattern          slatternly          sleazy
+slimy          slipshod          sloppy
+slovenly          slumlike          slummy
+sluttish          sodden          squalid
+stingy          swinish          tacky
+tattered          terrible          too bad
+tumbledown          unappeasable          unappeased
+unclean          uncleanly          unkempt
+unneat          unpraiseworthy          unquenchable
+unrespectable          unsanitary          unsated
+unsatisfied          unsavory          unsightly
+unslakeable          unslaked          untidy
+venal          vile          villainous
+voracious          woeful          worst
+worthless          wretched          ------------
+
+subjective
+abstract          biased          cerebral
+conceptive          conceptual          deep-seated
+egocentric          egoistic          endopsychic
+esoteric          idiosyncratic          immanent
+implanted          implicit          inalienable
+individual          indwelling          infixed
+ingoing          ingrained          inherent
+inner          inner-directed          intellectual
+intelligent          internal          intrinsic
+introversive          introvert          introverted
+inward          inwrought          irreducible
+mental          noetic          nominative
+nonobjective          noological          personal
+phrenic          prejudiced          private
+psychic          psychologic          rational
+reasoning          resident          secret
+self-serving          selfish          spiritual
+thinking          unalienable          unchallengeable
+unquestionable          ------------
+
+thoughtless          absent-minded
+airy          apish          arbitrary
+artless          asinine          batty
+befooled          beguiled          besotted
+blank          blankminded          brainless
+brash          buffoonish          calm
+capricious          careless          casual
+cockeyed          crazy          credulous
+cursory          daffy          daft
+dazed          degage          discourteous
+disregardant          disregardful          distracted
+distrait          dizzy          doting
+dumb          easygoing          empty
+empty-headed          fatuitous          fatuous
+featherbrained          featherheaded          feckless
+flaky          flippant          fluttery
+fond          fool          foolheaded
+foolish          forgetful          free and easy
+frivolous          fuddled          futile
+gaga          giddy          giddy-brained
+giddy-headed          giddy-pated          giddy-witted
+goofy          grasshopper          gulled
+half-assed          happy-go-lucky          harebrain
+harebrained          hasty          heedless
+hotheaded          idiotic          ill-advised
+ill-considered          ill-contrived          ill-devised
+ill-gauged          ill-judged          imbecile
+impolite          impolitic          improvident
+imprudent          inadept          inadvertent
+inadvisable          inane          inapt
+inattentive          incautious          incogitant
+inconsiderate          incurious          indifferent
+indiscreet          inefficient          inept
+inexpedient          inexpert          infatuated
+injudicious          inobservant          insane
+insensate          insensitive          insouciant
+irrational          kooky          lazy
+loony          mad          madcap
+maudlin          mediocre          mindless
+misadvised          misguided          moronic
+myopic          neglectful          negligent
+nirvanic          nutty          oblivious
+offhand          passive          pedestrian
+perfunctory          poor          quietistic
+rash          rattlebrained          rattleheaded
+rattlepated          reasonless          reckless
+regardless          relaxed          remiss
+respectless          rude          sappy
+scatterbrained          scramblebrained          screwy
+selfish          senseless          sentimental
+sharp          shatterbrained          shiftless
+shortsighted          silly          skill-less
+stupid          tactless          thoughtfree
+thriftless          tranquil          unaccommodating
+unadvised          unapt          uncalculating
+uncaring          unceremonious          uncomplaisant
+unconsidered          uncooperative          undeft
+undexterous          undextrous          undiplomatic
+undiscerning          uneconomical          unfacile
+unforeseeing          ungracious          unguarded
+unheedful          unheeding          unhelpful
+unideaed          unintellectual          unintelligent
+unmarking          unmindful          unnoticing
+unnoting          unobliging          unobservant
+unobserving          unoccupied          unprepared
+unproficient          unproviding          unready
+unreasonable          unreasoning          unreflecting
+unreflective          unremarking          unseeing
+unsensible          unskillful          unsolicitous
+unsound          untactful          unthinking
+unthoughtful          unthrifty          unwise
+vacant          vacuous          wacky
+wet          witless          wrecking

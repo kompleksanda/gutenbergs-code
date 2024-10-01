@@ -1,0 +1,24 @@
+AIRFARE          AIRFARES          AIRHEAD          AIRMEN          BECHTEL          BECKEL          BECKNELL
+BECKSTEAD          BEDSPREAD          BEDWELL          BEHREND          BEHRENDS          BENDEL(2)          BENWARE
+BEREND          BERENDS          BETHEL(2)          BEZEK          BRESSETTE          BREZHNEV'S(2)          BREZHNEV(2)
+CENTEL          CENTEX          CHEMED          CLEWELL          CRESSWELL          CRESWELL          DEATHBED
+DEFEX          DELFTWARE          DELMED          DELMED'S          DELTEC          DEMBECK          DESKJET
+DEWELL          DUENEZ          EDGREN          EGGHEAD          EGGHEAD'S          EGGSHELL          EHMEN
+ELLESSE          ELSEWHERE          EMENS          EMPRESS          ENMESHED          ENSNARED          ENTEX
+ENTRENCH          ENTRENCHED          ESTELLE          ETESS          EXCESS          EXEC          EXECS
+EXTEL          FAREWELL          FERREL          FEWELL          FRENZEL(2)          FRETWELL          FUENTEZ
+GENEX          GENIERE          GLENAYRE          GLENFED          GLENFED'S          GREWELL          HEADDRESS
+HEADRESTS          HEADSET          HEADSETS          HEALTHCARE          HEALTHCARE'S          HEALTHVEST          HELGREN
+HEMPSTEAD          HENPECKED          HEWELL          JENRETTE          JENRETTE'S          JEREZ          JEZEK
+JUEDES          KENMARE          KENNEBECK          KETCHLEDGE          L'EXPRESS          LECTEC          LEDWELL
+LEGGETTE          LEMMEN          LENGYEL          LEONELLE          LESZEK          MAILLET          MEDCHEM
+MEDCHEM'S          MELLGREN          MENDELL          MENDEZ          MERTES          MESTEK          METEX
+NECKWEAR          NEGEV          NELLETTE          NETWARE          PEMEX          PENTAIR          PENTECH
+PENWELL          PENWEST          PERES          PEREZ          PESEK          PESHEK          PEWEX
+PUENTES          QUESTECH          RECZEK          REDHEAD          REDHEADS          REDNECK          REDNECKS
+REHFELD          REHFELDT          RESDEL          REZEK          SEGMENT(2)          SEGMENTS(2)          SELF-HELP
+SENTELLE          SERRES          SEXTET          SHEMWELL          SHENZHEN          SHEWELL          STAEBELL
+STAIRWELL          TELEX          TELEXED          TELMEX          TENRECS          TEWELL          THEMSELVES
+THREADBARE          THRELKELD          TREADWELL          VELEZ          VENTECH          WEDTECH          WEDTECH'S
+WELFARE          WELLEK          WELLHEAD          WELLTECH          WESTAIR          WESTFED          ZEHNTEL
+ZENTEC          

@@ -1,0 +1,4327 @@
+------------
+
+alcohol          Amytal          Amytal pill
+Argyrol          Chile saltpeter          Demerol
+Dial          Dolophine          H
+John Barleycorn          Luminal          Luminal pill
+M          Mercurochrome          Merthiolate
+Mickey Finn          Nembutal          Nembutal pill
+Salol          Seconal          Seconal pill
+Sulfonal          Trional          Tuinal
+Tuinal pill          absolute alcohol          acetate
+acetone          alcoholic beverage          alcoholic drink
+aldehyde          amine          ammonia
+amobarbital sodium          amyl alcohol          analgesic
+anhydride          anodyne          antifreeze
+aqua regia          aqua vitae          ardent spirits
+arsenate          arsenite          barb
+barbital          barbiturate          barbiturate pill
+barbituric acid          basic anhydride          belladonna
+benzine          benzoate          beverage
+bicarbonate          bicarbonate of soda          bichloride of mercury
+bisulfate          black stuff          blue
+blue angel          blue devil          blue heaven
+blue velvet          booze          borate
+borax          boric acid          brew
+briquette          bromide          burnable
+butane          calcium carbonate          calcium hydroxide
+calmative          calomel          camphor
+carbide          carbohydrate          carbolic acid
+carbon          carbon dioxide          carbon monoxide
+carbon tet          carbon tetrachloride          carbonate
+charcoal          chloral hydrate          chloramine
+chlorate          chlorite          chloroform
+chromate          citrate          coal
+codeine          codeine cough syrup          coke
+combustible          copperas          cresol
+cyanide          dehydrated alcohol          depressant
+depressor          dichromate          dioxide
+disulfide          dolly          dope
+downer          drink          ester
+ethane          ethanol          ether
+ethyl          ethyl alcohol          ethylene glycol
+fireball          firewater          firing
+flammable          flammable material          fluoride
+formaldehyde          fuel          fuel additive
+fuel dope          fulminate          gas
+gas carbon          gasoline          gentian violet
+goofball          gramicidin          grog
+halide          halogen          hard liquor
+hard stuff          heptane          heroin
+hexachloraphene          hexane          hooch
+hop          horse          hydrate
+hydride          hydrocarbon          hydrogen peroxide
+hydroxide          hyoscyamine          hypnotic
+hypochlorite          inebriant          inflammable
+inflammable material          intoxicant          intoxicating liquor
+iodide          iodine          isooctane
+isopropyl alcohol          jet fuel          juice
+junk          kerosene          ketone
+knockout drops          lactate          laudanum
+liquor          little brown jug          lotus
+meperidine          methadone          methane
+methanol          methyl          methyl alcohol
+monoxide          moonshine          morphia
+morphine          narcotic          natural gas
+niter          nitrate          nitride
+nitrite          octane          oil
+opiate          opium          oxalate
+oxide          pacifier          pain killer
+paraffin          paraldehyde          paregoric
+peat          pen yan          pentane
+pentobarbital          permanganate          peroxide
+petrochemical          phenobarbital          phenobarbital sodium
+phenol          phenyl salicylate          phosphate
+phosphide          potable          potash
+potassium nitrate          potation          propane
+propellant          punch bowl          purple heart
+quietener          rainbow          red
+reserpine          resorcinol          rocket fuel
+rum          sal ammoniac          salt
+saltpeter          sauce          scag
+schnapps          scopolamine          secobarbital sodium
+sedative          shit          silicate
+silver vitellin          sleep-inducer          sleeper
+sleeping draught          sleeping pill          smack
+social lubricant          sodium bicarbonate          sodium bromide
+sodium chloride          sodium hypochlorite          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          spirits          strong drink
+strong waters          sulfate          sulfide
+sulfite          tar          tartrate
+thalidomide          the Demon Rum          the bottle
+the cup          the flowing bowl          the luscious liquor
+the ruddy cup          thimerosal          thymol
+tincture of iodine          tipple          toxicant
+tranquilizer          turf          turpentine
+turps          water          water of life
+white stuff          yellow          yellow jacket
+------------
+
+analgesic          Amytal          Amytal pill
+Darvon          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Pyramidon          Seconal
+Seconal pill          Tuinal          Tuinal pill
+acetanilide          acetophenetidin          acetylsalicylic acid
+alcohol          alleviating          alleviative
+amobarbital sodium          anesthetic          anodyne
+aspirin          assuasive          balmy
+balsamic          barb          barbiturate
+barbiturate pill          benumbing          black stuff
+blue          blue angel          blue devil
+blue heaven          blue velvet          calmant
+calmative          cathartic          chloral hydrate
+cleansing          codeine          codeine cough syrup
+deadening          demulcent          depressant
+depressor          dolly          dope
+downer          drug          dulling
+easing          emollient          goofball
+hard stuff          heroin          hop
+horse          hypnotic          junk
+knockout drop          knockout drops          laudanum
+lenitive          liquor          lotus
+meperidine          methadone          mitigating
+mitigative          morphia          morphine
+narcotic          numbing          opiate
+opium          pacifier          pain killer
+pain-killer          pain-killing          palliative
+paregoric          pen yan          phenacetin
+phenobarbital          phenobarbital sodium          purgative
+purple heart          quietener          quietening
+rainbow          red          relieving
+remedial          scag          secobarbital sodium
+sedative          shit          sleep-inducer
+sleep-inducing          sleeper          sleeping draught
+sleeping pill          smack          sodium salicylate
+sodium thiopental          softening          somnifacient
+somniferous          soother          soothing
+soothing syrup          soporific          stunning
+stupefying          subduing          tar
+tranquilizer          tranquilizing          turps
+white stuff          yellow          yellow jacket
+------------
+
+anodyne          Amytal          Amytal pill
+Demerol          Dolophine          H
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Seconal          Seconal pill          Tuinal
+Tuinal pill          alcohol          alleviating
+alleviative          alleviator          amobarbital sodium
+analgesic          anesthetic          assuager
+assuasive          balm          balmy
+balsamic          barb          barbiturate
+barbiturate pill          benumbing          black stuff
+blue          blue angel          blue devil
+blue heaven          blue velvet          calmant
+calmative          cathartic          chloral hydrate
+cleansing          codeine          codeine cough syrup
+cushion          deadening          demulcent
+depressant          depressor          dolly
+dolorifuge          downer          dulling
+easing          emollient          goofball
+hard stuff          heroin          hop
+horse          hypnotic          junk
+knockout drops          laudanum          lenitive
+liquor          lotus          meperidine
+methadone          mitigating          mitigative
+mitigator          moderator          modulator
+mollifier          morphia          morphine
+narcotic          nepenthe          numbing
+opiate          opium          pacificator
+pacifier          pain killer          pain-killer
+pain-killing          palliative          paregoric
+peacemaker          pen yan          phenobarbital
+phenobarbital sodium          purgative          purple heart
+quietener          quietening          rainbow
+red          relieving          remedial
+restraining hand          salve          scag
+secobarbital sodium          sedative          shit
+shock absorber          sleep-inducer          sleep-inducing
+sleeper          sleeping draught          sleeping pill
+smack          sodium thiopental          softening
+somnifacient          somniferous          soother
+soothing          soothing syrup          soporific
+stabilizer          subduing          tar
+temperer          tranquilizer          tranquilizing
+turps          white stuff          wiser head
+yellow          yellow jacket          ------------
+
+antiseptic
+Argyrol          Mercurochrome          Merthiolate
+Salol          acaricide          alcohol
+anthelmintic          antibiotic          aseptic
+bactericide          boiled          boric acid
+bug bomb          calomel          camphor
+carbamate insecticide          carbolic acid          chemosterilant
+chloramine          chlorinated hydrocarbon insecticide          contact poison
+cresol          decontaminated          defoliant
+disinfectant          disinfected          eradicant
+fumigant          fumigator          fungicide
+gentian violet          germicidal          germicide
+gramicidin          herbicide          hexachloraphene
+hydrogen peroxide          hygienic          insect powder
+insecticide          iodine          microbicide
+miticide          organic chlorine          organic phosphate insecticide
+pasteurized          peroxide          pesticide
+phenol          phenyl salicylate          poison
+prophylactic          rat poison          resorcinol
+roach paste          roach powder          rodenticide
+sanitary          silver vitellin          sterile
+sterilized          stomach poison          systemic
+systemic insecticide          thimerosal          thymol
+tincture of iodine          toxic          toxicant
+toxin          uninfected          venin
+venom          vermicide          virus
+weed killer          ------------
+
+barb          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anodyne
+antenna          arrow          arrowhead
+barbel          barbiturate          barbiturate pill
+barbule          barrel          black stuff
+blue          blue angel          blue devil
+blue heaven          blue velvet          bobtailed arrow
+bolt          bristle          calmative
+cat whisker          chested arrow          chloral hydrate
+cilium          cloth yard shaft          codeine
+codeine cough syrup          dart          depressant
+depressor          dolly          downer
+feeler          filament          filamentule
+flight          goofball          hard stuff
+heroin          hop          horse
+hypnotic          junk          knockout drops
+laudanum          liquor          lotus
+meperidine          methadone          morphia
+morphine          narcotic          opiate
+opium          pacifier          pain killer
+paregoric          pen yan          phenobarbital
+phenobarbital sodium          purple heart          quarrel
+quietener          quill          rainbow
+red          reed          scag
+secobarbital sodium          sedative          setula
+setule          shaft          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          striga          stubble
+tactile hair          tactile process          tar
+tranquilizer          turps          vibrissa
+volley          white stuff          yellow
+yellow jacket          ------------
+
+barbiturate          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anodyne
+barb          barbiturate pill          black stuff
+blue          blue angel          blue devil
+blue heaven          blue velvet          calmative
+chloral hydrate          codeine          codeine cough syrup
+depressant          depressor          dolly
+downer          goofball          hard stuff
+heroin          hop          horse
+hypnotic          junk          knockout drops
+laudanum          liquor          lotus
+meperidine          methadone          morphia
+morphine          narcotic          opiate
+opium          pacifier          pain killer
+paregoric          pen yan          phenobarbital
+phenobarbital sodium          purple heart          quietener
+rainbow          red          scag
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          tar          tranquilizer
+turps          white stuff          yellow
+yellow jacket          ------------
+
+benzine          alcohol
+briquette          burnable          butane
+carbon          charcoal          coal
+coal oil          coke          combustible
+dope          electricity          ethane
+ethanol          fireball          firing
+flammable          flammable material          fuel
+fuel additive          fuel dope          gas
+gas carbon          gasoline          heptane
+hexane          illuminant          illuminating gas
+inflammable          inflammable material          isooctane
+jet fuel          kerosene          light source
+luminant          methane          methanol
+natural gas          octane          oil
+paraffin          peat          pentane
+petrol          petroleum          propane
+propellant          rocket fuel          turf
+------------
+
+beverage          John Barleycorn          ade
+alcohol          alcoholic beverage          alcoholic drink
+ambrosia          aqua vitae          ardent spirits
+beef tea          birch beer          blood
+booze          bouillon          brew
+buttermilk          chicory          chocolate milk
+cider          cocktail          cocoa
+coffee          cola          drink
+drinkable          egg cream          eggnog
+espresso          fluid          fluid extract
+fluid mechanics          frappe          frosted
+frosted shake          fruit juice          ginger ale
+ginger beer          grape juice          grapefruit juice
+grog          hard liquor          hydraulics
+hydrogeology          ice-cream soda          iced coffee
+iced tea          inebriant          intoxicant
+intoxicating liquor          juice          koumiss
+latex          lemonade          limeade
+liquid          liquid extract          liquor
+little brown jug          malt          milk
+mineral water          mocha          nectar
+orangeade          phosphate          pop
+potable          potation          punch
+punch bowl          root beer          root beer float
+rum          sap          schnapps
+seltzer          semiliquid          shake
+social lubricant          soda          soda pop
+soda water          soft drink          spirits
+spring water          strong drink          strong waters
+tea          the Demon Rum          the bottle
+the cup          the flowing bowl          the luscious liquor
+the ruddy cup          tisane          tonic
+toxicant          water          water of life
+whey          ------------
+
+blue devil          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anodyne
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue heaven          blue velvet          calmative
+chloral hydrate          codeine          codeine cough syrup
+depressant          depressor          dolly
+downer          goofball          hard stuff
+heroin          hop          horse
+hypnotic          junk          knockout drops
+laudanum          liquor          lotus
+meperidine          methadone          morphia
+morphine          narcotic          opiate
+opium          pacifier          pain killer
+paregoric          pen yan          phenobarbital
+phenobarbital sodium          purple heart          quietener
+rainbow          red          scag
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          tar          tranquilizer
+turps          white stuff          yellow
+yellow jacket          ------------
+
+blue velvet          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anodyne
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          calmative
+chloral hydrate          codeine          codeine cough syrup
+depressant          depressor          dolly
+downer          goofball          hard stuff
+heroin          hop          horse
+hypnotic          junk          knockout drops
+laudanum          liquor          lotus
+meperidine          methadone          morphia
+morphine          narcotic          opiate
+opium          pacifier          pain killer
+paregoric          pen yan          phenobarbital
+phenobarbital sodium          purple heart          quietener
+rainbow          red          scag
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          tar          tranquilizer
+turps          white stuff          yellow
+yellow jacket          ------------
+
+blue          Alice blue
+Amytal          Amytal pill          Brunswick blue
+Caelus          Capri blue          Chinese blue
+Copenhagen blue          Demerol          Dolophine
+Dresden blue          Fescennine          French blue
+Gobelin blue          H          Luminal
+Luminal pill          M          Mickey Finn
+Nembutal          Nembutal pill          Persian blue
+Pompeian blue          Prussian blue          Rabelaisian
+Saxe blue          Seconal          Seconal pill
+Tuinal          Tuinal pill          Wedgwood blue
+X          absolute          air
+alcohol          amobarbital sodium          analgesic
+aniline blue          anodyne          aquamarine
+atrabiliar          atrabilious          azo blue
+azulene          azure          azure-blue
+azure-colored          azurean          azured
+azureness          azureous          azurite blue
+baby blue          bad          barb
+barbiturate          barbiturate pill          bawdy
+benzoazurine          beryl          beryl-blue
+berylline          bice          black
+black stuff          bleu celeste          blue angel
+blue devil          blue heaven          blue sky
+blue turquoise          blue velvet          blueness
+blueprint          bluish          bluishness
+brine          briny          broad
+cadaverous          cadet blue          caelum
+calamine blue          calmative          canopy
+canopy of heaven          cerulean          ceruleous
+cerulescent          chloral hydrate          ciba blue
+coarse          cobalt          codeine
+codeine cough syrup          cold-type proof          color proof
+complete          computer proof          cope
+cornflower          corpselike          crestfallen
+cyan          cyanean          cyanine blue
+cyanosis          dark-blue          deadly
+deathlike          deathly          deathly pale
+deep          deep-blue          dejected
+delft blue          depressant          depressed
+depressor          despondent          dirty
+disconsolate          dismal          dispirited
+dolly          down          downcast
+downer          downhearted          downright
+drink          eerie          empyrean
+erotic          ether          filthy
+firmament          foul          foul-mouthed
+foul-spoken          foul-tongued          foundry proof
+fulsome          funky          galley
+galley proof          garter blue          ghastly
+ghostlike          ghostly          glaucous blue
+gloomy          glum          goofball
+grisly          gruesome          haggard
+hard stuff          heaven          heavens
+heroin          hop          horse
+hyacinth          hyaline          hypnotic
+improper          impure          indecent
+indelicate          indigo          indigo white
+infernal          isamine blue          ithyphallic
+jouvence blue          junk          knockout drops
+lapis lazuli blue          laudanum          lavender blue
+lewd          lift          lifts
+light-blue          lightish-blue          liquor
+livid          lividity          lividness
+lotus          low          low-spirited
+lurid          macabre          madder blue
+main          marine blue          melancholic
+melancholy          meperidine          methadone
+methylene azure          methylene blue          morose
+morphia          morphine          mortuary
+narcotic          nasty          navy
+navy blue          new blue          obscene
+off color          off-color          offensive
+old blue          opiate          opium
+out-and-out          pacifier          page proof
+pain killer          pale          paregoric
+pavonian          pavonine          peacock blue
+peacock-blue          pen yan          pensive
+perfect          phenobarbital          phenobarbital sodium
+plate proof          pompadour green          pornographic
+positive          powder blue          press proof
+progressive proof          proof          proof sheet
+pull          purple          purple heart
+quietener          racy          rainbow
+raunchy          red          regular
+repro proof          revise          ribald
+risque          sad          salacious
+salty          sapphire          sapphirine
+scag          scurrile          scurrilous
+sea          sea blue          secobarbital sodium
+sedative          sexy          shady
+shit          sky          sky blue
+sky-blue          sky-colored          sky-dyed
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          slip          smack
+smalt          smoke blue          smoking-room
+smutty          sodium thiopental          somnifacient
+soother          soothing syrup          soporific
+spicy          starry heaven          steel blue
+stone proof          suggestive          sultry
+tar          the blue          the blue serene
+titillating          tranquilizer          trial impression
+tristful          trypan blue          turps
+turquoise          ultramarine          uncanny
+unchaste          unclean          unearthly
+unhappy          unprintable          unrepeatable
+vandyke          vault          vault of heaven
+vile          vulgar          wan
+weird          welkin          white stuff
+wicked          wistful          woad
+woebegone          yellow          yellow jacket
+zaffer          ------------
+
+booze          John Barleycorn
+alcohol          alcoholic beverage          alcoholic drink
+aqua vitae          ardent spirits          bat
+bender          beverage          bib
+brannigan          brew          bum
+carouse          chug          chug-a-lug
+drain the cup          drink          drink in
+drink off          drink to          drink up
+drunk          firewater          grog
+guzzle          hard liquor          hooch
+imbibe          inebriant          intoxicant
+intoxicating liquor          jag          juice
+liquor          liquor up          little brown jug
+lush          mountain dew          pledge
+poison          potable          potation
+pull          punch bowl          quaff
+raise the elbow          rum          sauce
+schnapps          sip          soak
+social lubricant          souse          spirits
+strong drink          strong waters          suck
+suck in          suckle          sup
+swig          swill          tank up
+the Demon Rum          the bottle          the cup
+the flowing bowl          the luscious liquor          the ruddy cup
+tipple          toast          toss down
+toss off          toxicant          wash down
+water of life          whiskey          white lightning
+white mule          ------------
+
+bottle          Dutch courage
+alcohol          alcoholic drink          backbone
+bag          barrel          basket
+booze          bottle up          box
+box in          box up          burden
+cabin          calabash          can
+canteen          capsule          carafe
+carboy          carton          case
+cask          casket          caster
+cloister          closet          coffin
+confine          contain          container
+control          courage          cramp
+crate          crib          cruet
+cruse          cut off          decanter
+demijohn          do up          encase
+encyst          entomb          ewer
+fiasco          fifth          fill
+flacon          flagon          flask
+flasket          freight          gourd
+grit          gumption          guts
+hamper          heap          heap up
+hem in          hipflask          hold back
+hold in check          hot-water bottle          immure
+jar          jeroboam          jug
+keep in check          lade          liquor
+load          lota          magnum
+manfulness          manliness          mass
+mettle          moxie          mussuk
+nerve          olla          pack
+pack away          package          parcel
+phial          pile          pluck
+pocket          pot          put up
+repress          restrain          sack
+sauce          ship          spirits
+spunk          stack          starch
+stifle          store          stoup
+stow          straiten          suppress
+tank          the bottle          tin
+trap          vacuum bottle          vial
+------------
+
+brew          John Barleycorn          Pilsner
+alcohol          alcoholic beverage          alcoholic drink
+ale          angle          approach
+aqua vitae          ardent spirits          await
+bake          barbecue          baste
+bathe          be imminent          be in store
+beer          begin          besprinkle
+beverage          bitters          blanch
+blast          blossom          blow
+blow a hurricane          blow great guns          blow over
+blow up          bluster          bock beer
+boil          bootleg          booze
+braise          breathe          breeze
+breeze up          bring about          broil
+brown          burgeon          cabal
+cause          coddle          collude
+color          combination          come on
+come up          complot          compose
+composition          compound          concoct
+concoction          confection          confront
+connive          conspire          contrive
+cook          cook up          countermine
+counterplot          curry          decoct
+decoction          decoctum          develop
+devil          devise          distill
+do          do to perfection          douche
+draw near          draw nigh          draw on
+dredge          drench          drink
+drouk          dye          engineer
+entincture          face          ferment
+finagle          finesse          fire
+fix up          flavor          flourish
+flush          form          forthcome
+frame          frame up          freshen
+fricassee          frizz          frizzle
+fry          gather          germinate
+get up          go on          griddle
+grill          grog          grow
+grow up          half-and-half          hang over
+hard liquor          hash          hatch
+hatch a plot          hatch up          heat
+hodgepodge          hover          huff
+hypertrophy          imbrue          imbue
+impend          impregnate          increase
+inebriant          infiltrate          infuse
+inject          instill          intoxicant
+intoxicating liquor          intrigue          jumble
+lager beer          lave          lay a plot
+leach          leaven          lie over
+light beer          liquor          little brown jug
+lixiviate          loom          lower
+macerate          machinate          make
+make up          malt liquor          maneuver
+mature          mead          medley
+melange          menace          mishmash
+mix          mixture          moonlight
+moonshine          mushroom          near
+near beer          operate          outgrow
+oven-bake          overdevelop          overgrow
+overhang          overtop          pan
+pan-broil          parboil          pastiche
+penetrate          percolate          permeate
+pervade          pipe up          plan
+plot          poach          porter
+potable          potation          potpourri
+prepare          prepare food          procreate
+produce          puff          pullulate
+pulque          punch bowl          put together
+rage          reproduce          rig
+rinse          roast          rum
+sake          salad          saturate
+saute          scallop          scheme
+schnapps          sear          season
+seethe          set in          shirr
+shoot up          simmer          soak
+social lubricant          sodden          sop
+souse          spirits          spring up
+sprout          sprout up          squall
+start          steam          steep
+stew          stir-fry          storm
+stout          strong drink          strong waters
+suffuse          tea          temper
+the Demon Rum          the bottle          the cup
+the flowing bowl          the luscious liquor          the ruddy cup
+threaten          thrive          tincture
+tinge          toast          tower
+toxicant          transfuse          upshoot
+upspear          upspring          upsprout
+vegetate          waft          wangle
+wash          water of life          waterlog
+wax          whiff          whiffle
+------------
+
+budge          advance          alcohol
+aqua vitae          ascend          back
+back up          booze          change
+change place          circle          climb
+descend          drink          ebb
+firewater          flow          get over
+go          go around          go round
+go sideways          grog          gyrate
+hooch          juice          mount
+move          move over          plunge
+progress          regress          retrogress
+rise          rotate          run
+sauce          shift          sink
+soar          spin          stir
+stream          subside          travel
+wane          whirl          ------------
+
+calmative
+Amytal          Amytal pill          Demerol
+Dolophine          H          Luminal
+Luminal pill          M          Mickey Finn
+Nembutal          Nembutal pill          Seconal
+Seconal pill          Tuinal          Tuinal pill
+alcohol          alleviative          alleviator
+amobarbital sodium          analgesic          anodyne
+assuager          assuasive          balm
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+calmant          calming          chloral hydrate
+codeine          codeine cough syrup          cushion
+demulcent          depressant          depressor
+dolly          dolorifuge          downer
+goofball          hard stuff          heroin
+hop          horse          hypnotic
+junk          knockout drops          laudanum
+lenitive          liquor          lotus
+meperidine          methadone          mitigator
+moderator          modulator          mollifier
+morphia          morphine          narcotic
+opiate          opium          pacificator
+pacifier          pain killer          palliative
+paregoric          peacemaker          pen yan
+phenobarbital          phenobarbital sodium          purple heart
+quietener          quietening          rainbow
+red          relaxing          restraining hand
+salve          scag          secobarbital sodium
+sedative          shit          shock absorber
+sleep-inducer          sleep-inducing          sleeper
+sleeping draught          sleeping pill          smack
+sodium thiopental          somnifacient          somniferous
+soother          soothing          soothing syrup
+soporific          stabilizer          tar
+temperer          tranquilizer          tranquilizing
+turps          white stuff          wiser head
+yellow          yellow jacket          ------------
+
+carbon
+alcohol          apograph          ash
+ashes          benzine          brand
+briquette          burnable          butane
+calx          carbon copy          charcoal
+cinder          clinker          coal
+coke          combustible          coom
+copy          ditto          dope
+dross          duplicate          ethane
+ethanol          facsimile          fiche
+fireball          firing          flammable
+flammable material          fuel          fuel additive
+fuel dope          fume          gas
+gas carbon          gasoline          heptane
+hexane          inflammable          inflammable material
+isooctane          jet fuel          kerosene
+lava          manifold          methane
+methanol          microcopy          microfiche
+microform          natural gas          octane
+oil          paraffin          peat
+pentane          propane          propellant
+recording          reduplication          reek
+replica          replication          rocket fuel
+rubbing          scoria          slag
+smoke          smudge          smut
+soot          sullage          tenor
+tracing          transcript          transcription
+transfer          turf          ------------
+
+charcoal
+air brush          alcohol          art paper
+ash          ashes          benzine
+black and white          blackening          blacking
+blackwash          brand          briquette
+brouillon          brush          burnable
+burnt cork          butane          calx
+camera lucida          camera obscura          canvas
+carbon          carbon black          cartoon
+chalk          charcoal drawing          chiaroscuro
+cinder          clinker          coal
+coke          combustible          coom
+crayon          crow          delineation
+design          diagram          doodle
+dope          draft          drafting
+drawing          drawing paper          drawing pencil
+drier          dross          easel
+ebauche          ebon          ebony
+esquisse          ethane          ethanol
+fireball          firing          fixative
+flammable          flammable material          fuel
+fuel additive          fuel dope          fume
+gas          gas black          gas carbon
+gasoline          graph          ground
+heptane          hexane          inflammable
+inflammable material          ink          isooctane
+jet          jet fuel          kerosene
+lampblack          lava          lay figure
+line drawing          maulstick          medium
+methane          methanol          natural gas
+night          octane          oil
+paint          paintbrush          palette
+palette knife          paraffin          pastel
+peat          pen-and-ink          pencil
+pencil drawing          pentane          pigments
+pitch          propane          propellant
+raven          reek          rocket fuel
+rough copy          rough draft          rough outline
+scoria          scratchboard          siccative
+silhouette          silver-print drawing          sinopia
+sketch          sketchbook          sketching
+sketchpad          slag          sloe
+smoke          smudge          smut
+soot          spatula          spray gun
+stove black          study          stump
+sullage          tar          tracing
+turf          varnish          vignette
+------------
+
+chemical          Chile saltpeter          absolute alcohol
+acetate          acetone          acid
+acidity          agent          alcohol
+aldehyde          alkali          alkalinity
+alloisomer          amine          ammonia
+amyl alcohol          anhydride          anion
+antacid          arsenate          arsenite
+atom          base          basic
+basic anhydride          benzoate          bicarbonate
+bicarbonate of soda          bichloride of mercury          biochemical
+bisulfate          borate          borax
+bromide          calcium carbonate          calcium hydroxide
+carbide          carbohydrate          carbon dioxide
+carbon monoxide          carbonate          cation
+chemical element          chemicals          chemicobiological
+chemicoengineering          chemicomineralogical          chemicophysical
+chemurgic          chlorate          chlorite
+chromate          chromoisomer          citrate
+compound          copolymer          copolymeric
+copolymerous          copperas          cyanide
+dehydrated alcohol          dichromate          dimer
+dimeric          dimerous          dioxide
+disulfide          electrochemical          element
+elemental          elementary          ester
+ethanol          ether          ethyl
+ethyl alcohol          fluoride          formaldehyde
+fulminate          halide          halogen
+heavy chemicals          heteromerous          high polymer
+homopolymer          hydracid          hydrate
+hydride          hydrocarbon          hydroxide
+hypochlorite          inorganic chemical          inorganic chemistry
+iodide          ion          isomer
+isomerous          isopropyl alcohol          ketone
+lactate          macrochemical          macromolecule
+metamer          metameric          methane
+methanol          methyl          methyl alcohol
+molecule          monomer          monomerous
+monoxide          neutralizer          niter
+nitrate          nitride          nitrite
+nonacid          organic chemical          oxalate
+oxide          oxyacid          permanganate
+peroxide          petrochemical          phosphate
+phosphide          photochemical          physicochemical
+phytochemical          polymer          polymeric
+potash          potassium nitrate          pseudoisomer
+radical          radiochemical          reagent
+sal ammoniac          salt          saltpeter
+silicate          sodium bicarbonate          sodium bromide
+sodium chloride          sodium hypochlorite          sulfacid
+sulfate          sulfide          sulfite
+tartrate          thermochemical          trimer
+------------
+
+coal          alcohol          anthracite
+ash          ashes          benzine
+blaze          blister          brand
+briquette          brown coal          bunker
+burn          burn in          burn off
+burnable          burning ember          butane
+calx          carbon          cast
+cater          cauterize          char
+charcoal          cinder          clinker
+coke          combustible          coom
+crack          crow          cupel
+detonate          dope          dross
+ebon          ebony          ember
+ethane          ethanol          explode
+feed          fill up          fireball
+firebrand          firing          flame
+flammable          flammable material          forage
+found          fuel          fuel additive
+fuel dope          fuel up          fulminate
+fume          gas          gas carbon
+gas up          gasoline          heptane
+hexane          inflammable          inflammable material
+ink          isooctane          jet
+jet fuel          kerosene          lava
+lignite          live coal          methane
+methanol          natural gas          night
+octane          oil          oxidate
+oxidize          paraffin          parch
+peat          pentane          pitch
+propane          propellant          provender
+provision          purvey          pyrolyze
+raven          reek          refuel
+rocket fuel          scorch          scoria
+sea coal          sear          sell
+singe          slag          sloe
+smoke          smudge          smut
+solder          soot          stoke
+sullage          swinge          tar
+top off          torrefy          turf
+vesicate          victual          vulcanize
+weld          ------------
+
+codeine          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anodyne
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+calmative          chloral hydrate          codeine cough syrup
+depressant          depressor          dolly
+downer          goofball          hard stuff
+heroin          hop          horse
+hypnotic          junk          knockout drops
+laudanum          liquor          lotus
+meperidine          methadone          morphia
+morphine          narcotic          opiate
+opium          pacifier          pain killer
+paregoric          pen yan          phenobarbital
+phenobarbital sodium          purple heart          quietener
+rainbow          red          scag
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          tar          tranquilizer
+turps          white stuff          yellow
+yellow jacket          ------------
+
+coke          Benzedrine
+Benzedrine pill          C          Dexamyl
+Dexamyl pill          Dexedrine          Dexedrine pill
+Methedrine          alcohol          amphetamine
+amphetamine sulfate          ash          ashes
+benzine          brand          briquette
+burnable          butane          calx
+carbon          charcoal          cinder
+clinker          coal          cocaine
+combustible          coom          crystal
+dextroamphetamine sulfate          dope          dross
+ethane          ethanol          fireball
+firing          flammable          flammable material
+football          fuel          fuel additive
+fuel dope          fume          gas
+gas carbon          gasoline          heart
+heptane          hexane          inflammable
+inflammable material          isooctane          jet fuel
+jolly bean          kerosene          lava
+methamphetamine hydrochloride          methane          methanol
+natural gas          octane          oil
+paraffin          peat          pentane
+pep pill          propane          propellant
+purple heart          reek          rocket fuel
+scoria          slag          smoke
+smudge          smut          snow
+soot          speed          stimulant
+sullage          turf          upper
+------------
+
+combustible          accendible          alcohol
+benzine          briquette          burnable
+butane          carbon          charcoal
+coal          coke          dope
+ethane          ethanol          explosive
+fiery          fireball          firing
+flammable          flammable material          fuel
+fuel additive          fuel dope          gas
+gas carbon          gasoline          hasty
+heptane          hexane          hot
+hot-tempered          hotheaded          inflammable
+inflammable material          isooctane          jet fuel
+kerosene          methane          methanol
+natural gas          octane          oil
+paraffin          passionate          peat
+pentane          peppery          propane
+propellant          quick          quick-tempered
+rocket fuel          short-tempered          spunky
+turf          volcanic          ------------
+
+Demerol
+Amytal          Amytal pill          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anodyne
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+calmative          chloral hydrate          codeine
+codeine cough syrup          depressant          depressor
+dolly          downer          goofball
+hard stuff          heroin          hop
+horse          hypnotic          junk
+knockout drops          laudanum          liquor
+lotus          meperidine          methadone
+morphia          morphine          narcotic
+opiate          opium          pacifier
+pain killer          paregoric          pen yan
+phenobarbital          phenobarbital sodium          purple heart
+quietener          rainbow          red
+scag          secobarbital sodium          sedative
+shit          sleep-inducer          sleeper
+sleeping draught          sleeping pill          smack
+sodium thiopental          somnifacient          soother
+soothing syrup          soporific          tar
+tranquilizer          turps          white stuff
+yellow          yellow jacket          ------------
+
+depressant
+Amytal          Amytal pill          Demerol
+Dial          Dolophine          H
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Seconal          Seconal pill          Sulfonal
+Trional          Tuinal          Tuinal pill
+alcohol          amobarbital sodium          analgesic
+anodyne          barb          barbital
+barbiturate          barbiturate pill          barbituric acid
+belladonna          black          black stuff
+bleak          blue          blue angel
+blue devil          blue heaven          blue velvet
+bromide          calmative          cheerless
+chloral hydrate          codeine          codeine cough syrup
+depressing          depressive          depressor
+dismal          dispiriting          dolly
+downer          dreary          goofball
+hard stuff          heroin          hop
+horse          hyoscyamine          hypnotic
+junk          knockout drops          laudanum
+liquor          lotus          meperidine
+methadone          morphia          morphine
+narcotic          opiate          opium
+oppressive          pacifier          pain killer
+paraldehyde          pentobarbital          phenobarbital
+phenobarbital sodium          purple heart          quietener
+rainbow          red          reserpine
+scag          scopolamine          secobarbital sodium
+sedative          shit          sleep-inducer
+sleeper          sleeping draught          sleeping pill
+smack          sodium bromide          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          tar          thalidomide
+tranquilizer          turps          white stuff
+yellow          yellow jacket          ------------
+
+dolly
+Amytal          Amytal pill          Demerol
+Dolophine          H          Luminal
+Luminal pill          M          Mickey Finn
+Nembutal          Nembutal pill          Seconal
+Seconal pill          Tuinal          Tuinal pill
+alcohol          amobarbital sodium          analgesic
+anodyne          barb          barbiturate
+barbiturate pill          black stuff          blue
+blue angel          blue devil          blue heaven
+blue velvet          bust          calmative
+carving          chloral hydrate          codeine
+codeine cough syrup          depressant          depressor
+doll          downer          dummy
+fantoccini          figure          figurehead
+figurine          gingerbread man          goofball
+hard stuff          heroin          hop
+horse          hypnotic          junk
+knockout drops          laudanum          lay figure
+liquor          lotus          man of straw
+manikin          mannequin          marionette
+meperidine          methadone          model
+monument          morphia          morphine
+narcotic          opiate          opium
+pacifier          pain killer          paregoric
+pen yan          phenobarbital          phenobarbital sodium
+portrait bust          puppet          purple heart
+quietener          rainbow          red
+scag          scarecrow          sculpture
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          snowman
+sodium thiopental          somnifacient          soother
+soothing syrup          soporific          statuary
+statue          statuette          tar
+tranquilizer          turps          wax figure
+waxwork          white stuff          wood carving
+yellow          yellow jacket          ------------
+
+dope
+Boeotian          KO          Mickey Finn
+account          acquaintance          add
+addictive drug          alcohol          algebraize
+analgesic          anesthetic          anesthetize
+announcement          anoint          answer
+backing          bedaze          benumb
+benzine          besot          bibliofilm
+bipack          black-and-white film          block
+blue book          blunt          bootleg liquor
+bottom          brass tacks          briefing
+briquette          bulletin          burnable
+butane          calculate          candy
+carbon          cartridge          cast
+cast a horoscope          cast a nativity          charcoal
+chloroform          chowderhead          chucklehead
+cigarettes          cipher          clear up
+clod          coal          coke
+coldcock          color film          color negative film
+combustible          communication          communique
+compute          contraband          crack
+dangerous drug          data          datum
+deaden          debug          decipher
+decode          desensitize          details
+dimwit          directory          disentangle
+dispatch          divide          divine
+do          dolt          donkey
+dope out          dose          downer
+dowse for water          drug          drugs
+dry plate          dull          dullard
+dumb cluck          dumbbell          dumbhead
+dummy          dunce          dunderhead
+embrocate          emulsion          enlightenment
+entrance          essential facts          essentials
+estimate          ethane          ethanol
+etherize          evidence          explain
+extract roots          facts          factual information
+familiarization          fathom          figure
+figure in          figure out          film
+find out          find the answer          find the solution
+fireball          firing          flammable
+flammable material          forebode          forecast
+foresee          foretell          fortune-tell
+frame          freeze          fuel
+fuel additive          fuel dope          gas
+gas carbon          gasoline          gen
+general information          get          get right
+gowk          guess          guess right
+guidebook          hallucinogen          handout
+hard drug          hard information          hard stuff
+hariolate          have it          heptane
+hexane          hit it          hop
+hot goods          hypnotize          incidental information
+inflammable          inflammable material          info
+information          instruction          intelligence
+interpret          isooctane          jet fuel
+jewels          jobbernowl          junk
+kayo          kerosene          knock out
+knock senseless          knock stiff          knock unconscious
+knockout drop          knowledge          lackwit
+lamebrain          lay out          light
+lightweight          looby          loon
+low-down          lull to sleep          magnetize
+make a prediction          make a prognosis          make a prophecy
+make out          measure          medicate
+mention          mesmerize          message
+methane          methanol          microfilm
+monochromatic film          motion-picture film          multiply
+narcotic          narcotics          narcotize
+natural gas          negative          news
+niais          nincompoop          ninny
+ninnyhammer          nitwit          noddle
+noddy          notice          notification
+numb          obtund          octane
+oil          open the lock          opiate
+orthochromatic film          pack          pain-killer
+palsy          panchromatic film          paraffin
+paralyze          peat          pentane
+photographic paper          plate          plumb
+poop          predict          prefigure
+presage          presentation          printing paper
+prognosticate          promotional material          proof
+propane          propellant          prophesy
+psych          psych out          psychedelic
+publication          publicity          put
+put to sleep          put under          puzzle out
+ravel          ravel out          read palms
+read tea leaves          read the future          reckon
+release          report          resolve
+riddle          rock to sleep          rocket fuel
+roll          salve          scoop
+score          sedate          sedative
+sidelight          sleeping pill          smuggled goods
+solve          soothsay          sort out
+sound film          sound track          sound-on-film
+soundstripe          speculate          statement
+stolen goods          story          stuff
+stun          stupe          stupefy
+stupid          subtract          take account of
+tally          tell fortunes          tell the future
+the data          the details          the dope
+the facts          the goods          the information
+the know          the particulars          the picture
+the scoop          the score          the specifics
+the whole story          thickwit          trance
+tranquilizer          transmission          tripack
+turf          undo          unlock
+unravel          unriddle          unscramble
+untangle          untwist          unweave
+upper          vaticinate          vehicle
+white book          white paper          witling
+word          work          work out
+------------
+
+downer          Amytal          Amytal pill
+Demerol          Dolophine          H
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Schmerz          Seconal          Seconal pill
+Slough of Despond          Tuinal          Tuinal pill
+adverse circumstances          adversity          affliction
+aggravation          alcohol          amobarbital sodium
+analgesic          annoyance          anodyne
+bad news          barb          barbiturate
+barbiturate pill          bedevilment          black stuff
+blank despondency          blight          blue
+blue angel          blue devil          blue heaven
+blue velvet          bore          bother
+botheration          bothersomeness          bummer
+calmative          care          chloral hydrate
+codeine          codeine cough syrup          crashing bore
+cross          curse          death wish
+dejectedness          dejection          depressant
+depression          depressor          despair
+despondency          despondentness          devilment
+difficulties          difficulty          discouragement
+disheartenment          dispiritedness          dogging
+dolly          down trip          downcastness
+downheartedness          drag          drooping spirits
+exasperation          goofball          harassment
+hard knocks          hard life          hard lot
+hard stuff          hardcase          hardship
+harrying          headache          heartlessness
+heroin          hop          hopelessness
+horse          hounding          hypnotic
+irritation          junk          knockout drops
+laudanum          liquor          lotus
+low spirits          lowness          lowness of spirit
+malaise          meperidine          methadone
+molestation          morphia          morphine
+narcotic          nuisance          opiate
+opium          oppression          pacifier
+pain killer          paregoric          pen yan
+persecution          pessimism          pest
+phenobarbital          phenobarbital sodium          plight
+predicament          pressure          problem
+purple heart          quietener          rainbow
+red          rigor          scag
+sea of troubles          secobarbital sodium          sedative
+self-destructive urge          shit          sinking heart
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          spiritlessness          stress
+stress of life          suicidal despair          taedium vitae
+tar          tranquilizer          trial
+tribulation          trouble          troubles
+turps          vale of tears          vexation
+vexatiousness          vicissitude          weariness of life
+white stuff          worriment          worry
+yellow          yellow jacket          ------------
+
+drink
+BS          Bronx cocktail          Bull Shot
+Cuba Libre          Dubonnet cocktail          Green Dragon
+Guggenheim          Harvey Wallbanger          Irish coffee
+John Barleycorn          Mai-Tai          Manhattan
+Mickey          Mickey Finn          Rob Roy
+Sazerac          absorb          ade
+adsorb          alcohol          alcoholic beverage
+alcoholic drink          ambrosia          aperitif
+aqua vitae          ardent spirits          assimilate
+beef tea          belt          beverage
+bib          big drink          birch beer
+bishop          blood          blot
+blot up          blue          blue water
+booze          bouillon          bowle
+brandy Alexander          brandy and soda          brandy smash
+brew          brine          briny
+bumper          buttered rum          buttermilk
+carouse          celebrate          champagne cocktail
+chaser          chemisorb          chemosorb
+chicory          chocolate milk          chug-a-lug
+church parade          cider          cobbler
+cocktail          cocoa          coffee
+coffee royale          cola          collins
+cooler          deep          devour
+digest          doch-an-dorrach          draft
+drag          drain          drain the cup
+dram          draught          draw
+drench          drink bottoms-up          drink deep
+drink hard          drink in          drink off
+drink to          drink up          drinkable
+drop          dry martini          eat
+egg cream          eggnog          engorge
+engross          engulf          espresso
+eye-opener          filter in          finger
+firewater          fizz          flip
+fluid          fluid extract          fluid mechanics
+follow strong drink          frappe          frosted
+frosted shake          fruit juice          gargle
+gimlet          gin and tonic          gin fizz
+ginger ale          ginger beer          glass
+gobble          grape juice          grapefruit juice
+grasshopper          grog          gulp
+gulp down          guzzle          hard liquor
+hard stuff          high sea          high seas
+highball          hooch          hot buttered rum
+hot toddy          hydraulics          hydrogeology
+hydrosphere          ice-cream soda          iced coffee
+iced tea          imbibe          indulge
+inebriant          infiltrate          ingest
+ingurgitate          intoxicant          intoxicating liquor
+jigger          jolt          juice
+julep          knock back          knockout drops
+koumiss          lap          lap up
+latex          lemonade          libation
+limeade          liquid          liquid extract
+liquor          little brown jug          main
+main sea          malt          martini
+milk          mineral water          mint julep
+mixed drink          mocha          nectar
+negus          nightcap          nip
+ocean          ocean depths          ocean main
+ocean sea          old-fashioned          orangeade
+osmose          parting cup          peg
+percolate in          phosphate          pint
+pledge          pop          portion
+posset          potable          potation
+potion          pousse-cafe          pub-crawl
+pull          punch          punch bowl
+purl          quaff          rickey
+root beer          root beer float          round
+round of drinks          rum          rum punch
+salt sea          salt water          salute
+sangria          sap          schnapps
+schooner          screwdriver          sea
+seep in          seltzer          semiliquid
+shake          shot          sidecar
+sip          sling          slosh
+slug          slurp          slurp up
+smash          snifter          snort
+soak          soak in          soak up
+social lubricant          soda          soda pop
+soda water          soft drink          sorb
+sour          spirits          sponge
+spot          spring water          stirrup cup
+strong drink          strong waters          suck
+suck in          suckle          sundowner
+sup          swallow          swig
+swill          swill down          swill up
+take in          take up          taste
+tea          thalassa          the Demon Rum
+the bottle          the bounding main          the brine
+the briny          the briny deep          the cup
+the deep          the deep sea          the flowing bowl
+the luscious liquor          the ruddy cup          the seven seas
+the vasty deep          tide          tipple
+tisane          toast          toddy
+tonic          tope          toss
+toss down          toss off          tot
+toxicant          wash          wash down
+wassail          water          water of life
+wee doch-an-dorrach          wet          whey
+wolf down          ------------
+
+ethane          alcohol
+benzine          briquette          burnable
+butane          carbon          charcoal
+coal          coke          combustible
+dope          ethanol          fireball
+firing          flammable          flammable material
+fuel          fuel additive          fuel dope
+gas          gas carbon          gasoline
+heptane          hexane          inflammable
+inflammable material          isooctane          jet fuel
+kerosene          methane          methanol
+natural gas          octane          oil
+paraffin          peat          pentane
+rocket fuel          turf          ------------
+
+fireball
+Jupiter Fulgur          Thor          aerolite
+alcohol          ball lightning          benzine
+bolide          bolt          bolt of lightning
+briquette          burnable          butane
+carbon          chain lightning          charcoal
+chondrite          coal          coke
+combustible          cosmic dust          dark lightning
+dope          ethane          ethanol
+firebolt          firing          flammable
+flammable material          flying flame          forked lightning
+fuel          fuel additive          fuel dope
+fulguration          fulmination          gas
+gas carbon          gasoline          heptane
+hexane          inflammable          inflammable material
+isooctane          jet fuel          kerosene
+levin bolt          lightning          meteor
+meteor crater          meteor dust          meteor shower
+meteor swarm          meteor trail          meteor train
+meteoric shower          meteorite          meteoroid
+meteorolite          methane          methanol
+micrometeorite          micrometeoroid          natural gas
+oak-cleaving thunderbolts          octane          oil
+paraffin          peat          pentane
+propane          propellant          radiant
+radiant point          rocket fuel          sheet lightning
+shooting star          siderite          siderolite
+stroke of lightning          tektite          thunderball
+thunderbolt          thunderstroke          turf
+------------
+
+firing          afflatus          agitation
+alcohol          animating spirit          animation
+animus          antiaircraft fire          archery
+arousal          benzine          briquette
+burnable          butane          carbon
+cashiering          casting          charcoal
+chucking          coal          coke
+combustible          conge          cross fire
+curtain fire          deconsecration          defrocking
+deposal          deposition          deprivation
+dethronement          direct fire          disbarment
+disbarring          discharge          discrownment
+disemployment          disenthronement          dismissal
+displacement          displacing          divine afflatus
+dope          drumming out          dry fire
+enlivenment          ethane          ethanol
+exasperation          excitation          excitement
+excommunication          exhilaration          expulsion
+file fire          fire          fire of demolition
+fireball          firepower          fireworks
+flack          flak          flammable
+flammable material          flammation          flinging
+fomentation          forced resignation          forced separation
+fuel          fuel additive          fuel dope
+furloughing          gas          gas carbon
+gasoline          genius          ground fire
+gunfight          gunfire          gunnery
+gunplay          heaving          heptane
+hexane          high-angle fire          horizontal fire
+hurling          ignition          impeachment
+incitation          incitement          infection
+inflammable          inflammable material          inflammation
+infusion          inspiration          instigation
+interdiction fire          irritation          isooctane
+jaculation          jet fuel          kerosene
+kicking upstairs          kindling          layoff
+lighting          lighting up          liquidation
+lobbing          machine-gun fire          methane
+methanol          mortar fire          moving spirit
+musketry          natural gas          octane
+oil          ousting          overthrow
+overthrowal          paraffin          peat
+pensioning off          pentane          pep rally
+pep talk          percussion fire          pink slip
+pistol fire          pitching          projection
+propane          propellant          provocation
+purge          rabble-rousing          raking fire
+rapid fire          removal          retirement
+ricochet fire          rifle fire          rocket fuel
+shellfire          shoot-out          shooting
+skeet          skeet shooting          slinging
+stimulation          stirring          stirring-up
+superannuation          surplusing          suspension
+the ax          the boot          the bounce
+the gate          the sack          throwing
+ticket          time fire          trajection
+trapshooting          turf          unchurching
+unfrocking          unseating          vertical fire
+walking papers          zone fire          ------------
+
+gas
+acetylene          advance against          advance upon
+aerodynamics          air          alcohol
+ammonia          argon          asphyxiating gas
+atmosphere          avgas          babble
+babblement          baloney          bavardage
+bear down upon          belch          benzine
+best seller          bibble-babble          big hit
+big talk          bilge          blab
+blabber          blah          blah-blah
+blather          blether          blethers
+bop          bosh          brilliant success
+briquette          bull          bullshit
+bunk          bunker          bunkum
+burnable          burp          butane
+cackle          caquet          caqueterie
+carbon          carbon dioxide          carbon monoxide
+cater          charcoal          chat
+chatter          chitter-chatter          chlorine
+clack          clatter          coal
+coal gas          coal oil          coke
+combustible          counterattack          crap
+crude          crude oil          dither
+dope          drive          drivel
+drool          electricity          eructation
+ethane          ethanol          ether
+ethyl          ethyl gas          ethylene
+fad          fancy talk          fart
+feed          fill up          fine talk
+fireball          firing          fish story
+flammable          flammable material          flank
+flapdoodle          flatulence          flatulency
+flatuosity          flatus          fluid
+fluorine          forage          formaldehyde
+fossil oil          fuel          fuel additive
+fuel dope          gab          gabble
+gas carbon          gas up          gasoline
+gasser          gibber          gibble-gabble
+go on          gossip          great success
+guff          gup          gush
+halogen gas          haver          helium
+heptane          hexane          hiccup
+high-octane gas          high-test          highfalutin
+highfaluting          hit          hogwash
+hokum          hooey          hot air
+hydrogen          idle talk          illuminant
+illuminating gas          inert gas          infiltrate
+inflammable          inflammable material          isooctane
+jabber          jaw          jazz
+jet fuel          kerosene          killing
+krypton          launch an attack          lead-free gas
+lewisite          light source          low-lead gas
+luminant          malarkey          march against
+march upon          marsh gas          mere talk
+meteoric success          methane          methanol
+momentary success          moonshine          motor oil
+mount an attack          mustard gas          natter
+natural gas          neon          nitrogen
+nonsense talk          octane          oil
+open an offensive          oxygen          ozone
+palaver          paraffin          patter
+peat          pentane          petrol
+petroleum          piffle          pneumatics
+poison gas          poppycock          pour forth
+prate          prating          prattle
+premium gas          prittle-prattle          propane
+propellant          provender          provision
+purvey          push          radon
+ramble on          rattle          rattle on
+reel off          regular          resounding triumph
+riot          roaring success          rock oil
+rocket fuel          rot          run on
+scat          sell          sensation
+sewer gas          shit          smash
+smash hit          spout          spout off
+strike          talk away          talk nonsense
+talk on          talkee-talkee          tall story
+tall talk          thrust          tittle-tattle
+tommyrot          top off          tripe
+triumph          turf          twaddle
+twattle          vapor          victual
+waffle          wind          wow
+xenon          yak          yakkety-yak
+------------
+
+gasoline          alcohol          avgas
+benzine          briquette          burnable
+butane          carbon          charcoal
+coal          coal oil          coke
+combustible          crude          crude oil
+dope          electricity          ethane
+ethanol          ethyl          ethyl gas
+fireball          firing          flammable
+flammable material          fossil oil          fuel
+fuel additive          fuel dope          gas
+gas carbon          heptane          hexane
+high-octane gas          high-test          illuminant
+illuminating gas          inflammable          inflammable material
+isooctane          jet fuel          kerosene
+lead-free gas          light source          low-lead gas
+luminant          methane          methanol
+motor oil          natural gas          octane
+oil          paraffin          peat
+pentane          petrol          petroleum
+premium gas          propane          propellant
+regular          rock oil          rocket fuel
+turf          ------------
+
+goofball          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anodyne
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+butterfingers          calmative          chloral hydrate
+clumsy          codeine          codeine cough syrup
+depressant          depressor          dolly
+downer          dub          duffer
+foozler          foul-up          fumble-fist
+goof          goofer          hard stuff
+heroin          hick          hop
+horse          hypnotic          junk
+knockout drops          laudanum          liquor
+lotus          lummox          lump
+meperidine          methadone          morphia
+morphine          muff          muffer
+narcotic          opiate          opium
+pacifier          pain killer          paregoric
+pen yan          phenobarbital          phenobarbital sodium
+purple heart          quietener          rainbow
+red          rube          scag
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          slob          smack
+sodium thiopental          somnifacient          soother
+soothing syrup          soporific          stumblebum
+stumblebunny          tar          tranquilizer
+turps          white stuff          yellow
+yellow jacket          ------------
+
+grog          John Barleycorn
+alcohol          alcoholic beverage          alcoholic drink
+aqua vitae          ardent spirits          beverage
+booze          brew          drink
+firewater          hard liquor          hooch
+inebriant          intoxicant          intoxicating liquor
+juice          liquor          little brown jug
+potable          potation          punch bowl
+rum          schnapps          social lubricant
+spirits          strong drink          strong waters
+the Demon Rum          the bottle          the cup
+the flowing bowl          the luscious liquor          the ruddy cup
+tipple          toxicant          water of life
+------------
+
+hard stuff          Amytal          Amytal pill
+Demerol          Dolophine          H
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Seconal          Seconal pill          Tuinal
+Tuinal pill          addictive drug          alcohol
+amobarbital sodium          analgesic          anodyne
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+calmative          candy          chloral hydrate
+codeine          codeine cough syrup          dangerous drug
+depressant          depressor          dolly
+dope          downer          drug
+goofball          hard drug          heroin
+hop          horse          hypnotic
+junk          knockout drops          laudanum
+liquor          lotus          meperidine
+methadone          morphia          morphine
+narcotic          opiate          opium
+pacifier          pain killer          paregoric
+pen yan          phenobarbital          phenobarbital sodium
+purple heart          quietener          rainbow
+red          scag          secobarbital sodium
+sedative          shit          sleep-inducer
+sleeper          sleeping draught          sleeping pill
+smack          sodium thiopental          somnifacient
+soother          soothing syrup          soporific
+stuff          tar          tranquilizer
+turps          white stuff          yellow
+yellow jacket          ------------
+
+heroin          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anodyne
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+calmative          chloral hydrate          codeine
+codeine cough syrup          depressant          depressor
+dolly          downer          goofball
+hard stuff          hop          horse
+hypnotic          junk          knockout drops
+laudanum          liquor          lotus
+meperidine          methadone          morphia
+morphine          narcotic          opiate
+opium          pacifier          pain killer
+paregoric          pen yan          phenobarbital
+phenobarbital sodium          purple heart          quietener
+rainbow          red          scag
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          tar          tranquilizer
+turps          white stuff          yellow
+yellow jacket          ------------
+
+hooch          alcohol
+aqua vitae          bathtub gin          blockade
+bootleg          booze          corpse reviver
+drink          firewater          grog
+juice          likker          medicine
+mountain dew          sauce          snake medicine
+spirits          tiger milk          tipple
+white lightning          ------------
+
+hop          Amytal
+Amytal pill          Demerol          Dolophine
+H          Highland fling          Luminal
+Luminal pill          M          Mickey Finn
+Nembutal          Nembutal pill          Seconal
+Seconal pill          Tuinal          Tuinal pill
+aeroplane          airlift          airplane
+alcohol          amble          amobarbital sodium
+analgesic          and jump          anodyne
+bal          bal costume          bal masque
+ball          balloon          barb
+barbiturate          barbiturate pill          barge
+barn dance          be airborne          black stuff
+blue          blue angel          blue devil
+blue heaven          blue velvet          bounce
+bound          bowl along          broad jump
+buck          buckjump          bundle
+calmative          canter          capriole
+chloral hydrate          clear          clog
+clop          clump          codeine
+codeine cough syrup          country dance          cruise
+curvet          dance          demivolt
+depressant          depressor          dolly
+dope          downer          drag
+drift          fancy-dress ball          ferry
+flight          flit          flounce
+fly          flying jump          foot
+footfall          footslog          footstep
+fox-trot          galliard          gallop
+gelandesprung          get          git
+glide          goofball          grand jete
+halt          handspring          hard stuff
+heroin          high jump          hightail
+hippety-hop          hitch          hobble
+hoof          hoofbeat          hop along
+horse          hotfoot          hover
+hurdle          hydroplane          hypnotic
+jet          jete          jig
+jog          jolt          jump
+jump over          jump shot          jump turn
+jump-hop          jump-off          junk
+knockout drops          laudanum          lavolta
+leap          leap over          leapfrog
+limp          liquor          long jump
+lop          lope          lotus
+lumber          lunge          lurch
+make tracks          mask          masked ball
+masque          masquerade          masquerade ball
+meperidine          methadone          mince
+mixer          morphia          morphine
+morris          narcotic          navigate
+negotiate          opiate          opium
+overjump          overleap          overskip
+pace          pacifier          paddle
+pain killer          paregoric          peg
+pen yan          phenobarbital          phenobarbital sodium
+piaffe          piaffer          plod
+pole vault          pounce          pounce on
+pounce upon          prance          prom
+promenade          purple heart          quietener
+rack          rainbow          record hop
+red          roll          run
+running broad jump          running high jump          sail
+sailplane          sashay          saunter
+saut de basque          scag          scuff
+scuffle          scuttle          seaplane
+secobarbital sodium          sedative          shake
+shamble          shimmy          shindig
+shindy          shit          shuffle
+sidle          single-foot          ski jump
+skip          skitter          sleep-inducer
+sleeper          sleeping draught          sleeping pill
+slink          slither          slog
+slouch          smack          soar
+sodium thiopental          solo          somnifacient
+soother          soothing syrup          soporific
+spring          sprint          square dance
+stag dance          stagger          stalk
+stamp          start          start aside
+start up          steeplechase          step
+step along          step lively          stomp
+straddle          straggle          stride
+stroll          strut          stump
+swagger          swing          take the air
+take wing          tap-dance          tar
+tea dance          test flight          the dansant
+tittup          toddle          totter
+tour jete          traipse          tranquilizer
+tread          trip          trot
+trudge          turps          updive
+upleap          upspring          vault
+volplane          waddle          waltz
+wamble          white stuff          wiggle
+wing          wobble          yellow
+yellow jacket          ------------
+
+horse          Al Borak
+American trotter          Amytal          Amytal pill
+Angora goat          Appaloosa          Arabian
+Arctic fox          Barb          Barbary horse
+Belgian          Belgian hare          Black Beauty
+Caffre cat          Citation          Cleveland Bay
+Demerol          Dolophine          French coach horse
+Galloway          Gibraltar          H
+Hambletonian          Houyhnhnm          Indian buffalo
+Indian club          Kelso          Kodiak bear
+Luminal          Luminal pill          M
+Mickey Finn          Nashua          Native Dancer
+Nembutal          Nembutal pill          Pegasus
+Rosinante          Seconal          Seconal pill
+Secretariat          Shetland          Shetland pony
+Shire          Siberian husky          Silver
+Suffolk          Swaps          Topper
+Tuinal          Tuinal pill          Turk
+Virginia deer          Whirlaway          White Surrey
+aardvark          aardwolf          act up
+alcohol          alpaca          amobarbital sodium
+analgesic          anodyne          anteater
+antelope          antelope chipmunk          aoudad
+apar          armadillo          ass
+aurochs          badger          bandicoot
+barb          barbell          barbiturate
+barbiturate pill          bassarisk          bat
+bear          beast of burden          beaver
+bettong          binturong          bison
+black bear          black buck          black cat
+black fox          black sheep          black stuff
+blue          blue angel          blue devil
+blue fox          blue heaven          blue velvet
+bobcat          brood mare          brown bear
+brush deer          brush wolf          buck
+buffalo          buffalo wolf          burro
+burro deer          cachalot          calmative
+camel          camelopard          capybara
+carabao          caribou          carpincho
+carry on          cat          cat-a-mountain
+catamount          cattalo          cavy
+chamois          charger          cheetah
+chevrotain          chinchilla          chipmunk
+chloral hydrate          cinnamon bear          clotheshorse
+codeine          codeine cough syrup          colt
+coon          coon cat          cotton mouse
+cotton rat          cougar          courser
+cow          coyote          coypu
+critter          cut up          deer
+deer tiger          depressant          depressor
+dingo          dobbin          dog
+dolly          donkey          dormouse
+downer          draft animal          dromedary
+dumbbell          echidna          eland
+elephant          elk          entire
+entire horse          equine          ermine
+exerciser          eyra          fallow deer
+ferret          field mouse          filly
+fisher          fitch          flying phalanger
+foal          foumart          fox
+fox squirrel          gazelle          gelding
+gemsbok          genet          giraffe
+glutton          gnu          gnu goat
+goat          goat antelope          goofball
+gopher          grizzly bear          ground squirrel
+groundhog          guanaco          guinea pig
+hamster          hard stuff          hare
+harnessed antelope          hartebeest          heart of oak
+hedgehog          heroin          hippopotamus
+hog          hop          horse
+horseplay          husky          hyena
+hypnotic          hyrax          ibex
+iron          jackal          jackass
+jackrabbit          jaguar          jaguarundi
+jennet          jerboa          jerboa kangaroo
+junk          kaama          kangaroo
+kangaroo mouse          kangaroo rat          karakul
+kinkajou          kit fox          knockout drops
+koala          lapin          laudanum
+lemming          leopard          leopard cat
+lion          liquor          llama
+long horse          lotus          lynx
+malamute          mammoth          mara
+mare          marmot          marten
+mastodon          meerkat          meperidine
+methadone          mink          mole
+mongoose          moose          morphia
+morphine          mouflon          mount
+mountain goat          mountain lion          mountain sheep
+mouse          mule          mule deer
+muntjac          musk deer          musk hog
+musk-ox          muskrat          musquash
+nag          nails          narcotic
+nilgai          nutria          oak
+ocelot          okapi          onager
+oont          opiate          opium
+opossum          otter          ounce
+ox          pacifier          pack horse
+pack rat          pain killer          painter
+palomino          panda          pangolin
+panther          parallel bars          paregoric
+peccary          peludo          pen yan
+phalanger          phenobarbital          phenobarbital sodium
+pig          pine mouse          platypus
+pocket gopher          pocket mouse          pocket rat
+polar bear          polar fox          polecat
+porcupine          possum          pouched rat
+poyou          prairie dog          prairie wolf
+prancer          pronghorn          puma
+punching bag          purple heart          quarter horse
+quietener          rabbit          raccoon
+rainbow          rat          red
+red deer          red squirrel          reindeer
+rhinoceros          rings          rock
+roe          roe deer          roebuck
+rowing machine          sable          saddle horse
+sawbuck          sawhorse          scag
+secobarbital sodium          sedative          serval
+sheep          shit          shrew
+shrew mole          side horse          sika
+silver fox          skunk          sledge dog
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          snowshoe rabbit
+sodium thiopental          somnifacient          soother
+soothing syrup          soporific          springbok
+squirrel          stallion          steed
+steel          stoat          stud
+studhorse          sumpter          sumpter horse
+sumpter mule          suslik          swamp rabbit
+swine          takin          tamandua
+tamarin          tapir          tar
+tarpan          tatou          tatou peba
+tatouay          thoroughbred          tiger
+tiger cat          timber wolf          top horse
+trampoline          tranquilizer          trapeze
+tree shrew          trestle          trestle and table
+trestle board          trestle table          trestlework
+trestling          turps          urus
+vole          wallaby          war-horse
+warthog          water buffalo          waterbuck
+weasel          weight          wharf rat
+whistler          white fox          white stuff
+wild ass          wild boar          wild goat
+wild horse          wild ox          wildcat
+wildebeest          wolf          wolverine
+wombat          wood rat          woodchuck
+woolly mammoth          workhorse          yak
+yellow          yellow jacket          zebra
+zebu          zoril          ------------
+
+hypnotic
+Amytal          Amytal pill          Demerol
+Dolophine          H          Luminal
+Luminal pill          M          Mickey Finn
+Nembutal          Nembutal pill          Seconal
+Seconal pill          Tuinal          Tuinal pill
+absorbing          alcohol          alluring
+amobarbital sodium          analgesic          anesthetic
+anodyne          appealing          appetizing
+arresting          attractive          barb
+barbiturate          barbiturate pill          beguiling
+bewitching          black stuff          blandishing
+blue          blue angel          blue devil
+blue heaven          blue velvet          cajoling
+calmant          calmative          captivating
+catching          charismatic          charming
+chloral hydrate          coaxing          codeine
+codeine cough syrup          come-hither          consuming
+coquettish          depressant          depressor
+dolly          downer          enchanting
+engaging          engrossing          enravishing
+enthralling          enticing          entrancing
+exciting          exotic          fascinating
+fetching          flirtatious          glamorous
+goofball          gripping          hard stuff
+heroin          holding          hop
+horse          hypnoid          interesting
+intriguing          inviting          irresistible
+junk          knockout drops          laudanum
+liquor          lotus          lullaby
+magnetic          mandrake          meperidine
+mesmeric          mesmerizing          methadone
+morphia          morphine          mouth-watering
+narcohypnotic          narcotic          nightcap
+obsessing          obsessive          odylic
+opiate          opium          pacifier
+pain killer          paregoric          pen yan
+phenobarbital          phenobarbital sodium          piquant
+poppy          prepossessing          provocative
+provoquant          purple heart          quietener
+quietening          rainbow          ravishing
+red          scag          secobarbital sodium
+sedative          seducing          seductive
+shit          siren          sirenic
+sleep-bringer          sleep-causing          sleep-compelling
+sleep-inducer          sleep-inducing          sleep-inviting
+sleep-producer          sleep-provoking          sleeper
+sleeping draught          sleeping pill          sleepy
+smack          sodium thiopental          somnifacient
+somniferous          somnolent          soother
+soothing          soothing syrup          soporific
+spellbinding          spellful          taking
+tantalizing          tar          teasing
+tempting          tickling          titillating
+titillative          tranquilizer          tranquilizing
+turps          white stuff          winning
+winsome          witching          yellow
+yellow jacket          ------------
+
+inebriant          John Barleycorn
+alcohol          alcoholic beverage          alcoholic drink
+aqua vitae          ardent spirits          beverage
+booze          brew          drink
+grog          hard liquor          heady
+inebriating          inebriative          intoxicant
+intoxicating          intoxicating liquor          intoxicative
+juice          liquor          little brown jug
+potable          potation          punch bowl
+rum          sauce          schnapps
+social lubricant          spirits          strong drink
+strong waters          the Demon Rum          the bottle
+the cup          the flowing bowl          the luscious liquor
+the ruddy cup          toxicant          water of life
+------------
+
+inflammable          accendible          agitable
+alcohol          benzine          briquette
+burnable          butane          carbon
+charcoal          coal          coke
+combustible          dope          edgy
+emotional          emotionally unstable          eruptive
+ethane          ethanol          excitable
+explosive          fiery          fireball
+firing          flammable          flammable material
+fuel          fuel additive          fuel dope
+gas          gas carbon          gasoline
+heptane          hexane          high-mettled
+high-spirited          high-strung          highly emotional
+inflammable material          irascible          irritable
+isooctane          jet fuel          kerosene
+methane          methanol          mettlesome
+natural gas          nervous          octane
+oil          paraffin          peat
+pentane          perturbable          prickly
+propane          propellant          rocket fuel
+sensitive          skittish          startlish
+touchy          turf          volcanic
+------------
+
+iodine          Argyrol          Mercurochrome
+Merthiolate          Salol          alcohol
+boric acid          calomel          camphor
+carbolic acid          chloramine          cresol
+gentian violet          gramicidin          hexachloraphene
+hydrogen peroxide          peroxide          phenol
+phenyl salicylate          resorcinol          silver vitellin
+thimerosal          thymol          tincture of iodine
+------------
+
+juice          AC          DC
+absorption current          active current          alcohol
+alternating current          aqua vitae          beverage
+blood          booze          conduction current
+convection current          cycle          delta current
+dielectric displacement current          direct current          displacement current
+drink          eddy current          electric current
+electric stream          emission current          essence
+exciting current          extract          firewater
+fluid          fluid extract          fluid mechanics
+force          free alternating current          galvanic current
+grog          high-frequency current          hooch
+hydraulics          hydrogeology          idle current
+induced current          induction current          ionization current
+latex          liquid          liquid extract
+liquor          low-frequency current          magnetizing current
+milk          multiphase current          pith
+power          pulsating direct current          reactive current
+rotary current          sap          semiliquid
+single-phase alternating current          spirit          spirits
+stray current          strength          thermionic current
+thermoelectric current          three-phase alternating current          tipple
+vigor          vitality          voltaic current
+water          watt current          whey
+------------
+
+junk          Amytal          Amytal pill
+Demerol          Dolophine          H
+Luminal          Luminal pill          M
+Mickey Finn          NG          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          addictive drug
+alcohol          amobarbital sodium          analgesic
+anodyne          barb          barbiturate
+barbiturate pill          bark          bawley
+bilander          black stuff          blue
+blue angel          blue devil          blue heaven
+blue velvet          boot out          bounce
+brig          brigantine          bully
+buss          calmative          candy
+caravel          cashier          cast
+cast aside          cast out          castaway
+castoff          cat          catamaran
+cheap          cheat          chloral hydrate
+chuck out          clamjamfry          clinquant
+clipper          codeine          codeine cough syrup
+collateral          corsair          corvette
+counterfeit          cutter          dandy
+dangerous drug          debris          defenestrate
+depressant          depressor          derelict
+detrude          dhow          discard
+discharge          dogie          dolly
+dope          downer          dromond
+drug          dummy          dust
+eject          exclude          expel
+extrude          fake          fakement
+fishing smack          flattie          flotsam
+flotsam and jetsam          forgery          foundling
+four-masted bark          four-master          frame-up
+fraud          frigate          galiot
+galleass          galleon          garbage
+give the hook          good-for-naught          good-for-nothing
+goofball          hard drug          hard stuff
+heave out          heroin          hoax
+hooker          hop          horse
+hoy          hypnotic          ice yacht
+imitation          impostor          jetsam
+jettison          junky          keelboat
+kelter          ketch          kick downstairs
+kick out          knockabout          knockout drops
+lagan          lateen          lateener
+laudanum          liquor          litter
+lorcha          lotus          lugger
+lumber          meperidine          methadone
+mock          morphia          morphine
+narcotic          no-account          no-good
+nobby          not worth having          not worth mentioning
+not worthwhile          nugacious          nugatory
+obtrude          ocean racer          offal
+opiate          opium          orphan
+oust          outrigger          pacifier
+pain killer          paregoric          paste
+pen yan          pension off          phenobarbital
+phenobarbital sodium          phony          pilot boat
+pinchbeck          pinnace          piragua
+pirogue          pram          pungy
+purple heart          put out          put-on
+put-up job          quietener          racing yacht
+raff          rainbow          red
+refuse          reject          remove
+retire          riffraff          rigger
+rip-off          rubbish          rubble
+sailing auxiliary          sailing canoe          sailing dinghy
+sailing packet          sailing trawler          sampan
+sandbagger          scag          schooner
+scooter          scrap          secobarbital sodium
+sedative          shabby          shallop
+sham          sharpie          shipentine
+shit          shoddy          simulacrum
+skipjack          sleep-inducer          sleeper
+sleeping draught          sleeping pill          sloop
+slough          smack          smack boat
+snow          sodium thiopental          somnifacient
+soother          soothing syrup          soporific
+stuff          superannuate          swindle
+tar          tartan          throw away
+throw out          throw overboard          thrust out
+tinsel          topsail schooner          toss out
+tranquilizer          trash          trashy
+trimaran          trivial          truck
+turn out          turps          valueless
+waif          waifs and strays          wash out
+waste          wastrel          well smack
+whaler          white stuff          whited sepulcher
+wool-clipper          worthless          xebec
+yacht          yawl          yellow
+yellow jacket          ------------
+
+kerosene          alcohol
+avgas          benzine          briquette
+burnable          butane          carbon
+charcoal          coal          coal oil
+coke          combustible          crude
+crude oil          dope          electricity
+ethane          ethanol          ethyl
+ethyl gas          fireball          firing
+flammable          flammable material          fossil oil
+fuel          fuel additive          fuel dope
+gas          gas carbon          gasoline
+heptane          hexane          high-octane gas
+high-test          illuminant          illuminating gas
+inflammable          inflammable material          isooctane
+jet fuel          lead-free gas          light source
+low-lead gas          luminant          methane
+methanol          motor oil          natural gas
+octane          oil          paraffin
+peat          pentane          petrol
+petroleum          premium gas          propane
+propellant          regular          rock oil
+rocket fuel          turf          ------------
+
+knockout drops
+Amytal          Amytal pill          Demerol
+Dolophine          H          Luminal
+Luminal pill          M          Mickey
+Mickey Finn          Nembutal          Nembutal pill
+Seconal          Seconal pill          Tuinal
+Tuinal pill          alcohol          amobarbital sodium
+analgesic          anesthetic          anodyne
+aperitif          barb          barbiturate
+barbiturate pill          black stuff          blue
+blue angel          blue devil          blue heaven
+blue velvet          calmative          chaser
+chloral hydrate          cocktail          codeine
+codeine cough syrup          depressant          depressor
+doch-an-dorrach          dolly          dope
+downer          drink          drug
+eye-opener          goofball          hard stuff
+heroin          highball          hop
+horse          hypnotic          junk
+knockout drop          laudanum          liquor
+lotus          meperidine          methadone
+mixed drink          morphia          morphine
+narcotic          nightcap          opiate
+opium          pacifier          pain killer
+pain-killer          paregoric          parting cup
+pen yan          phenobarbital          phenobarbital sodium
+pousse-cafe          punch          purple heart
+quietener          rainbow          red
+scag          secobarbital sodium          sedative
+shit          sleep-inducer          sleeper
+sleeping draught          sleeping pill          smack
+sodium thiopental          somnifacient          soother
+soothing syrup          soporific          stirrup cup
+sundowner          tar          tranquilizer
+turps          wee doch-an-dorrach          white stuff
+yellow          yellow jacket          ------------
+
+laudanum
+Amytal          Amytal pill          Demerol
+Dolophine          H          Luminal
+Luminal pill          M          Mickey Finn
+Nembutal          Nembutal pill          Seconal
+Seconal pill          Tuinal          Tuinal pill
+alcohol          amobarbital sodium          analgesic
+anodyne          barb          barbiturate
+barbiturate pill          black stuff          blue
+blue angel          blue devil          blue heaven
+blue velvet          calmative          chloral hydrate
+codeine          codeine cough syrup          depressant
+depressor          dolly          downer
+goofball          hard stuff          heroin
+hop          horse          hypnotic
+junk          knockout drops          liquor
+lotus          meperidine          methadone
+morphia          morphine          narcotic
+opiate          opium          pacifier
+pain killer          paregoric          pen yan
+phenobarbital          phenobarbital sodium          purple heart
+quietener          rainbow          red
+scag          secobarbital sodium          sedative
+shit          sleep-inducer          sleeper
+sleeping draught          sleeping pill          smack
+sodium thiopental          somnifacient          soother
+soothing syrup          soporific          tar
+tranquilizer          turps          white stuff
+yellow          yellow jacket          ------------
+
+liquor
+Amytal          Amytal pill          Demerol
+Dolophine          H          John Barleycorn
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Seconal          Seconal pill          Tuinal
+Tuinal pill          alcohol          alcoholic beverage
+alcoholic drink          amobarbital sodium          analgesic
+anodyne          aqua vitae          ardent spirits
+barb          barbiturate          barbiturate pill
+beverage          black stuff          blood
+blue          blue angel          blue devil
+blue heaven          blue velvet          booze
+brew          broth          budge
+calmative          chloral hydrate          codeine
+codeine cough syrup          concentrate          depressant
+depressor          distillate          dolly
+downer          drink          drinkable
+extract          firewater          fluid
+fluid extract          fluid mechanics          frosted
+frosted shake          goofball          grog
+hard liquor          hard stuff          heroin
+hooch          hop          horse
+hydraulics          hydrogeology          hypnotic
+inebriant          infusion          intoxicant
+intoxicating liquor          juice          junk
+knockout drops          latex          laudanum
+liquid          liquid extract          little brown jug
+lotus          lush          malt
+meperidine          methadone          milk
+moonshine          morphia          morphine
+mountain dew          narcotic          opiate
+opium          pacifier          pain killer
+paregoric          pen yan          phenobarbital
+phenobarbital sodium          pick-me-up          pop
+potable          potation          punch bowl
+purple heart          quietener          rainbow
+red          rum          sap
+sauce          scag          schnapps
+secobarbital sodium          sedative          semiliquid
+shake          shit          sleep-inducer
+sleeper          sleeping draught          sleeping pill
+smack          social lubricant          soda
+soda pop          soda water          sodium thiopental
+soft drink          somnifacient          soother
+soothing syrup          soporific          spirits
+stock          strong drink          strong waters
+tar          the Demon Rum          the bottle
+the cup          the flowing bowl          the luscious liquor
+the ruddy cup          tipple          tonic
+toxicant          tranquilizer          turps
+water          water of life          whey
+white lightning          white mule          white stuff
+yellow          yellow jacket          ------------
+
+lush
+abundant          adorable          adorned
+agreeable          alcohol          ambrosial
+befrilled          bibber          blooming
+booze          boozehound          boozer
+bottle sucker          bountiful          budge
+bum          bursting          bursting out
+chug          chug-a-lug          colored
+copious          creative          dainty
+decorated          delectable          delicate
+delicious          delightful          deluxe
+dense          drink          drunk
+elaborate          elbow bender          embellished
+embroidered          epicurean          exquisite
+extravagant          exuberant          fancy
+fecund          fertile          festooned
+figurative          figured          firewater
+florid          flourishing          flowery
+fresh          fructiferous          fruitful
+generous          ginhound          good
+good to eat          good-tasting          green
+grog          gross          gustable
+gusty          heavenly          heavy
+hooch          hooch hound          impenetrable
+inebriate          juicy          jungled
+jungly          lavish          likable
+liquor          liquor up          luscious
+lusher          luxuriant          luxurious
+moist          mouth-watering          nectareous
+nectarous          nice          of gourmet quality
+opulent          ornate          overcharged
+overgrown          overloaded          overrun
+palatable          palatial          pleasing
+plenteous          plentiful          plush
+pregnant          prodigal          productive
+profusive          proliferous          prolific
+purple          raise the elbow          rank
+rich          riotous          ripe
+ritzy          rum hound          rummy
+sapid          savorous          savory
+scrumptious          seminal          sensual
+soak          sot          souse
+sponge          stew          succulent
+sumptuous          superabundant          swarming
+swig          swill          swillbelly
+swillbowl          swillpot          tank up
+tasty          teeming          thick
+thriving          tipple          tippler
+toothsome          uberous          unweeded
+verdant          voluptuous          weed-choked
+weed-ridden          weedy          wino
+yummy          ------------
+
+methadone          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anodyne
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+calmative          chloral hydrate          codeine
+codeine cough syrup          depressant          depressor
+dolly          downer          goofball
+hard stuff          heroin          hop
+horse          hypnotic          junk
+knockout drops          laudanum          liquor
+lotus          meperidine          morphia
+morphine          narcotic          opiate
+opium          pacifier          pain killer
+paregoric          pen yan          phenobarbital
+phenobarbital sodium          purple heart          quietener
+rainbow          red          scag
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          tar          tranquilizer
+turps          white stuff          yellow
+yellow jacket          ------------
+
+methane          alcohol
+benzine          briquette          burnable
+butane          carbon          charcoal
+coal          coke          combustible
+dope          ethane          ethanol
+fireball          firing          flammable
+flammable material          fuel          fuel additive
+fuel dope          gas          gas carbon
+gasoline          heptane          hexane
+inflammable          inflammable material          isooctane
+jet fuel          kerosene          methanol
+natural gas          octane          oil
+paraffin          peat          pentane
+propane          propellant          rocket fuel
+turf          ------------
+
+Mickey Finn          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anesthetic
+anodyne          aperitif          barb
+barbiturate          barbiturate pill          black stuff
+blue          blue angel          blue devil
+blue heaven          blue velvet          calmative
+chaser          chloral hydrate          cocktail
+codeine          codeine cough syrup          depressant
+depressor          doch-an-dorrach          dolly
+dope          downer          drink
+drug          eye-opener          goofball
+hard stuff          heroin          highball
+hop          horse          hypnotic
+junk          knockout drop          knockout drops
+laudanum          liquor          lotus
+meperidine          methadone          mixed drink
+morphia          morphine          narcotic
+nightcap          opiate          opium
+pacifier          pain killer          pain-killer
+paregoric          parting cup          pen yan
+phenobarbital          phenobarbital sodium          pousse-cafe
+punch          purple heart          quietener
+rainbow          red          scag
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          stirrup cup          sundowner
+tar          tranquilizer          turps
+wee doch-an-dorrach          white stuff          yellow
+yellow jacket          ------------
+
+morphine          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anesthetic
+anodyne          barb          barbiturate
+barbiturate pill          black stuff          blue
+blue angel          blue devil          blue heaven
+blue velvet          calmative          chloral hydrate
+codeine          codeine cough syrup          depressant
+depressor          dolly          downer
+goofball          hard stuff          heroin
+hop          horse          hypnotic
+junk          knockout drops          laudanum
+liquor          lotus          lullaby
+mandrake          meperidine          methadone
+morphia          narcotic          nightcap
+opiate          opium          pacifier
+pain killer          paregoric          pen yan
+phenobarbital          phenobarbital sodium          poppy
+purple heart          quietener          rainbow
+red          scag          secobarbital sodium
+sedative          shit          sleep-bringer
+sleep-inducer          sleep-producer          sleeper
+sleeping draught          sleeping pill          smack
+sodium thiopental          somnifacient          soother
+soothing syrup          soporific          tar
+tranquilizer          turps          white stuff
+yellow          yellow jacket          ------------
+
+narcotic
+Amytal          Amytal pill          Demerol
+Dolophine          H          Lethean
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Seconal          Seconal pill          Tuinal
+Tuinal pill          alcohol          amobarbital sodium
+analgesic          anesthetic          anodyne
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+calmant          calmative          chloral hydrate
+codeine          codeine cough syrup          deadening
+depressant          depressor          dolly
+dope          downer          drug
+dulling          goofball          hard stuff
+heroin          hop          horse
+hypnotic          junk          knockout drop
+knockout drops          laudanum          liquor
+lotus          meperidine          methadone
+nepenthe          numbing          opiate
+opium          pacifier          pain killer
+pain-killer          paregoric          pen yan
+phenobarbital          phenobarbital sodium          purple heart
+quietener          quietening          rainbow
+red          scag          secobarbital sodium
+sedative          shit          sleep-causing
+sleep-compelling          sleep-inducer          sleep-inducing
+sleep-inviting          sleep-provoking          sleeper
+sleeping draught          sleeping pill          smack
+sodium thiopental          somnifacient          somniferous
+somnolent          soother          soothing
+soothing syrup          soporific          stunning
+stupefactive          stupefying          stuporific
+tar          tranquilizer          tranquilizing
+turps          white stuff          yellow
+yellow jacket          ------------
+
+natural gas          alcohol
+benzine          briquette          burnable
+butane          carbon          charcoal
+coal          coke          combustible
+dope          ethane          ethanol
+fireball          firing          flammable
+flammable material          fuel          fuel additive
+fuel dope          gas          gas carbon
+gasoline          heptane          hexane
+inflammable          inflammable material          isooctane
+jet fuel          kerosene          methane
+methanol          octane          oil
+paraffin          peat          pentane
+propane          propellant          rocket fuel
+turf          ------------
+
+Nembutal          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal pill
+Seconal          Seconal pill          Tuinal
+Tuinal pill          alcohol          amobarbital sodium
+analgesic          anodyne          barb
+barbiturate          barbiturate pill          black stuff
+blue          blue angel          blue devil
+blue heaven          blue velvet          calmative
+chloral hydrate          codeine          codeine cough syrup
+depressant          depressor          dolly
+downer          goofball          hard stuff
+heroin          hop          horse
+hypnotic          junk          knockout drops
+laudanum          liquor          lotus
+meperidine          methadone          morphia
+morphine          narcotic          opiate
+opium          pacifier          pain killer
+paregoric          pen yan          phenobarbital
+phenobarbital sodium          purple heart          quietener
+rainbow          red          scag
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          tar          tranquilizer
+turps          white stuff          yellow
+yellow jacket          ------------
+
+octane          alcohol
+benzine          briquette          burnable
+butane          carbon          charcoal
+coal          coke          combustible
+dope          ethane          ethanol
+fireball          firing          flammable
+flammable material          fuel          fuel additive
+fuel dope          gas          gas carbon
+gasoline          heptane          hexane
+inflammable          inflammable material          isooctane
+jet fuel          kerosene          methane
+methanol          natural gas          oil
+paraffin          peat          pentane
+propane          propellant          rocket fuel
+turf          ------------
+
+oil          Barbados tar
+Haliver Oil          Macassar oil          absinthe
+adipose tissue          adulation          aid
+alcohol          animal oils          anoint
+anthracene oil          aquarelle          asphalt-base oil
+avocado oil          balm          balsam
+bay oil          beechnut oil          beef tallow
+beeswax          benzine          blandishment
+blarney          blubber          bone oil
+bottlenose oil          briquette          bunker
+bunkum          burnable          butane
+butter          butter up          butterfat
+cajolement          cajolery          camphor
+candlenut oil          canvas          carapa oil
+carbon          castor oil          cater
+cedarwood oil          cerate          charcoal
+clear the way          clove oil          coal
+coal oil          cocoa butter          cod-liver oil
+coke          collyrium          combustible
+compliment          copaiba          copra oil
+corn oil          creosote          croton oil
+dab          daub          demulcent
+detonate          doegling oil          dope
+dose          drag          dress
+dripping          drippings          drug
+dub          ease          easel-picture
+edible oil          electricity          embrocate
+embrocation          emollient          equalize
+ethane          ethanol          eucalyptus oil
+even          expedite          explain
+explode          eyewash          eyewater
+facilitate          fair words          fat
+fawning          feed          fill up
+finger painting          fireball          firing
+fish oil          flammable          flammable material
+flatten          flattery          flaxseed oil
+forage          fuel          fuel additive
+fuel dope          fuel oil          fuel up
+fulminate          furnace oil          gas
+gas carbon          gas oil          gas up
+gasoline          get around          ghee
+glycerolate          goose grease          gouache
+grade          grease          grease the ways
+grease the wheels          gum spirit          harrow
+hasten          help along          hempseed oil
+heptane          hexane          honey
+honeyed phrases          honeyed words          illuminant
+illuminating gas          incense          inflammable
+inflammable material          isooctane          jet fuel
+jolly          kekuna oil          kerosene
+kid along          lamp oil          lanolin
+lard          lard oil          laurel butter
+lay          lay it on          lemon oil
+level          light source          liniment
+linseed oil          lipid          lipoma
+loose          lotion          lubricate
+luminant          make clear          make way for
+margarine          medicate          methane
+methanol          mineral oil          mineral seal oil
+mineral sperm oil          mineral spirits          mow
+mutton tallow          naphthalene          naphthene-base oil
+natural gas          nut oil          octane
+oil of almonds          oil painting          ointment
+oleo          oleomargarine          oleoresin
+olive oil          open the way          open up
+overdo it          painting          palaver
+palm oil          palm-kernel oil          paraffin
+pave the way          peanut oil          peat
+pentane          perilla oil          petrol
+petrolatum          petroleum          petroleum benzine
+pine oil          pine tar          pine-tar oil
+plane          planish          plaster
+play up to          pomade          poppyseed oil
+porpoise oil          praise          prepare the way
+pretty lies          propane          propellant
+provender          provision          purvey
+quicken          rape oil          refuel
+remove friction          ricinus oil          road oil
+rocket fuel          rosin grease          rosin oil
+run interference for          salve          saturating oil
+seal oil          sell          sesame oil
+shale naphtha          shave          shortening
+simplify          slick          slick on
+smear          smooth          smooth down
+smooth out          smooth the way          soap
+soap the ways          soft soap          soft-soap
+soften up          soybean oil          speed
+spikenard          stoke          stove oil
+string along          stroke          suet
+sweet nothings          sweet talk          sweet words
+sycophancy          tallow          technical oil
+tempera          top off          turf
+turpentine          unbar          unblock
+unclog          unction          unguent
+unguentum          unjam          victual
+vulnerary          wash          wash drawing
+water          wax          whale oil
+wheedling          wood oil          wool fat
+------------
+
+opiate          Amytal          Amytal pill
+Demerol          Dolophine          H
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Seconal          Seconal pill          Tuinal
+Tuinal pill          accept          alcohol
+amobarbital sodium          analgesic          anesthetic
+anodyne          barb          barbiturate
+barbiturate pill          believe          black stuff
+blue          blue angel          blue devil
+blue heaven          blue velvet          calmative
+chloral hydrate          codeine          codeine cough syrup
+consider          depressant          depressor
+dolly          dope          downer
+drug          goofball          hard stuff
+heroin          hold          hop
+horse          hypnotic          judge
+junk          knockout drop          knockout drops
+laudanum          liquor          lotus
+lullaby          mandrake          meperidine
+methadone          morphia          morphine
+narcotic          nightcap          opinion
+opium          pacifier          pain killer
+pain-killer          paregoric          pen yan
+phenobarbital          phenobarbital sodium          poppy
+purple heart          quietener          rainbow
+red          regard          scag
+secobarbital sodium          sedative          shit
+sleep-bringer          sleep-inducer          sleep-producer
+sleeper          sleeping draught          sleeping pill
+sleepy          smack          sodium thiopental
+somnifacient          somniferous          soother
+soothing syrup          soporific          speculate
+tar          think          tranquilizer
+turps          view          white stuff
+yellow          yellow jacket          ------------
+
+opium
+Amytal          Amytal pill          Demerol
+Dolophine          H          Luminal
+Luminal pill          M          Mickey Finn
+Nembutal          Nembutal pill          Seconal
+Seconal pill          Tuinal          Tuinal pill
+alcohol          amobarbital sodium          analgesic
+anesthetic          anodyne          barb
+barbiturate          barbiturate pill          black stuff
+blue          blue angel          blue devil
+blue heaven          blue velvet          calmative
+chloral hydrate          codeine          codeine cough syrup
+depressant          depressor          dolly
+downer          goofball          hard stuff
+heroin          hop          horse
+hypnotic          junk          knockout drops
+laudanum          liquor          lotus
+lullaby          mandrake          meperidine
+methadone          morphia          morphine
+narcotic          nightcap          opiate
+pacifier          pain killer          paregoric
+pen yan          phenobarbital          phenobarbital sodium
+poppy          purple heart          quietener
+rainbow          red          scag
+secobarbital sodium          sedative          shit
+sleep-bringer          sleep-inducer          sleep-producer
+sleeper          sleeping draught          sleeping pill
+smack          sodium thiopental          somnifacient
+soother          soothing syrup          soporific
+tar          tranquilizer          turps
+white stuff          yellow          yellow jacket
+------------
+
+pacifier          Amytal          Amytal pill
+Demerol          Dolophine          H
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Seconal          Seconal pill          Tuinal
+Tuinal pill          alcohol          alleviative
+alleviator          amobarbital sodium          analgesic
+anodyne          appeaser          assuager
+balm          barb          barbiturate
+barbiturate pill          black stuff          blue
+blue angel          blue devil          blue heaven
+blue velvet          calmative          chloral hydrate
+codeine          codeine cough syrup          conciliator
+cushion          depressant          depressor
+dolly          dolorifuge          downer
+family counselor          goofball          hard stuff
+heroin          hop          horse
+hypnotic          junk          knockout drops
+laudanum          lenitive          liquor
+lotus          make-peace          marriage counselor
+meperidine          methadone          mitigator
+moderator          modulator          mollifier
+morphia          morphine          narcotic
+opiate          opium          pacificator
+pain killer          palliative          paregoric
+peacemaker          pen yan          phenobarbital
+phenobarbital sodium          propitiator          purple heart
+quietener          rainbow          reconciler
+red          restraining hand          salve
+scag          secobarbital sodium          sedative
+shit          shock absorber          sleep-inducer
+sleeper          sleeping draught          sleeping pill
+smack          smoother-over          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          stabilizer          tar
+temperer          tranquilizer          turps
+white stuff          wiser head          yellow
+yellow jacket          ------------
+
+pain killer          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anesthetic
+anodyne          barb          barbiturate
+barbiturate pill          black stuff          blue
+blue angel          blue devil          blue heaven
+blue velvet          calmative          chloral hydrate
+codeine          codeine cough syrup          depressant
+depressor          dolly          dope
+downer          drug          goofball
+hard stuff          heroin          hop
+horse          hypnotic          junk
+knockout drop          knockout drops          laudanum
+liquor          lotus          meperidine
+methadone          morphia          morphine
+narcotic          opiate          opium
+pacifier          pain killer          paregoric
+pen yan          phenobarbital          phenobarbital sodium
+purple heart          quietener          rainbow
+red          scag          secobarbital sodium
+sedative          shit          sleep-inducer
+sleeper          sleeping draught          sleeping pill
+smack          sodium thiopental          somnifacient
+soother          soothing syrup          soporific
+tar          tranquilizer          turps
+white stuff          yellow          yellow jacket
+------------
+
+paraffin          alcohol          avgas
+benzine          briquette          burnable
+butane          carbon          charcoal
+coal          coal oil          coke
+combustible          crude          crude oil
+dope          electricity          ethane
+ethanol          ethyl          ethyl gas
+fireball          firing          flammable
+flammable material          fossil oil          fuel
+fuel additive          fuel dope          gas
+gas carbon          gasoline          heptane
+hexane          high-octane gas          high-test
+illuminant          illuminating gas          inflammable
+inflammable material          isooctane          jet fuel
+kerosene          lead-free gas          light source
+low-lead gas          luminant          methane
+methanol          motor oil          natural gas
+octane          oil          peat
+pentane          petrol          petroleum
+premium gas          propane          propellant
+regular          rock oil          rocket fuel
+turf          ------------
+
+paregoric          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anodyne
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+calmative          chloral hydrate          codeine
+codeine cough syrup          depressant          depressor
+dolly          downer          goofball
+hard stuff          heroin          hop
+horse          hypnotic          junk
+knockout drops          laudanum          liquor
+lotus          meperidine          methadone
+morphia          morphine          narcotic
+opiate          opium          pacifier
+pain killer          pen yan          phenobarbital
+phenobarbital sodium          purple heart          quietener
+rainbow          red          scag
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          tar          tranquilizer
+turps          white stuff          yellow
+yellow jacket          ------------
+
+peat          alcohol
+benzine          briquette          burnable
+butane          carbon          charcoal
+coal          coke          combustible
+dope          ethane          ethanol
+fireball          firing          flammable
+flammable material          fuel          fuel additive
+fuel dope          gas          gas carbon
+gasoline          heptane          hexane
+inflammable          inflammable material          isooctane
+jet fuel          kerosene          methane
+methanol          natural gas          octane
+oil          paraffin          pentane
+propane          propellant          rocket fuel
+turf          ------------
+
+pen yan          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anodyne
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+calmative          chloral hydrate          codeine
+codeine cough syrup          depressant          depressor
+dolly          downer          goofball
+hard stuff          heroin          hop
+horse          hypnotic          junk
+knockout drops          laudanum          liquor
+lotus          meperidine          methadone
+morphia          morphine          narcotic
+opiate          opium          pacifier
+pain killer          paregoric          phenobarbital
+phenobarbital sodium          purple heart          quietener
+rainbow          red          scag
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          tar          tranquilizer
+turps          white stuff          yellow
+yellow jacket          ------------
+
+pentane          alcohol
+benzine          briquette          burnable
+butane          carbon          charcoal
+coal          coke          combustible
+dope          ethane          ethanol
+fireball          firing          flammable
+flammable material          fuel          fuel additive
+fuel dope          gas          gas carbon
+gasoline          heptane          hexane
+inflammable          inflammable material          isooctane
+jet fuel          kerosene          methane
+methanol          natural gas          octane
+oil          paraffin          peat
+propane          propellant          rocket fuel
+turf          ------------
+
+phenobarbital          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+amobarbital sodium          analgesic          anodyne
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+calmative          chloral hydrate          codeine
+codeine cough syrup          depressant          depressor
+dolly          downer          goofball
+hard stuff          heroin          hop
+horse          hypnotic          junk
+knockout drops          laudanum          liquor
+lotus          meperidine          methadone
+morphia          morphine          narcotic
+opiate          opium          pacifier
+pain killer          paregoric          pen yan
+phenobarbital sodium          purple heart          quietener
+rainbow          red          scag
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          tar          tranquilizer
+turps          white stuff          yellow
+yellow jacket          ------------
+
+potable          John Barleycorn
+alcohol          alcoholic beverage          alcoholic drink
+aqua vitae          ardent spirits          beverage
+booze          brew          drink
+drinkable          frosted          frosted shake
+grog          hard liquor          inebriant
+intoxicant          intoxicating liquor          liquid
+liquor          little brown jug          malt
+pop          potation          punch bowl
+rum          schnapps          shake
+social lubricant          soda          soda pop
+soda water          soft drink          spirits
+strong drink          strong waters          the Demon Rum
+the bottle          the cup          the flowing bowl
+the luscious liquor          the ruddy cup          tonic
+toxicant          water of life          ------------
+
+potation
+John Barleycorn          alcohol          alcoholic beverage
+alcoholic drink          aqua vitae          ardent spirits
+bacchanal          bacchanalia          bacchanalian
+bat          bender          beverage
+binge          booze          bout
+brew          bumper          bust
+carousal          carouse          celebration
+compotation          debauch          draft
+dram          drench          drink
+drinkable          drinking          drinking bout
+drop          drunk          drunken carousal
+drunkenness          frosted          frosted shake
+gargle          grog          gulp
+gulping          guzzle          guzzling
+hard liquor          imbibing          imbibition
+inebriant          intoxicant          intoxicating liquor
+jag          jigger          jolt
+lap          lapping          libation
+liquid          liquor          little brown jug
+malt          nip          nipping
+orgy          peg          pop
+portion          potable          potion
+pub-crawl          pull          pulling
+punch bowl          quaff          quaffing
+round          round of drinks          rum
+schnapps          shake          shot
+sip          slipping          slurp
+snifter          snort          social lubricant
+soda          soda pop          soda water
+soft drink          spirits          spot
+spree          strong drink          strong waters
+suck          sup          swig
+swigging          swill          swilling
+symposium          tasting          tear
+the Demon Rum          the bottle          the cup
+the flowing bowl          the luscious liquor          the ruddy cup
+tonic          toot          tot
+toxicant          wassail          water of life
+wet          ------------
+
+propane          alcohol
+benzine          briquette          burnable
+butane          carbon          charcoal
+coal          coke          combustible
+dope          ethane          ethanol
+fireball          firing          flammable
+flammable material          fuel          fuel additive
+fuel dope          gas          gas carbon
+gasoline          heptane          hexane
+inflammable          inflammable material          isooctane
+jet fuel          kerosene          methane
+methanol          natural gas          octane
+oil          paraffin          peat
+pentane          propellant          rocket fuel
+turf          ------------
+
+propellant          active
+airscrew          alcohol          benzine
+briquette          burnable          butane
+carbon          catalyst          charcoal
+charge          coal          coke
+combustible          dope          driver
+driving          ethane          ethanol
+exhaust          fan          fireball
+firing          flammable          flammable material
+fuel          fuel additive          fuel dope
+gas          gas carbon          gasoline
+heptane          hexane          impeller
+impelling          impetus          impulse
+in motion          incentive          incitation
+inflammable          inflammable material          isooctane
+jet fuel          jet propulsion          kerosene
+liquid oxygen          methane          methanol
+mobile          motile          motivation
+motivational          motive          motor
+moving          natural gas          octane
+oil          paddle wheel          paraffin
+peat          pentane          piston
+prop          propane          propeller
+propelling          propulsion charge          propulsive
+propulsor          propulsory          provocative
+pulsive          pushing          reaction propulsion
+rocket fuel          rocket propulsion          rotor
+screw          screw propeller          shoving
+spur          stimulant          stirring
+thrust          transitional          traveling
+turbine          turf          twin screws
+wheel          ------------
+
+punch bowl          John Barleycorn
+alcohol          alcoholic beverage          alcoholic drink
+alveolation          alveolus          antrum
+aqua vitae          ardent spirits          armpit
+basin          beverage          booze
+bowl          brew          cavity
+concave          concavity          crater
+crypt          cup          depression
+dip          drink          fold
+follicle          funnel chest          grog
+hard liquor          hole          hollow
+hollow shell          inebriant          intoxicant
+intoxicating liquor          lacuna          liquor
+little brown jug          pit          pocket
+potable          potation          rum
+schnapps          scoop          shell
+sink          sinus          social lubricant
+socket          spirits          strong drink
+strong waters          the Demon Rum          the bottle
+the cup          the flowing bowl          the luscious liquor
+the ruddy cup          toxicant          trough
+vug          water of life          ------------
+
+rainbow
+Amytal          Amytal pill          Dalmatian
+Demerol          Dolophine          H
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Seconal          Seconal pill          Tuinal
+Tuinal pill          alcohol          amobarbital sodium
+analgesic          angry clouds          anodyne
+anthelion          antigorite          antisun
+aura          aureole          barb
+barbiturate          barbiturate pill          black cat
+black clouds          black stuff          blue
+blue angel          blue devil          blue heaven
+blue velvet          broken mirror          butterfly
+calmative          candy cane          chameleon
+cheetah          chimera          chloral hydrate
+chromatic          chrysotile          circle
+codeine          codeine cough syrup          cold
+colorific          coloring          confetti
+cool          corona          countersun
+crazy quilt          depressant          depressor
+dichromatic          dolly          downer
+dream          fantasy          firedog
+gathering clouds          glory          glowing
+goofball          halcyon bird          halo
+hard stuff          harlequin          harmonious
+heroin          hop          horse
+hypnotic          illusion          iridescence
+iris          jaguar          junk
+knockout drops          laudanum          leopard
+liquor          lotus          lunar corona
+lunar halo          mackerel          mackerel sky
+many-colored          marble          marbled paper
+matching          medley          meperidine
+methadone          mock moon          mock sun
+moire          monochromatic          monochrome
+monochromic          moon dog          morphia
+morphine          mother-of-pearl          mother-of-pearl cloud
+motley          nacre          nacreousness
+narcotic          nimbus          ocelot
+opal          opalescence          ophite
+opiate          opium          owl
+pacifier          pain killer          paraselene
+paregoric          parhelic circle          parhelion
+parti-colored          patchwork quilt          peacock
+pearliness          pen yan          phenobarbital
+phenobarbital sodium          pigmentary          pipe
+polychromatic          prismatic          purple heart
+quietener          raven          red
+ring          scag          secobarbital sodium
+sedative          serpentine          serpentine marble
+shit          shooting star          shot silk
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+solar corona          solar halo          somnifacient
+soother          soothing syrup          soporific
+spectral          spectrum          storm clouds
+stormy petrel          sun dog          tar
+thundercloud          thunderhead          tinctorial
+tingent          toning          tortoise shell
+tranquilizer          turps          variegated
+warm          white stuff          yellow
+yellow jacket          zebra          ------------
+
+red
+Adrianople red          Amytal          Amytal pill
+Bolshevik          Bolshevist          Bolshie
+Burgundy          Carbonarist          Carbonaro
+Castroist          Castroite          Charley
+Communist          Cong          Congo rubine
+Demerol          Dolophine          English red
+Fenian          Goya          Guevarist
+H          Indian red          Jacobin
+Leninist          Luminal          Luminal pill
+M          Majolica earth          Maoist
+Marxist          Mau-Mau          Mickey Finn
+Nembutal          Nembutal pill          Persian red
+Prussian red          Puritan          Red
+Red Republican          Roundhead          Seconal
+Seconal pill          Sinn Feiner          Titian
+Titian-red          Trotskyist          Trotskyite
+Tuinal          Tuinal pill          Turkey red
+VC          Vandyke red          Vietcong
+Wobbly          Yankee          Yankee Doodle
+alcohol          algetic          amidonaphthol red
+amobarbital sodium          analgesic          anarch
+anarchist          anarchistic          anarcho-syndicalist
+angry          annatto          anodyne
+any color          barb          barbiturate
+barbiturate pill          black stuff          blue
+blue angel          blue devil          blue heaven
+blue velvet          blushful          blushing
+bonnet rouge          bricky          bright rose
+burning          burnt carmine          burnt ocher
+calmative          cardinal          carmine
+carnation          carnelian          cerise
+chafed          cherry          cherry-colored
+cherry-red          chloral hydrate          chrome red
+cinnabar          claret          cochineal
+codeine          codeine cough syrup          color
+copper red          cordovan          cramoisie
+cresol red          criminal syndicalist          crimson
+crude          damask          depressant
+depressor          dolly          downer
+embarrassed          erythema          extreme
+extreme left-winger          extremist          extremistic
+faded rose          ferruginous          festering
+fiery          fire red          fire-red
+flame-colored          flame-red          flaming
+floridity          floridness          flushed
+fuchsine          galled          glowing
+goofball          gules          hard stuff
+heroin          high color          hop
+horse          hot          hypnotic
+incarmined          inflamed          infrared
+iron red          iron-red          irritated
+jockey          junk          knockout drops
+lake          lake-colored          laky
+lateritious          laudanum          left-wing extremist
+light red          liquor          lobster
+lobster-red          lotus          lunatic fringe
+lurid          madder          madder crimson
+madder lake          madder pink          madder rose
+maroon          meperidine          methadone
+mild radical          mildly radical          morphia
+morphine          murrey          narcotic
+nihilist          nihilistic          old red
+opiate          opium          pacifier
+pain killer          palladium red          paregoric
+parlor Bolshevik          parlor pink          pen yan
+phenobarbital          phenobarbital sodium          pink
+pinko          ponceau          poppy
+port-wine          puce          purple heart
+purple lake          quietener          radical
+rainbow          raisin          rankling
+rare          raw          realgar
+rebel          red lead          red ocher
+red race          red-dyed          red-looking
+reddened          reddish          reddish-amber
+reddish-brown          reddishness          redness
+revolutionary          revolutionary junta          revolutioner
+revolutionist          revolutionizer          roccellin
+rubicund          rubiginous          rubine
+rubor          rubric          rubricose
+ruby          ruby-colored          ruby-red
+ruddied          ruddle          ruddy
+rufescent          rufosity          rufous
+rust          rust-red          rusty
+sans-culotte          sans-culottist          scag
+scarlet          secobarbital sodium          sedative
+sensitive          sheepish          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          smarting
+sodium thiopental          solferino          somnifacient
+soother          soothing syrup          soporific
+sore          stammel          strawberry
+subversive          syndicalist          tar
+tender          terrorist          tile-red
+tingling          toluidine red          tranquilizer
+turps          ultra          ultraconservative
+ultraist          ultraistic          unbaked
+unboiled          uncooked          undercooked
+underdone          vermilion          vermilionette
+vinaceous          warm          white stuff
+wine          wine-colored          wine-red
+yellow          yellow jacket          yippie
+------------
+
+rum          John Barleycorn          OK
+absurd          ace-high          alcohol
+alcoholic beverage          alcoholic drink          aqua vitae
+ardent spirits          bad          bang-up
+beverage          bizarre          bonzer
+booze          boss          brew
+bully          but good          cool
+corking          crackerjack          curious
+dandy          delicious          drink
+ducky          eccentric          fab
+fine and dandy          freaked out          freaky
+funny          gear          great
+grog          groovy          hard liquor
+heavy          hot          hunky-dory
+idiosyncratic          inebriant          intoxicant
+intoxicating liquor          jam-up          just dandy
+keen          kooky          liquor
+little brown jug          marvy          mean
+neat          nifty          nobby
+odd          oddball          off
+off the wall          okay          out
+out of sight          outlandish          passing strange
+peachy          peachy-keen          peculiar
+potable          potation          punch bowl
+quaint          queer          ripping
+schnapps          scrumptious          singular
+slap-up          smashing          social lubricant
+solid          something else          spiffing
+spiffy          spirits          strange
+strong drink          strong waters          stunning
+swell          the Demon Rum          the bottle
+the cup          the flowing bowl          the luscious liquor
+the ruddy cup          tough          toxicant
+unearthly          water of life          weird
+wizard          wondrous strange          ------------
+
+sauce
+Colbert          French dressing          Italian dressing
+Lorenzo dressing          Ritz sauce          Russian dressing
+Smitane          Soubise          alcohol
+all sorts          allemande          answer back
+aqua vitae          assemblage          assortment
+audacity          back talk          backchat
+booze          bourguignonne          brass
+brazenness          broad spectrum          brown sauce
+budge          butter          cataplasm
+cheek          cheekiness          condiment
+conglomeration          corpse reviver          cream sauce
+crush          crust          dash
+dental pulp          disrespect          disrespectfulness
+drink          duck sauce          egg sauce
+espagnole          firewater          flavor
+gall          gallimaufry          gravy
+green sauce          grog          hash
+hint          hodgepodge          hooch
+hotchpot          hotchpotch          impertinence
+impudence          infusion          inkling
+insolence          intimation          jaw
+juice          jumble          likker
+lip          magpie          marinara
+mash          mayonnaise          medicine
+medley          melange          mess
+mingle-mangle          miscellany          mishmash
+mix          mixed bag          mole
+mouth          mush          nerve
+odds and ends          olio          olla podrida
+omnium-gatherum          paper pulp          paprika sauce
+paste          pasticcio          pastiche
+patchwork          pepper          pepper sauce
+pertness          pith          plaster
+porridge          potpourri          poulette
+poultice          provoke          pudding
+pulp          pulp lead          pulpwood
+rag pulp          ravigote sauce          remoulade sauce
+roux          salad          salad dressing
+salmagundi          salt          sass
+sassiness          sauciness          savor
+scramble          season          seasoning
+shade          shallot sauce          smack
+smash          snake medicine          soupcon
+spice          sponge          sprinkling
+squash          stew          suggestion
+sulfate pulp          sulfite pulp          suspicion
+sweet-and-sour sauce          taint          talk back
+tartar sauce          tempering          thought
+tiger milk          tinct          tincture
+tinge          tint          touch
+trace          vestige          vinaigrette
+what you will          white lead          wood pulp
+------------
+
+scag          Amytal          Amytal pill
+Demerol          Dolophine          H
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Seconal          Seconal pill          Tuinal
+Tuinal pill          alcohol          amobarbital sodium
+analgesic          anodyne          barb
+barbiturate          barbiturate pill          black stuff
+blue          blue angel          blue devil
+blue heaven          blue velvet          calmative
+chloral hydrate          codeine          codeine cough syrup
+depressant          depressor          dolly
+downer          goofball          hard stuff
+heroin          hop          horse
+hypnotic          junk          knockout drops
+laudanum          liquor          lotus
+meperidine          methadone          morphia
+morphine          narcotic          opiate
+opium          pacifier          pain killer
+paregoric          pen yan          phenobarbital
+phenobarbital sodium          purple heart          quietener
+rainbow          red          secobarbital sodium
+sedative          shit          sleep-inducer
+sleeper          sleeping draught          sleeping pill
+smack          sodium thiopental          somnifacient
+soother          soothing syrup          soporific
+tar          tranquilizer          turps
+white stuff          yellow          yellow jacket
+------------
+
+schnapps          John Barleycorn          alcohol
+alcoholic beverage          alcoholic drink          aqua vitae
+ardent spirits          beverage          booze
+brew          drink          grog
+hard liquor          inebriant          intoxicant
+intoxicating liquor          liquor          little brown jug
+potable          potation          punch bowl
+rum          social lubricant          spirits
+strong drink          strong waters          the Demon Rum
+the bottle          the cup          the flowing bowl
+the luscious liquor          the ruddy cup          toxicant
+water of life          ------------
+
+Seconal          Amytal
+Amytal pill          Demerol          Dolophine
+H          Luminal          Luminal pill
+M          Mickey Finn          Nembutal
+Nembutal pill          Seconal pill          Tuinal
+Tuinal pill          alcohol          amobarbital sodium
+analgesic          anodyne          barb
+barbiturate          barbiturate pill          black stuff
+blue          blue angel          blue devil
+blue heaven          blue velvet          calmative
+chloral hydrate          codeine          codeine cough syrup
+depressant          depressor          dolly
+downer          goofball          hard stuff
+heroin          hop          horse
+hypnotic          junk          knockout drops
+laudanum          liquor          lotus
+meperidine          methadone          morphia
+morphine          narcotic          opiate
+opium          pacifier          pain killer
+paregoric          pen yan          phenobarbital
+phenobarbital sodium          purple heart          quietener
+rainbow          red          scag
+secobarbital sodium          sedative          shit
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          tar          tranquilizer
+turps          white stuff          yellow
+yellow jacket          ------------
+
+shit          Amytal
+Amytal pill          BM          Demerol
+Dolophine          H          Luminal
+Luminal pill          M          Mickey Finn
+Nembutal          Nembutal pill          SOB
+Seconal          Seconal pill          Tuinal
+Tuinal pill          a continental          a curse
+a damn          a darn          a hoot
+alcohol          amobarbital sodium          analgesic
+anodyne          asshole          bagatelle
+baloney          barb          barbiturate
+barbiturate pill          bastard          bauble
+bean          bibelot          bilge
+bit          black stuff          blah
+blah-blah          bloody flux          blue
+blue angel          blue devil          blue heaven
+blue velvet          bop          bosh
+bowel movement          brass farthing          buffalo chips
+bugger          bull          bullshit
+bunk          bunkum          button
+ca-ca          calmative          catharsis
+cent          chloral hydrate          codeine
+codeine cough syrup          coprolite          coprolith
+cow chips          cow flops          cow pats
+crap          creep          cur
+curio          defecate          defecation
+dejection          depressant          depressor
+diarrhea          dingleberry          dog
+dolly          downer          droppings
+dung          dysentery          evacuate
+evacuation          farce          fart
+farthing          feather          feces
+feculence          fig          flapdoodle
+fleabite          flux          folderol
+fribble          frippery          gas
+gaud          gewgaw          gimcrack
+goofball          guano          guff
+gup          hair          halfpenny
+hard stuff          heel          heroin
+hill of beans          hogwash          hokum
+hood          hooey          hooligan
+hop          horse          hot air
+hypnotic          jakes          jerk
+jest          joke          junk
+kickshaw          knickknack          knickknackery
+knockout drops          laudanum          lientery
+liquor          loose bowels          lotus
+louse          malarkey          manure
+meanie          meperidine          methadone
+minikin          mockery          molehill
+moonshine          morphia          morphine
+mother          movement          narcotic
+night soil          number two          opiate
+opium          ordure          pacifier
+pain killer          paregoric          pen yan
+peppercorn          phenobarbital          phenobarbital sodium
+picayune          piffle          pill
+pin          pinch of snuff          pinprick
+poppycock          prick          purgation
+purge          purple heart          quietener
+rainbow          rap          rat
+red          red cent          rot
+row of pins          rubbish          runs
+rush          scag          scat
+scum          secobarbital sodium          sedative
+sewage          sewerage          shithead
+shitheel          shits          skunk
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          smack          snake
+snap          sneeshing          sodium thiopental
+somnifacient          soother          soothing syrup
+soporific          sou          stinkard
+stinker          stool          straw
+take a shit          tar          toad
+tommyrot          toy          tranquilizer
+trifle          trinket          tripe
+triviality          trots          tuppence
+turd          turistas          turps
+two cents          twopence          void
+voidance          whim-wham          white stuff
+wind          yellow          yellow jacket
+------------
+
+sleeper          Amytal          Amytal pill
+Demerol          Dolophine          H
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Pullman          Pullman car          Seconal
+Seconal pill          Tuinal          Tuinal pill
+alcohol          amobarbital sodium          analgesic
+anodyne          baggage car          barb
+barbiturate          barbiturate pill          black stuff
+blue          blue angel          blue devil
+blue heaven          blue velvet          boxcar
+caboose          calmative          car
+carriage          chair car          chloral hydrate
+coach          coal car          codeine
+codeine cough syrup          covered waggon          day coach
+depressant          depressor          diner
+dinghy          dining car          dolly
+downer          drawing room          flat
+flatcar          gondola          goofball
+hard stuff          heroin          hop
+horse          hypnotic          junk
+knockout drops          laudanum          lie-abed
+liquor          local          lotus
+luggage van          mail car          mail van
+meperidine          methadone          morphia
+morphine          narcotic          opiate
+opium          pacifier          pain killer
+palace car          paregoric          parlor car
+passenger car          pen yan          phenobarbital
+phenobarbital sodium          purple heart          quietener
+railway car          rainbow          red
+reefer          refrigerator car          roomette
+scag          secobarbital sodium          sedative
+shit          sleep-inducer          sleeping beauty
+sleeping draught          sleeping pill          sleepwalker
+sleepyhead          slugabed          smack
+smoker          smoking car          sodium thiopental
+somnambulist          somnifacient          somniloquist
+soother          soothing syrup          soporific
+stockcar          tank          tar
+tender          tranquilizer          truck
+turps          van          waggon
+white stuff          yellow          yellow jacket
+------------
+
+sleeping pill          Amytal          Amytal pill
+Demerol          Dolophine          H
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Seconal          Seconal pill          Tuinal
+Tuinal pill          alcohol          amobarbital sodium
+analgesic          anesthetic          anodyne
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+calmative          chloral hydrate          codeine
+codeine cough syrup          depressant          depressor
+dolly          dope          downer
+drug          goofball          hard stuff
+heroin          hop          horse
+hypnotic          junk          knockout drop
+knockout drops          laudanum          liquor
+lotus          meperidine          methadone
+morphia          morphine          narcotic
+opiate          opium          pacifier
+pain killer          pain-killer          paregoric
+pen yan          phenobarbital          phenobarbital sodium
+purple heart          quietener          rainbow
+red          scag          secobarbital sodium
+sedative          shit          sleep-inducer
+sleeper          sleeping draught          smack
+sodium thiopental          somnifacient          soother
+soothing syrup          soporific          tar
+tranquilizer          turps          white stuff
+yellow          yellow jacket          ------------
+
+smack
+Amytal          Amytal pill          Demerol
+Dolophine          H          Luminal
+Luminal pill          M          Mickey Finn
+Nembutal          Nembutal pill          Seconal
+Seconal pill          Tuinal          Tuinal pill
+abruptly          aftertaste          alcohol
+amobarbital sodium          analgesic          anodyne
+aroma          attribute          badge
+bang          bang into          barb
+barbiturate          barbiturate pill          bash
+bat          beating          belt
+biff          bitter          black stuff
+blip          blow          blow a kiss
+blue          blue angel          blue devil
+blue heaven          blue velvet          bonk
+bop          box          box the ears
+brand          buffet          bump
+bump into          burst          buss
+bust          cachet          calmative
+cannon          carom          carom into
+cast          character          characteristic
+chloral hydrate          chop          clap
+clash          clip          clobber
+clout          clump          codeine
+codeine cough syrup          coldcock          collide
+come into collision          concuss          configuration
+confront each other          crack          crack up
+crash          crash into          crump
+crunch          cuff          cut
+dash          dash into          deal
+deal a blow          deck          depressant
+depressor          differentia          differential
+dig          dint          distinctive feature
+dolly          downer          drub
+drubbing          drumming          earmark
+encounter          exactly          fall foul of
+feature          fetch          fetch a blow
+figure          flap          flavor
+flop          flush          foul
+full          fusillade          gleam
+goofball          gust          hallmark
+hard stuff          hastily          heroin
+hint          hit          hit a clip
+hit against          hop          horse
+hurt          hurtle          hypnotic
+idea          idiocrasy          idiosyncrasy
+impetuously          impinge          impress
+impression          index          individualism
+infusion          inkling          intimation
+jab          junk          kerplunk
+keynote          kiss          knock
+knock against          knock cold          knock down
+knock out          knockout drops          lash
+laudanum          let have it          lick
+like a flash          like a thunderbolt          lineaments
+lip          liquor          look
+lotus          mannerism          mark
+marking          meet          meperidine
+methadone          mold          morphia
+morphine          narcotic          nature
+odor          of a sudden          on short notice
+opiate          opium          osculate
+osculation          pacifier          pain killer
+palate          paregoric          particularity
+paste          peck          peculiarity
+pelt          pen yan          percuss
+phenobarbital          phenobarbital sodium          plop
+plumb          plump          plunk
+point-blank          poke          pop
+pound          precipitantly          precipitately
+precipitously          precisely          property
+punch          purple heart          quality
+quietener          quirk          rainbow
+rap          red          reek
+relish          report          resemble
+right          run into          salt
+sample          sapidity          sapor
+sauce          savor          savoriness
+scag          scintilla          seal
+seasoning          secobarbital sodium          sedative
+shade          shadow          shape
+sharp          shit          sideswipe
+singularity          sip          slam
+slam into          slap          slap the face
+slat          sleep-inducer          sleeper
+sleeping draught          sleeping pill          slog
+slug          smack into          smack-dab
+smash          smash into          smash up
+smattering          smell          smite
+smooch          snap          soak
+sock          sodium thiopental          somnifacient
+soother          soothing syrup          soporific
+soupcon          sour          spang
+spank          spark          specialty
+spice          splat          sprinkling
+square          squarely          stamp
+startlingly          stink          stomach
+straight          strike          strike against
+strike at          stripe          stroke
+sudden          suddenly          suggest
+suggestion          sup          surprisingly
+suspicion          swap          swat
+sweet          swing          swipe
+taint          tang          tap
+tar          taste          taste of
+tattoo          tempering          thought
+thump          thwack          tinct
+tincture          tinge          tint
+token          token punishment          tongue
+tooth          touch          trace
+trait          tranquilizer          trick
+turps          unawares          unexpectedly
+vestige          wallop          welt
+whack          wham          whap
+whip          white stuff          whomp
+whop          without notice          without warning
+yellow          yellow jacket          yerk
+------------
+
+solvent          ablative          able to pay
+above water          abstergent          acetone
+alcohol          all clear          all straight
+anticoagulant          aqua regia          benzine
+biodegradable          carbolic acid          carbon tet
+carbon tetrachloride          cathartic          chloroform
+cleaner          cleaning agent          cleaning solvent
+cleanser          cleansing cream          clear
+cold cream          corrosive          cream
+cutting          decomposable          decomposing
+degradable          dentifrice          depurant
+detergent          dilapidated          diluent
+dilutant          disintegrable          disintegrated
+disintegrating          disintegrative          disjunctive
+disruptive          dissolvent          dissolving agent
+diuretic          emetic          enema
+erosive          ether          flux
+free and clear          gasoline          good
+good for          holystone          liquefacient
+liquefier          lotion          moldering
+mouthwash          nauseant          out of debt
+phenol          profitable          pumice stone
+purgative          purge          purifier
+ravaged          reliable          resolutive
+resolvent          rinse          ruinous
+separative          shampoo          soap
+solid          sound          substantial
+synthetic detergent          thinner          thinning
+tooth powder          toothpaste          turpentine
+unindebted          unowing          wash
+water          worn          ------------
+
+soporific
+Amytal          Amytal pill          Demerol
+Dolophine          H          Laodicean
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Olympian          Seconal          Seconal pill
+Tuinal          Tuinal pill          alcohol
+aloof          amobarbital sodium          analgesic
+anesthetic          anesthetized          anodyne
+apathetic          barb          barbiturate
+barbiturate pill          benumbed          black stuff
+blah          blase          blue
+blue angel          blue devil          blue heaven
+blue velvet          calmant          calmative
+calming          cataleptic          chloral hydrate
+codeine          codeine cough syrup          comatose
+deadening          depressant          depressor
+desensitized          detached          disinterested
+dolly          doped          downer
+dozy          dreamy          drowsy
+drugged          drugged with sleep          dull
+goofball          half asleep          hard stuff
+heartless          heavy          heavy with sleep
+heavy-eyed          hebetudinous          heroin
+hop          hopeless          horse
+hypnotic          in a stupor          indifferent
+insouciant          junk          knockout drops
+languid          laudanum          lethargic
+liquor          listless          lotus
+lullaby          mandrake          meperidine
+methadone          morphia          morphine
+napping          narcoleptic          narcose
+narcotic          narcotized          narcous
+nightcap          nodding          nonchalant
+numb          numbed          numbing
+opiate          opium          oscitant
+out of it          pacifier          pain killer
+paregoric          passive          pen yan
+phenobarbital          phenobarbital sodium          phlegmatic
+pluckless          poppy          purple heart
+quietener          quietening          rainbow
+red          resigned          scag
+secobarbital sodium          sedated          sedative
+shit          slack          sleep-bringer
+sleep-causing          sleep-compelling          sleep-drowned
+sleep-drunk          sleep-filled          sleep-inducer
+sleep-inducing          sleep-inviting          sleep-producer
+sleep-provoking          sleep-swollen          sleeper
+sleepful          sleeping draught          sleeping pill
+sleepy          sluggish          slumberous
+slumbery          smack          snoozy
+sodium thiopental          somnifacient          somniferous
+somnolent          soother          soothing
+soothing syrup          spiritless          spunkless
+stoic          stretchy          stupefied
+stuporose          stuporous          supine
+tar          torpid          tranquilizer
+tranquilizing          turps          uncaring
+unconcerned          uninterested          white stuff
+withdrawn          yawning          yawny
+yellow          yellow jacket          ------------
+
+spirit
+Geist          Masan          Muse
+abandon          abduce          abduct
+activity          adventuresomeness          adventurousness
+affective meaning          afflatus          aggression
+aggressiveness          aim          air
+airy nothing          alacrity          alcohol
+ambitiousness          anima          anima humana
+animal spirits          animate          animating force
+animation          animus          anxiety
+anxiousness          apparition          appearance
+appetite          aqua vitae          ardency
+ardor          astral          astral body
+astral spirit          atman          atmosphere
+attitude          atua          aura
+avidity          avidness          axiom
+ba          backbone          banshee
+baring          bathmism          beating heart
+being          bent          biological clock
+biorhythm          blood          body-build
+bones          booze          bosom
+bottom          brand          bravery
+breast          breath          breath of life
+breathless impatience          breeziness          brio
+briskness          bubble          bubbliness
+buddhi          capersomeness          carry away
+carry off          cast          center
+center of life          character          characteristic
+characteristics          cheer          cheerful readiness
+chutzpah          climate          coloring
+coltishness          commitment          committedness
+complexion          composition          concentrate
+concentration          connotation          consciousness
+consequence          constituents          constitution
+control          core          courage
+crasis          creative thought          creativity
+crimp          cue          daemon
+daimonion          daring          dash
+dauntlessness          decoction          dedication
+demon          denotation          departed spirit
+desire          devotedness          devotion
+devoutness          dharma          diathesis
+disembodied spirit          disposition          distillate
+distillation          divine afflatus          divine breath
+divine spark          drift          drink
+drive          duppy          dybbuk
+dynamism          eagerness          earnestness
+ebullience          ecstasy          effect
+effervescence          ego          eidolon
+elan          elan vital          elixir
+embue          energy          enliven
+enterprise          enterprisingness          enthusiasm
+esoteric reality          esprit          esprit de corps
+essence          essence of life          essential
+ether          ethos          evil spirits
+excitement          exhilarate          extension
+extract          extraction          exuberance
+fabric          faith          faithfulness
+feel          feeling          feelings
+fervency          fervidness          fervor
+fiber          fidelity          fire
+fire of genius          firewater          flower
+focus          force          force of life
+forcefulness          form          forwardness
+frame          frame of mind          friskiness
+frolicsomeness          fundamental          furor
+fury          gaiety          gameness
+gamesomeness          gayness          genius
+get-up-and-get          get-up-and-go          getup
+ghost          gimp          ginger
+gist          glow          go
+go-ahead          go-getting          go-to-itiveness
+grain          grammatical meaning          grateful dead
+gravamen          grit          grog
+gross body          growth force          guide
+gumption          gust          gusto
+guts          gutsiness          guttiness
+habit          hant          haunt
+heart          heart of hearts          heart of oak
+heartbeat          heartblood          heartiness
+heartstrings          heat          heatedness
+hold for ransom          hooch          hue
+humor          humors          hustle
+hypostasis          idea          idolum
+ilk          illusion          imbue
+immateriality          impact          impassionedness
+impatience          impetuosity          impetus
+implication          import          impress
+impulse          impulse of life          inclination
+incorporeal          incorporeal being          incorporeity
+infect          inform          infuse
+infusion          initiative          inject
+inmost heart          inmost soul          inner essence
+inner man          inner nature          innermost being
+inoculate          inside          inspiration
+inspire          inspirit          inspiriting force
+intelligence          intension          intensity
+intent          intention          intentness
+intestinal fortitude          jiva          jivatma
+joie de vivre          juice          kama
+keen desire          keenness          kernel
+khu          kidnap          kind
+larva          lemures          lexical meaning
+life          life breath          life cycle
+life essence          life force          life principle
+life process          lifeblood          linga sharira
+liquor          literal meaning          liveliness
+living force          loyalty          lustiness
+makeup          manas          manes
+manfulness          manliness          marrow
+material          materialization          matter
+meaning          meat          medium
+mediumism          message          mettle
+mettlesomeness          might          milieu
+mind          mist          mold
+mood          morale          motivation
+moxie          nature          necromancy
+nephesh          nerve          nerve center
+note          notion          nub
+nucleus          nuts and bolts          oni
+oomph          overtone          panache
+passion          passionateness          passions
+pep          pepper          peppiness
+perkiness          persona          pertinence
+pertness          phantasm          phantasma
+phantom          physical body          physique
+piquancy          piss and vinegar          pith
+pizzazz          playfulness          pluck
+pluckiness          pneuma          poignancy
+point          poltergeist          postulate
+power          practical consequence          prana
+presence          principle          principle of desire
+promptness          property          psyche
+pungency          purification          purport
+purpose          purusha          push
+pushfulness          pushiness          pushingness
+quality          quick          quickness
+quid          quiddity          quintessence
+raciness          range of meaning          readiness
+real meaning          reference          referent
+refinement          relation          relevance
+relish          resoluteness          resolution
+resolve          revenant          robustness
+rollicksomeness          rompishness          ruach
+run away with          sand          sap
+sauce          savor          scope
+seance          seat of life          secret heart
+secret places          self          semantic cluster
+semantic field          sense          sentiments
+seriousness          shade          shadow
+shanghai          shape          shrouded spirit
+significance          signification          significatum
+signifie          sincerity          sitting
+skittishness          skyjack          smoke
+snap          snatch          somatotype
+sort          soul          span of meaning
+spark of life          sparkle          specter
+spectral ghost          spice          spirit away
+spirit up          spiritedness          spiritism
+spirits          spiritual being          spiritualism
+spiritus          spook          sportiveness
+sprightliness          sprite          spunk
+spunkiness          stamina          stamp
+starch          state of mind          sthula sharira
+stout heart          streak          strength
+stripe          strong drink          structural meaning
+stuff          substance          suchness
+sum          sum and substance          supernatural being
+symbolic meaning          system          take away
+talent          team spirit          temper
+temperament          tendency          tenor
+the nitty-gritty          the self          theophany
+thin air          thought          timbre
+tipple          tone          totality of associations
+toughness          transferred meaning          transport
+true being          true grit          true inwardness
+type          umbra          unadorned meaning
+undertone          unsubstantiality          up-and-comingness
+urge          valor          value
+vapor          vehemence          vein
+venturesomeness          venturousness          verve
+vigor          vim          vis vitae
+vis vitalis          viscera          vision
+vital energy          vital flame          vital fluid
+vital force          vital principle          vital spark
+vital spirit          vitality          vitals
+vivaciousness          vivacity          vividness
+walking dead man          wandering soul          warmth
+warmth of feeling          way          will
+wraith          zeal          zealousness
+zest          zestfulness          zing
+zip          zombie          ------------
+
+spirits
+Angostura bitters          Canadian          Canadian whiskey
+Cognac          Grand Champagne          Irish
+Irish whiskey          John Barleycorn          Kirsch
+Scotch          Scotch whiskey          absinthe
+alcohol          alcoholic beverage          alcoholic drink
+animal spirits          animation          aqua vitae
+ardent spirits          beverage          bitters
+blended whiskey          booze          bourbon
+brandy          brew          capersomeness
+clean rum          coltishness          cue
+drink          eau de vie          elan
+esprit          exuberance          frame
+frame of mind          friskiness          frolicsomeness
+gaiety          gamesomeness          gayness
+gin          grog          gusto
+hard liquor          heart          heartiness
+humor          inebriant          intoxicant
+intoxicating liquor          life          light whiskey
+liquor          little brown jug          liveliness
+malt whiskey          marc          mescal
+mind          mood          moonshine
+morale          note          ouzo
+piss and vinegar          playfulness          plum brandy
+potable          potation          punch bowl
+raki          rollicksomeness          rompishness
+rum          rye          rye whiskey
+schnapps          skittishness          slivovitz
+social lubricant          spirit          spiritedness
+sportiveness          sprightliness          state of mind
+strong drink          strong waters          temper
+tequila          the Demon Rum          the bottle
+the cup          the flowing bowl          the luscious liquor
+the ruddy cup          tone          toxicant
+vein          verve          vigor
+vim          vitality          vivacity
+vodka          water of life          whiskey
+zest          zestfulness          zip
+------------
+
+tar          AB          Amytal
+Amytal pill          Ancient Mariner          Argonaut
+Demerol          Dolophine          Dylan
+Flying Dutchman          H          Luminal
+Luminal pill          M          Mickey Finn
+Nembutal          Nembutal pill          Neptune
+OD          Poseidon          Seconal
+Seconal pill          Tuinal          Tuinal pill
+Varuna          able seaman          able-bodied seaman
+alcohol          amobarbital sodium          analgesic
+anodyne          asphalt          barb
+barbiturate          barbiturate pill          bedaub
+besmear          besmirch          black stuff
+blacktop          blue          blue angel
+blue devil          blue heaven          blue velvet
+bluejacket          buccaneer          butter
+calmative          carpet          causeway
+cement          charcoal          chloral hydrate
+coal          coat          cobblestone
+codeine          codeine cough syrup          concrete
+crow          dab          daub
+deep-sea man          defile          depressant
+depressor          discolor          dolly
+downer          ebon          ebony
+enamel          fair-weather sailor          fisherman
+flag          floor          gild
+gloss          goofball          hard stuff
+hearty          heroin          hop
+horse          hypnotic          ink
+jack          jack afloat          jack-tar
+jacky          jet          junk
+knockout drops          lacquer          laudanum
+lay on          limey          liquor
+lobsterman          lotus          mariner
+matelot          meperidine          metal
+methadone          morphia          morphine
+narcotic          navigator          night
+opiate          opium          pacifier
+pain killer          paregoric          pave
+pebble          pen yan          phenobarbital
+phenobarbital sodium          pirate          pitch
+prime          privateer          purple heart
+quietener          rainbow          raven
+red          sailor          salt
+scag          sea dog          sea rover
+seafarer          seafaring man          seaman
+secobarbital sodium          sedative          shipman
+shit          slap on          slather
+sleep-inducer          sleeper          sleeping draught
+sleeping pill          sloe          smack
+smear          smear on          smoke
+smut          sodium thiopental          soil
+somnifacient          soot          soother
+soothing syrup          soporific          spread on
+spread with          stain          sully
+tarnish          tarpaulin          tranquilizer
+turps          undercoat          viking
+water dog          whaler          white stuff
+windjammer          windsailor          yellow
+yellow jacket          ------------
+
+tranquilizer          Amytal
+Amytal pill          DET          DMT
+Demerol          Dolophine          H
+LSD          Librium          Luminal
+Luminal pill          M          Mary Jane
+Mickey Finn          Nembutal          Nembutal pill
+STP          Seconal          Seconal pill
+Serpasil          THC          Thorazine
+Tuinal          Tuinal pill          Valium
+acid          alcohol          alleviative
+alleviator          amobarbital sodium          analgesic
+anesthetic          anodyne          antidepressant
+assuager          ataractic          balm
+barb          barbiturate          barbiturate pill
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+calmative          chloral hydrate          codeine
+codeine cough syrup          cushion          depressant
+depressor          diethyltryptamine          dimethyltryptamine
+dolly          dolorifuge          dope
+downer          drug          gage
+ganja          goofball          grass
+hallucinogen          hard stuff          hash
+hashish          hay          hemp
+heroin          hop          horse
+hypnotic          joint          junk
+kava          knockout drop          knockout drops
+laudanum          lenitive          liquor
+lotus          marijuana          meperidine
+mescal          mescal bean          mescal button
+mescaline          methadone          mind-altering drug
+mind-blowing drug          mind-expanding drug          mitigator
+moderator          modulator          mollifier
+morning glory seeds          morphia          morphine
+narcotic          opiate          opium
+pacificator          pacifier          pain killer
+pain-killer          palliative          paregoric
+peacemaker          pen yan          peyote
+phenobarbital          phenobarbital sodium          pot
+psilocin          psilocybin          psychedelic
+psychic energizer          psychoactive drug          psychochemical
+psychotomimetic          purple heart          quietener
+rainbow          rauwolfia          red
+reefer          reserpine          restraining hand
+roach          salve          scag
+secobarbital sodium          sedative          shit
+shock absorber          sleep-inducer          sleeper
+sleeping draught          sleeping pill          smack
+sodium thiopental          somnifacient          soother
+soothing syrup          soporific          stabilizer
+stick          tar          tea
+temperer          thalidomide          turps
+weed          white stuff          wiser head
+yellow          yellow jacket          ------------
+
+turf
+alcohol          ambit          archery ground
+area          athletic field          backyard
+badminton court          bailiwick          banish
+baseball field          basketball court          benzine
+billiard parlor          bounce          bowling alley
+bowling green          briquette          burnable
+butane          carbon          charcoal
+coal          coke          combustible
+constituency          course          court
+cricket ground          croquet ground          croquet lawn
+diamond          dismiss          divot
+dope          eject          ethane
+ethanol          exile          expel
+fairway          field          fire
+fireball          firing          flammable
+flammable material          football field          footing
+fuel          fuel additive          fuel dope
+gas          gas carbon          gasoline
+glaciarium          golf course          golf links
+grass          green          greensward
+gridiron          gym          gymnasium
+heptane          hexane          ice rink
+infield          inflammable          inflammable material
+isooctane          jet fuel          kerosene
+lawn          links          methane
+methanol          natural gas          octane
+oil          orbit          oust
+outfield          oval          paraffin
+peat          pentane          playground
+playing field          playroom          polo ground
+pool hall          poolroom          propane
+propellant          putting green          racecourse
+racing          racket court          region
+rink          rocket fuel          sack
+skating rink          soccer field          sod
+sphere          sphere of influence          squash court
+stamping ground          stretch          sward
+tennis court          territory          the turf
+throw out          track          vantage
+------------
+
+yellow jacket          Amytal          Amytal pill
+Demerol          Dolophine          H
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Seconal          Seconal pill          Tuinal
+Tuinal pill          alcohol          amobarbital sodium
+analgesic          anodyne          barb
+barbiturate          barbiturate pill          bee
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+bumblebee          calmative          chloral hydrate
+codeine          codeine cough syrup          depressant
+depressor          dolly          downer
+drone          goofball          hard stuff
+heroin          honeybee          hop
+hornet          horse          hypnotic
+junk          knockout drops          laudanum
+liquor          lotus          meperidine
+methadone          morphia          morphine
+narcotic          opiate          opium
+pacifier          pain killer          paregoric
+pen yan          phenobarbital          phenobarbital sodium
+purple heart          queen          queen bee
+quietener          rainbow          red
+scag          secobarbital sodium          sedative
+shit          sleep-inducer          sleeper
+sleeping draught          sleeping pill          smack
+sodium thiopental          somnifacient          soother
+soothing syrup          soporific          tar
+tranquilizer          turps          wasp
+white stuff          worker          yellow
+------------
+
+yellow          Amytal          Amytal pill
+Barnumesque          Cassel yellow          Claude tint
+Demerol          Dolophine          H
+Luminal          Luminal pill          M
+Mickey Finn          Nembutal          Nembutal pill
+Paris yellow          Seconal          Seconal pill
+Tuinal          Tuinal pill          acid yellow
+afraid          albumen          alcohol
+amber          amobarbital sodium          analgesic
+anodyne          arsenic yellow          aureate
+aureateness          aureolin          auric
+aurify          barb          barbiturate
+barbiturate pill          begild          beige
+black stuff          blue          blue angel
+blue devil          blue heaven          blue velvet
+buff          buff-yellow          butter
+cadmium yellow          calmative          canary
+canary-yellow          caviar          chamois
+champagne          chartreuse yellow          chicken
+chickenhearted          chloral hydrate          chrome
+chrome lemon          chrome yellow          chrysophenin
+citron          citron-yellow          cloak-and-dagger
+codeine          codeine cough syrup          coward
+cowardly          cowed          crash
+craven          cream          creamy
+crocus          dandelion          daunted
+depressant          depressor          dismayed
+distrustful          dolly          downer
+ecru          egg          egg white
+eggshell          engild          envious
+fainthearted          fallow          fallowness
+fearful          fish eggs          flax
+flaxen          funking          funky
+gamboge          gild          gilded
+gilt          glair          gold
+gold-colored          golden          golden pheasant
+goofball          green          green with jealousy
+green-eyed          grege          gutless
+hard stuff          henhearted          heroin
+honey          honey yellow          hop
+horn-mad          horse          hypnotic
+intimidated          invidious          jaundice
+jaundice-eyed          jaundiced          jealous
+jonquil          junk          knockout drops
+laudanum          lemon          lemon chrome
+lemon-yellow          lily-livered          liquor
+lotus          lurid          luteolous
+lutescent          madder yellow          maize
+massicot          melodramatic          meperidine
+metanil yellow          methadone          methyl yellow
+milk-livered          milksoppish          milksoppy
+morphia          morphine          mousy
+naphthol yellow          narcotic          ocherish
+ocherous          ochery          ochreous
+ochroid          ochrous          ochry
+oil yellow          old gold          old ivory
+olivesheen          opiate          opium
+or          orpiment          overtimid
+overtimorous          ovule          pacifier
+pain killer          panic-prone          panicky
+paregoric          peach          pebble
+pen yan          phenobarbital          phenobarbital sodium
+phosphine          pigeonhearted          primrose
+primrose-colored          primrose-yellow          primuline yellow
+purple heart          purree          pusillanimous
+pyrethrum yellow          quietener          quince yellow
+rabbity          rainbow          red
+roe          saffron          saffron-colored
+saffron-yellow          sallow          sand
+sand-colored          sandy          scag
+secobarbital sodium          sedative          sensational
+shit          shocker          sissified
+sissy          sleep-inducer          sleeper
+sleeping draught          sleeping pill          smack
+snapdragon          sodium thiopental          soft
+somnifacient          soother          soothing syrup
+soporific          spawn          spine-chilling
+spunkless          stil-de-grain yellow          straw
+straw-colored          sulfur          sunflower yellow
+suspicious          tar          tartrazine
+timid          timorous          tranquilizer
+turn yellow          turps          unmanly
+unmanned          vitellus          weak
+weak-kneed          weakhearted          white
+white stuff          white-livered          xanthene
+xanthic          xanthin          xanthous
+yellow jacket          yellow madder          yellow ocher
+yellow-eyed          yellowish          yellowishness
+yellowness          yolk          

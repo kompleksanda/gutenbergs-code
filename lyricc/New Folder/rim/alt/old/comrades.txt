@@ -1,0 +1,214 @@
+------------
+
+circle          O          acquaintance
+advance          alentours          alternate
+ambience          ambit          anklet
+annular muscle          annulus          anthelion
+antisun          aphelion          apogee
+arc          arena          areola
+armlet          arsis          ascend
+associates          astronomical longitude          aura
+aureole          autumnal equinox          back
+back up          bailiwick          band
+bangle          be here again          beads
+beat          begird          belt
+belt in          bijou          border
+borderland          borderlands          bout
+bow          bracelet          breastpin
+brooch          budge          bunch
+cabal          cadre          camarilla
+camp          catacaustic          catenary
+caustic          celestial equator          celestial longitude
+celestial meridian          cell          chain
+change          change place          chaplet
+charm          charmed circle          chatelaine
+cincture          circuit          circuiteer
+circulate          circumambiencies          circumambulate
+circumference          circumjacencies          circummigrate
+circumnavigate          circumrotate          circumscribe
+circumstances          circumvent          circumvolute
+circus          clan          class
+climb          clique          close the circle
+closed circle          colures          come again
+come and go          come around          come full circle
+come round          come round again          come up again
+companions          company          compass
+comrades          conchoid          context
+cordon          corona          coronet
+coterie          countersun          course
+crank          crescent          crew
+cronies          crook          crowd
+crown          curl          curve
+cycle          demesne          department
+descend          describe a circle          diacaustic
+diadem          diastole          dimensions
+discus          disk          division
+domain          dominion          downbeat
+earring          ebb          ecliptic
+elite          elite group          ellipse
+encincture          encircle          enclose
+encompass          engird          ensphere
+entourage          environ          environing circumstances
+environment          environs          equator
+equinoctial          equinoctial circle          equinoctial colure
+equinox          eternal return          extension
+extent          fairy ring          fellowship
+festoon          field          flank
+flow          fob          fraternity
+friends          full circle          galactic longitude
+garland          gem          geocentric longitude
+geodetic longitude          gestalt          get over
+gird          girdle          girdle the globe
+glory          go          go about
+go around          go round          go sideways
+go the round          great circle          group
+gyrate          gyre          habitat
+halo          heliocentric longitude          hem
+hemisphere          hook          hoop
+hyperbola          ingroup          inner circle
+intermit          jewel          judicial circuit
+junta          junto          jurisdiction
+lap          lasso          length
+lituus          locket          logical circle
+longitude          loop          looplet
+lot          lunar corona          lunar halo
+magic circle          make a circuit          march
+meridian          milieu          mob
+mock moon          mock sun          moon dog
+mount          move          move over
+necklace          neighborhood          nimbus
+noose          nose ring          orb
+orbit          oscillate          outfit
+outposts          outskirts          pale
+parabola          paraselene          parhelic circle
+parhelion          perigee          perihelion
+perimeter          period          periphery
+pin          pirouette          pivot
+plunge          precinct          precincts
+precious stone          progress          province
+pulsate          pulse          purlieus
+push          radius          rainbow
+realm          reappear          recur
+regress          reoccur          repeat
+retrogress          return          revolution
+revolve          rhinestone          ring
+ringlet          rise          roll
+roll around          rondelle          rotate
+rotation          round          round trip
+roundel          rounds          run
+saucer          scope          screw
+series          set          shift
+sink          sinus          situation
+skirt          small circle          soar
+society          solar corona          solar halo
+solstitial colure          spell          sphere
+sphincter          spin          spiral
+stickpin          stir          stone
+stream          subside          suburbs
+sun dog          surround          surroundings
+swing          swivel          systole
+thesis          tiara          torque
+total environment          tour          tracery
+trajectory          travel          turn
+turn a pirouette          turn around          turn round
+twine around          twist          undulate
+upbeat          vernal equinox          vicinage
+vicinity          vicious circle          walk
+wamble          wampum          wane
+we-group          wheel          wheel around
+whirl          wind          wreath
+wreathe          wreathe around          wristband
+wristlet          zodiac          zone
+------------
+
+company          Aktiengesellschaft          KP
+ace          acting company          actors
+affiliation          age group          agency
+aggregation          aktiebolag          amigo
+army          army group          assemblage
+assembly          associate          associates
+association          atelier          attend
+attendance          band          barbershop
+battalion          battery          battle group
+bear          beauty parlor          beauty shop
+bedfellow          bedmate          bench
+bevy          body          body corporate
+bosom buddy          brigade          bring
+buddy          bunch          bunkie
+bunkmate          business          business establishment
+butcher shop          butty          cabal
+cadre          caller          camarade
+camaraderie          carry          cartel
+cast          cast of characters          chamber of commerce
+chamberfellow          chaperon          characters
+chorus          chum          circle
+circus troupe          classmate          clique
+club          cohort          colleague
+collection          column          comate
+combat command          combat team          combine
+commercial enterprise          community          compagnie
+companion          companions          companionship
+compeer          complement          comrade
+comrades          comradeship          concern
+conduct          confrere          conglomerate
+conglomerate corporation          congregation          consociate
+consociation          consolidating company          consort
+consort with          consortium          consortship
+contingent          convention          convoy
+cooperation          copartner          copartnership
+corporate body          corporation          corps
+corps de ballet          coterie          covey
+crew          crony          crowd
+desk          detachment          detail
+diversified corporation          division          dramatis personae
+eight          eleven          ensemble
+enterprise          entourage          establishment
+facility          faction          fellow
+fellow student          fellowship          field army
+field train          file          firm
+first string          first team          five
+fleet          flock          flying column
+followers          following          fraternity
+fraternization          freeloader          frequenter
+friends          gang          garrison
+gate-crasher          gathering          girl friend
+gossip          group          grouping
+groupment          guest          guests
+habitue          holding company          horde
+house          in-group          industry
+installation          institution          joint-stock association
+joint-stock company          junta          kitchen police
+legion          loft          maniple
+mate          membership          messmate
+mob          moocher          movement
+muster          nine          old crony
+operating company          order          organization
+out-group          outfit          pack
+pal          pard          pardner
+parlor          partaking          participation
+partner          partnership          party
+peer group          phalanx          platoon
+playfellow          playmate          plunderbund
+pool          posse          presence
+proprietorship          public utility          rank
+regiment          repertory company          reserves
+retinue          roommate          rowing crew
+ruck          salon          schoolfellow
+schoolmate          second string          second team
+section          set          sharing
+shipmate          shop          side partner
+sidekick          society          squad
+squadron          stable          stock company
+string          studio          suite
+supporting cast          sweatshop          syndicate
+tactical unit          task force          team
+teammate          third string          throng
+trade association          train          tribe
+troop          troupe          trust
+uninvited guest          unit          utility
+varsity          visitant          visitor
+visitors          wing          work site
+work space          workbench          workfellow
+workhouse          working space          workplace
+workroom          workshop          worktable
+yokefellow          yokemate          

@@ -1,0 +1,21 @@
+ABSCAM          ABSTRACT          ABSTRACT(2)          ABSTRACTS          ACMAT          ACMAT'S          AFGHAN
+AFGHANS          AGACHE          ALANN          ALBANS          ALCAN          ALCAN'S          AMBAC
+AMCAST          AMFAC          AMPAD          AMSTRAD          AMTRACK          AMTRAK          ANAC
+ANGSTADT          ANGSTADT(2)          ANTCZAK          ANTHRAX          ASAT          ASCAP          ASHCRAFT
+AT-BATS          BACKHAND          BACKLASH          BACKPACK          BACKPACKS          BACKTRACK          BACKTRACKED
+BADLANDS          BAGDAD          BAGHDAD          BAGHDAD'S          BANDAG          BANDSTAND          BATMAN
+BLACKJACK          BRANSTAD          CALMAT          CALMAT'S          CALTRANS          CAMSHAFT          CAMSHAFTS
+CANCAN          CANRAD          CATNAP          CRANKSHAFT          CRANKSHAFTS          DANCSAK          DHAKA(3)
+FLAGSTAFF          FLASHBACK          FLASHBACKS          FLASHDANCE          FLATLAND          FLATLANDS          FRANCZAK
+GALAX          GANGPLANK          GASKAMP          GLASSMAN          GRANDAD          GRANDCHAMP          GRANDSTAFF
+GRANDSTAND          GRASSLAND          GRASSLANDS          HACKMAN          HACKSTAFF          HALFBACK          HANBACK
+HANDBAG          HANDBAGS          HANDCLASP          HANDCRAFT          HANDCRAFTS          HANDSTANDS          HATCHBACK
+JACKASS          JANCZAK          JAZZMAN          KAZAKH          KAZAKHS          LAMBASTE          LAMBASTES
+LANDBANK          LANDMASS          LANDSAT          LANGHAM          LANGSTAFF          LAPLAND          MADCAP
+MADMAN          MANAC          MATLACK          NALCAP          NANCHANG          NASDAQ          NASDAQ'S
+PASCAL          PASCALE          PASSAT          PFALZGRAF          RAGTAG          RAMAT          RANSACK
+RANSACKED          RATTAN          SAJAK          SAMPANS          SAN-FRAN          SANDBAGGED          SANDBAGS
+SANDMAN          SKRAMSTAD          SLAPDASH          STANBACK          STANCZAK          TABAK          TALLMADGE
+TALMADGE          TAMBRANDS          TAMPAX          TRANSACT          TRANSPAC          TRANSPLANT          TRANSPLANTS
+VANASSE          VANCAMP          VANDAM          VANDAMME          VANSANDT          VANTRAN          VANVLACK
+VANZANDT          WAGSTAFF          XANAX          ZANTAC          

@@ -1,0 +1,2572 @@
+------------
+
+analysis          Baconian method          Boolean algebra
+Euclidean geometry          Fourier analysis          Lagrangian function
+a fortiori reasoning          a posteriori reasoning          a priori reasoning
+abstraction          accounting          airing
+algebra          algebraic geometry          alteration
+analytic geometry          anatomization          anatomy
+arithmetic          arrangement          assay
+associative algebra          atomization          audit
+automatic electronic navigation          binary arithmetic          braking
+breakdown          breakup          buzz session
+calculus          canvassing          cataloging
+categorization          change          checkup
+circle geometry          circumstantiation          classification
+codification          colloquium          comment
+commentary          commentation          computation
+conference          consideration          coordination
+critical review          criticism          critique
+debate          debating          decomposition
+deduction          deductive reasoning          deliberation
+demarcation          depth interview          depth psychology
+descriptive geometry          desynonymization          diaeresis
+dialectic          dialogue          differencing
+differential calculus          differentiation          discrimination
+discussion          disequalization          disintegration
+disjunction          dissection          distinction
+distinguishment          diversification          division
+division algebra          doctrinairism          doctrinality
+doctrinarity          dream analysis          dream symbolism
+editorial          enquiry          epagoge
+equivalent algebras          examination          exchange of views
+explanation          fact distribution          filing
+forecasts          forum          game theory
+generalization          geodesy          geometry
+gloss          grading          graphic algebra
+group analysis          group theory          grouping
+higher algebra          higher arithmetic          hyperbolic geometry
+hypothesis and verification          indexing          individualization
+individuation          induction          inductive reasoning
+inference          infinitesimal calculus          inquest
+inquirendo          inquiring          inquiring mind
+inquiry          inquisition          inspection
+integral calculus          interpretation          interpretation of dreams
+intuitional geometry          invariant subalgebra          inverse geometry
+investigation          itemization          joint discussion
+judgement          leader          leading article
+line geometry          linear algebra          logical analysis
+logical discussion          manipulation          mathematical physics
+matrix algebra          mere theory          metageometry
+modification          modular arithmetic          n-tuple linear algebra
+natural geometry          nilpotent algebra          nonlinear calibrations
+notice          number theory          open discussion
+open forum          opinion          output measurement
+panel discussion          particularization          perlustration
+personalization          philosophical induction          pigeonholing
+placement          plane trigonometry          political arithmetic
+processing          projective geometry          proper subalgebra
+psychanalysis          psychoanalysis          psychoanalytic method
+psychoanalytic therapy          psychognosis          psychognosy
+psychology of depths          quaternian algebra          ranging
+ranking          rap          rap session
+rating          record keeping          reducible algebra
+remark          report          resolution
+review          running commentary          scan
+scrutiny          segregation          seminar
+separation          set theory          severalization
+severance          simple algebra          solid geometry
+sorting          specialization          specification
+speculation          speculative geometry          spherical trigonometry
+statistics          steering          stratification
+study          subalgebra          subdivision
+supersonic flow detection          survey          syllogism
+syllogistic reasoning          symposium          synthesis
+systems analysis          tabulation          taxonomy
+the couch          theoretic          theoretical basis
+theoretics          theoria          theoric
+theorization          theory          topology
+town meeting          treatment          trig
+trigonometry          typology          universal algebra
+universal geometry          variation          vector algebra
+ventilation          view          write-up
+zero algebra          ------------
+
+belief          a belief
+acceptance          acquiescence          arrogance
+article of faith          assent          assurance
+assuredness          axiom          canon
+certainty          certitude          cocksureness
+concept          confidence          confidentness
+conviction          courage          credence
+credibility          credit          credo
+creed          dependence          doctrine
+dogma          eye          faith
+feeling          fundamental          hubris
+idea          intuition          judgement
+law          maxim          mind
+opinion          orthodoxy          overconfidence
+oversureness          overweening          overweeningness
+persuasion          poise          pomposity
+positiveness          precept          pride
+principle          principles          reliance
+religion          religious belief          religious faith
+security          self-assurance          self-confidence
+self-importance          self-reliance          sentiment
+settled belief          subjective certainty          sureness
+surety          system of beliefs          teaching
+tenet          theology          tradition
+trust          trustworthiness          view
+------------
+
+capacity          IQ          SRO
+ability          ableness          accommodation
+acumen          address          adeptness
+adequacy          adroitness          airmanship
+amplitude          apprehension          aptitude
+artfulness          artisanship          artistry
+bellyful          bent          brains
+bravura          brilliance          brimful
+brimming          bulging          bump
+bumper          burden          bursting
+caliber          capability          capableness
+capaciousness          capacitance          capital
+character          charge          chock-full
+chuck-full          cleverness          collector junction capacitance
+command          commodiousness          competence
+competency          complement          comprehension
+conception          condition          congested
+consciousness          content          control
+coordination          cordage          craft
+craftsmanship          cram          cram-full
+crammed          crush          cunning
+deductive power          deftness          devices
+dexterity          dexterousness          dextrousness
+dimensions          diplomacy          disposable resources
+dower          dowry          duty
+efficacy          efficiency          emitter junction capacitance
+endowment          equipment          esemplastic power
+expansiveness          expertise          extensiveness
+facility          faculties          faculty
+farad          farci          fill
+filled          finesse          fitness
+flair          flush          footing
+forte          full          full house
+full measure          full to bursting          function
+funds          genius          gift
+grace          grip          handiness
+horsemanship          ideation          ingeniousness
+ingenuity          instinct          integrative power
+intellect          intellectual gifts          intellectual grasp
+intellectual power          intellectualism          intellectuality
+intellectuals          intelligence          intelligence quotient
+jam up          jam-packed          job
+judgement          knack          know-how
+knowledge          lading          limit
+load          long suit          makings
+marksmanship          mastership          mastery
+means          measure          mental age
+mental capacity          mental grasp          mental ratio
+mentality          method          metier
+might          mother wit          mouthful
+native wit          natural endowment          natural gift
+office          overfull          overstuffed
+packed          packed like sardines          part
+parts          perception          perceptiveness
+perspicacity          place          plenary
+position          post          potential
+poundage          power          power of mind
+powers          practical ability          proficiency
+province          prowess          qualification
+quality          quantity          quickness
+rank          rationality          readiness
+ready to burst          reasoning power          recourses
+relation          replete          resistance capacitance
+resorts          resource          resourcefulness
+resources          responsibility          role
+room          roominess          round
+sanity          satiated          saturated
+savoir-faire          savvy          scope of mind
+seamanship          sense          senses
+situation          size          skill
+skillfulness          skinful          snootful
+soaked          space          spaciousness
+speciality          sphere          standing
+standing room only          state          station
+status          stock          stowage
+strong flair          strong point          stuffed
+style          sufficiency          supply
+surfeited          susceptibility          swollen
+tact          tactfulness          talent
+talents          technical brilliance          technical mastery
+technical skill          technique          the goods
+the stuff          thinking power          timing
+tonnage          topful          twin
+understanding          virtuosity          volume
+ways          ways and means          what it takes
+wherewith          wherewithal          wit
+wits          wizardry          workmanship
+------------
+
+conscience          anima          censor
+coconscious          collective unconscious          compunction
+conscientiousness          conscious self          death instinct
+demur          ego          ego ideal
+ego-id conflict          ethical self          ethics
+fairness          foreconscious          grace
+honor          id          inner arbiter
+inward monitor          judgement          libidinal energy
+libido          mind          moral censor
+morality          morals          motive force
+persona          personality          pleasure principle
+preconscious          primitive self          principles
+psyche          psychic apparatus          racial unconscious
+scruple          scruples          self
+social conscience          standards          subconscious
+subconscious mind          subliminal          subliminal self
+submerged mind          superego          tender conscience
+twinge of conscience          unconscious          unconscious mind
+vital impulse          voice of conscience          ------------
+
+counsel
+Dutch uncle          Polonius          admonisher
+admonition          advice          advise
+advise with          advisement          adviser
+advising          advisor          advocacy
+advocate          agent          aim
+ambition          amicus curiae          animus
+aspiration          attorney          attorney-at-law
+backseat driver          bar          bargain
+barrister          barrister-at-law          brief
+briefing          brooding          buttinsky
+call in          caution          caveat
+coach          collogue          compare notes
+confer          confer with          confidant
+consideration          consult          consult with
+consultant          consultation          contemplation
+council          counselor          counselor-at-law
+deliberate          deliberation          deputy
+desideration          desideratum          design
+desire          determination          direct
+direction          discuss          discuss with
+discussion          effect          exchange observations
+exchange views          exhortation          expert
+expostulation          fixed purpose          friend at court
+function          guidance          guide
+have conversations          hold conference          hortation
+idea          instruct          instruction
+instructor          intendment          intent
+intention          intercessor          judgement
+kibitz          kibitzer          lawyer
+legal adviser          legal counselor          legal expert
+legal practitioner          legal profession          legalist
+lucubration          meaning          meddle
+meddler          meditation          mentor
+mind          monition          monitor
+motive          mouthpiece          musing
+negotiate          nestor          nisus
+opinion          orienter          palaver
+parley          plan          pleader
+pleading          point          pondering
+powwow          preceptist          prescribe
+proctor          procurator          project
+proposal          propose          prospectus
+purpose          put heads together          reason with
+recommend          recommendation          refer to
+reflection          remonstrance          representation
+resolution          resolve          revolving
+rumination          sake          sea lawyer
+self-styled lawyer          sit down together          sit down with
+solicitor          speculation          striving
+study          submit          suggest
+suggestion          take counsel          take up with
+talk over          teacher          thought
+view          warning          weighing
+will          ------------
+
+criticism          adverse criticism
+analysis          animadversion          appraisal
+approval          aspersion          assessment
+bad notices          bad press          book review
+captiousness          carping          cavil
+caviling          censoriousness          censure
+comment          commentary          commentation
+condemnation          critical bibliography          critical journal
+critical notice          critical review          critique
+cryptanalysis          cryptography          cryptology
+diagnostics          disapproval          disparagement
+editorial          epigraphy          estimate
+estimation          evaluation          examination
+exception          exegetics          faultfinding
+flak          gloss          hairsplitting
+hermeneutics          hit          home thrust
+hostile criticism          hypercriticalness          hypercriticism
+imputation          judgement          knock
+leader          leading article          lexicography
+literary criticism          metoposcopy          nagging
+niggle          niggling          nit
+nit-picking          notice          obloquy
+observation          oneirology          opinion
+overcriticalness          paleography          pathognomy
+pestering          pettifogging          physiognomics
+physiognomy          priggishness          quibble
+quibbling          rap          rating
+reflection          remark          renew
+report          reproachfulness          review
+running commentary          semeiology          semeiotics
+slam          stricture          study
+swipe          symptomatology          taking exception
+textual criticism          trichoschistism          tropology
+valuation          write-up          ------------
+
+decision
+accommodation          accord          acquittal
+action          adjustment          agreement
+alternativity          animus          appetence
+appetency          appetite          arbitration
+arrangement          award          backbone
+choice          choosing          co-optation
+co-option          command          commitment
+compromise          conation          conatus
+conclusion          condemnation          consideration
+decidedness          decisiveness          decree
+dedication          definiteness          deliverance
+desire          determinateness          determination
+determinedness          devotion          diagnosis
+dictum          discretion          disposition
+doggedness          doom          earnestness
+election          fancy          finding
+firmness          first choice          fortitude
+free choice          free will          grit
+inclination          intention          judgement
+judgment          landmark decision          liking
+lust          mind          objective
+obstinacy          order          outcome
+passion          penalty          perseverance
+persistence          pick          pleasure
+pluck          precedent          preference
+preoption          prognosis          pronouncement
+purpose          purposefulness          reconciliation
+relentlessness          resoluteness          resolution
+resolve          resolvedness          resolving
+ruling          selection          self-will
+sentence          seriousness          settlement
+settling          sexual desire          sincerity
+single-mindedness          steadfastness          stubbornness
+tenacity          the pick          total commitment
+understanding          velleity          verdict
+volition          will          will power
+wish          ------------
+
+decree          act
+act on          action          adjudge
+announcement          appointment          authorize
+award          behest          bid
+bidding          bill          brevet
+bull          bylaw          call on
+call the signals          call upon          canon
+charge          charging          choose
+choose to          command          commission
+compel          condemn          condemnation
+consideration          constitute          constrain
+decide          decision          declaration
+declare          declare lawful          decree-law
+decreement          decretal          decretum
+deliverance          demand          desire
+determination          determine          diagnosis
+dictate          dictation          dictum
+diktat          direct          direction
+directive          doom          edict
+edictum          enact          enact laws
+enactment          enjoin          establish
+fiat          filibuster          find
+find against          find for          finding
+force          foredestiny          foregone conclusion
+foreknowledge          foreordination          form
+formality          formula          formulary
+formulate          get the floor          give an order
+give the word          have the floor          impose
+injunction          institution          instruct
+instruction          ipse dixit          issue a command
+issue a writ          judgement          jus
+kill          law          lay down
+legalize          legislate          legislation
+legitimate          legitimatize          legitimize
+lex          lobby through          logroll
+make a regulation          make legal          mandate
+manifesto          measure          necessity
+oblige          ordain          order
+order about          ordinance          ordonnance
+pass          pass judgment          pass sentence
+pigeonhole          pocket          precedent
+precept          predestination          predetermination
+preordination          prescience          prescribe
+prescript          prescription          proclaim
+proclamation          prognosis          promulgate
+promulgation          pronounce          pronounce judgment
+pronounce on          pronouncement          pronunciamento
+put in force          put through          railroad through
+regulate          regulation          report
+require          rescript          resolution
+resolve          return a verdict          roll logs
+rubric          rule          ruling
+sanction          say the word          see fit
+senatus consult          senatus consultum          sentence
+set          standing order          statute
+table          take the floor          think fit
+think good          think proper          ukase
+utter a judgment          validate          verdict
+veto          will          wish
+yield the floor          ------------
+
+determination          absolute indication
+accomplishment          acid test          action
+aim          allocation          ambition
+animus          answer          appetence
+appetency          appetite          appraisal
+appraisement          approximation          ascertaining
+ascertainment          aspiration          assay
+assessment          assignment          assize
+assizement          assurance          attribution
+award          balkiness          bigotry
+blank determination          bounding          bringing to light
+brouillon          bullheadedness          burden of proof
+calculation          casual discovery          catching
+certification          chance discovery          check
+checking          choice          circling-in
+circumscribing          circumscription          clearing up
+collation          command          commitment
+computation          conation          conatus
+conclusion          conclusive evidence          condemnation
+confirmation          consideration          constancy
+correction          counsel          cracking
+criterion          crucial test          crucible
+damning evidence          decidedness          decipherment
+decision          decisiveness          decoding
+decree          dedication          definiteness
+definition          delimitation          deliverance
+demarcation          demonstration          denomination
+denouement          desideration          desideratum
+design          designation          desire
+detection          determinateness          determinedness
+determining          devotion          diagnosis
+dictum          disclosure          discovery
+discretion          disentanglement          disposition
+distinguishment          docimasy          doggedness
+dogmatism          doom          earnestness
+effect          effort          encincture
+end          end result          endeavor
+ensuring          espial          essay
+establishment          estimate          estimation
+evaluation          excavation          exertion
+exhumation          explanation          exposure
+fanaticism          fancy          feeling out
+find          finding          finding out
+finding-out          firmness          first draft
+fixed mind          fixed purpose          fixing
+fortitude          free choice          free will
+function          gauging          grit
+guts          hardheadedness          headstrongness
+idea          inclination          inclusion-exclusion
+incontrovertible evidence          indisputable evidence          inflexible will
+instrumentation          intendment          intent
+intention          interpretation          intolerance
+invention          ironclad proof          issue
+judgement          kiteflying          liking
+locating          location          lucky strike
+lust          meaning          measure
+measurement          measuring          mensuration
+metric system          mind          motive
+mulishness          nisus          obduracy
+objective          obstinacy          obstinateness
+onus          onus probandi          opinionatedness
+ordeal          order          outcome
+overzealousness          passion          perseverance
+persistence          pertinacity          pigheadedness
+pinning down          plan          pleasure
+point          precedent          precision
+probation          prognosis          project
+pronouncement          proof          proposal
+prospectus          purpose          purposefulness
+quantification          quantization          rating
+reason          reassurance          reassurement
+recognition          rediscovery          relentlessness
+resoluteness          resolution          resolve
+resolvedness          resolving          restiveness
+result          revelation          riddling
+rough draft          rough sketch          ruling
+sake          selection          self-will
+sentence          serendipity          seriousness
+settlement          settling          sexual desire
+signification          sincerity          single-mindedness
+solution          solving          sorting out
+sounding out          specification          spotting
+standard          steadfastness          stiff neck
+stiff-neckedness          stipulation          strain
+strike          striving          strongheadness
+struggle          stubbornness          study
+substantiation          sulkiness          sullenness
+sure sign          survey          surveying
+telemetering          telemetry          tenaciousness
+tenacity          termination          test
+test case          total commitment          touchstone
+treasure trove          trial          triangulation
+trouvaille          trove          try
+uncooperativeness          uncovering          unearthing
+unmistakable sign          unraveling          unregenerateness
+unriddling          unscrambling          unspinning
+untangling          untwisting          unweaving
+upshot          validation          valuation
+velleity          verdict          verification
+view          volition          will
+will power          willfulness          wish
+working          working-out          ------------
+
+discretion
+airtight secrecy          aloofness          alternate choice
+alternative          animus          anticipation
+appetence          appetency          appetite
+backwardness          bashfulness          blankness
+calculation          canniness          care
+careful consideration          carefulness          caution
+cautiousness          chilliness          choice
+circumspection          circumspectness          close secrecy
+closeness          coldness          command
+common sense          conation          conatus
+concealment          consideration          constraint
+contemplation          cool judgment          coolness
+crypticness          decision          deliberate stages
+deliberateness          deliberation          desire
+detachment          determination          diplomacy
+discernment          discreetness          discrimination
+disposition          distance          envisagement
+envisionment          evasion          evasiveness
+expressionlessness          fancy          farseeingness
+farsightedness          forecast          foreglance
+foregleam          foreglimpse          forehandedness
+foreseeing          foresight          foresightedness
+forethought          free choice          free decision
+free will          frigidity          frostiness
+full consent          gingerliness          good judgment
+good sense          guardedness          gumption
+hedge          hedging          heed
+heedfulness          hesitation          hiddenness
+hugger-mugger          hugger-muggery          iciness
+impassiveness          impassivity          impersonality
+inaccessibility          inclination          intention
+introversion          judgement          judgment
+judiciousness          liking          longsightedness
+looking ahead          lust          mind
+mindfulness          moderation          modesty
+noncontingent free will          objective          option
+optionality          passion          pawkiness
+pleasure          policy          polity
+possible choice          precaution          prediction
+preference          preparation          prepublication
+preview          prevision          prior consultation
+prospect          prospection          providence
+provision          prudence          prudentialism
+prudentialness          readiness          reflection
+reflectiveness          regardfulness          remoteness
+repression          reserve          reservedness
+resolution          restraint          reticence
+reticency          retirement          safeness
+safety first          sagacity          say
+say-so          secrecy          secretiveness
+secretness          sense          sexual desire
+slowness to act          solicitude          sound judgment
+soundness of judgment          standoffishness          subduedness
+subterfuge          suppression          tact
+tentativeness          the dark          thoroughness
+thoughtfulness          unaffability          unapproachability
+uncommunicativeness          uncongeniality          undemonstrativeness
+unexpansiveness          unprecipitateness          velleity
+volition          weighing          will
+will and pleasure          will power          wisdom
+wish          withdrawal          withdrawnness
+------------
+
+discrimination          Atticism          Jim Crow
+Jim Crow law          acquired taste          acumen
+adjudgment          adjudication          aestheticism
+alteration          analysis          anatomization
+anti-Semitism          apartheid          appreciation of excellence
+appropriateness          arbitrament          arbitration
+astuteness          atomization          bias
+bigotry          black power          black supremacy
+censoriousness          change          chasteness
+chastity          chauvinism          choice
+choiceness          choosiness          circumspection
+circumspectness          civilized taste          civilizedness
+clarity          class consciousness          class distinction
+class hatred          class prejudice          class war
+classicalism          classicism          clearness
+color bar          color line          comeliness
+connoisseurship          conscientiousness          consideration
+cool judgment          correctness          criticalness
+cultivated taste          cultivation          culture
+daintiness          deeming          delicacy
+demarcation          desynonymization          differencing
+differentiation          dignity          directness
+discernment          discreetness          discretion
+discriminatingness          discriminativeness          disequalization
+disjunction          distinction          distinguishment
+diversification          division          ease
+eclecticism          elegance          elegancy
+excellence          fascism          fastidiousness
+favoritism          felicitousness          felicity
+finesse          finish          fittingness
+flow          flowing periods          fluency
+good judgment          good taste          grace
+gracefulness          gracility          graciosity
+graciousness          inclination          individualization
+individuation          inequality          inequity
+insight          interest          intolerance
+involvement          judgement          judging
+judgment          judicature          judiciousness
+keenness          know-nothingism          leaning
+limpidity          lucidity          male chauvinist
+meticulousness          minority prejudice          modification
+naturalness          neatness          nepotism
+niceness          nicety          one-sidedness
+parti pris          partiality          particularity
+particularization          particularness          partisanism
+partisanship          pellucidity          penetration
+perception          perceptiveness          percipience
+perfectionism          personalization          perspicacity
+perspicuity          picking and choosing          plainness
+policy          polish          polity
+preciseness          precisianism          precision
+preference          preferential treatment          prejudice
+priggishness          propriety          providence
+prudence          prudentialism          prudishness
+punctilio          punctiliousness          purism
+puritanism          purity          quality
+race hatred          race prejudice          race snobbery
+racial discrimination          racialism          racism
+red-baiting          refinement          reflection
+reflectiveness          restraint          scrupulosity
+scrupulousness          seemliness          segregation
+selectiveness          selectivity          sense
+sensitivity          separation          severalization
+severance          sex discrimination          sexism
+shrewdness          simplicity          smoothness
+social barrier          social discrimination          sophistication
+sound judgment          soundness of judgment          specialization
+straightforwardness          strictness          subtlety
+superpatriotism          taste          tastefulness
+terseness          thoughtfulness          ultranationalism
+unaffectedness          undetachment          undispassionateness
+unfairness          unneutrality          variation
+weighing          white power          white supremacy
+wit          xenophobia          ------------
+
+estimate
+account as          add          adjudge
+adjudicate          algebraize          analyzing
+appraisal          appraise          appraisement
+appraising          appreciate          appreciation
+approximate          approximation          ascertain
+assay          assess          assessing
+assessment          assize          assizement
+assume          assumption          attitude
+be afraid          belief          believe
+calculate          calculation          calibrate
+caliper          call          cast
+check a parameter          cipher          class
+climate of opinion          common belief          community sentiment
+computation          compute          conceit
+conceive          concept          conception
+conclusion          conjecture          consensus gentium
+consider          consideration          correction
+count          daresay          decide
+deduce          deem          determination
+determine          dial          discover
+divide          dope out          enumerate
+esteem          estimation          ethos
+evaluate          evaluating          evaluation
+evaluative criticism          expect          extract roots
+eye          fancy          fathom
+feeling          figure          figure in
+figure out          form an estimate          gauge
+gauging          general belief          give an appreciation
+graduate          guess          guesstimate
+have a hunch          have an idea          have an impression
+have an inkling          have the idea          hold
+hold as          idea          imagine
+impression          infer          instrumentation
+judge          judgement          judgment
+lights          look upon as          maintain
+make an estimation          mark          measure
+measurement          measuring          mensurate
+mensuration          mete          meter
+metric system          mind          multiply
+mystique          notion          observation
+opine          opinion          pace
+personal judgment          place          plumb
+point of view          popular belief          position
+posture          presume          presumption
+prevailing belief          price          prize
+probe          projection          public belief
+public opinion          put          quantification
+quantify          quantization          quantize
+rank          ranking          rate
+rating          reaction          reckon
+reckoning          regard          round
+score          sense          sentiment
+set at          set down as          settle
+sight          size          size up
+sound          span          stance
+step          stock          subtract
+sum          suppose          surmise
+survey          surveying          suspect
+take          take a reading          take account of
+take for          take it          tally
+telemetering          telemetry          theory
+think          thinking          thought
+triangulate          triangulation          trow
+valuate          valuation          value
+valuing          view          view as
+viewpoint          way of thinking          ween
+weigh          weighing          work out
+------------
+
+estimation          account          adding
+admiration          adoration          analyzing
+apotheosis          appraisal          appraisement
+appraising          appreciation          apprizal
+approbation          approval          approximation
+arithmetic          assessing          assessment
+assize          assizement          assumption
+attitude          awe          breathless adoration
+calculation          calculus          casting
+ciphering          climate of opinion          common belief
+community sentiment          computation          conceit
+concept          conception          conclusion
+consensus gentium          consideration          correction
+courtesy          credit          deference
+deification          determination          dual pricing
+duty          esteem          estimate
+ethos          evaluating          evaluation
+evaluative criticism          exaggerated respect          eye
+favor          feeling          figuring
+footing          gauge          gauging
+general belief          great respect          guess
+hero worship          high regard          homage
+honor          idea          idolatry
+idolization          impression          instrumentation
+judgement          judgment          lights
+measure          measurement          measuring
+mensuration          metric system          mind
+mystique          notion          observation
+opinion          personal judgment          point of view
+popular belief          position          posture
+prestige          presumption          prevailing belief
+price determination          pricing          public belief
+public opinion          quantification          quantization
+ranking          rating          reaction
+reckoning          regard          respect
+reverence          reverential regard          sentiment
+sight          stance          stock
+survey          surveying          telemetering
+telemetry          theory          thinking
+thought          totaling          toting
+triangulation          unit pricing          valuation
+valuing          veneration          view
+way of thinking          weighing          worship
+worth          ------------
+
+evaluation          analyzing
+appraisal          appraisement          appraising
+appreciation          apprizal          approximation
+assessing          assessment          assize
+assizement          calculation          categorization
+classification          computation          correction
+decision          determination          dual pricing
+estimate          estimation          evaluating
+evaluative criticism          factoring          figuring
+gauging          grouping          identification
+instrumentation          interpretation          judgement
+judging          judgment          measure
+measurement          measuring          mensuration
+metric system          opinion          price determination
+pricing          quantification          quantization
+ranking          rating          reckoning
+sifting          sifting out          sorting
+sorting out          stock          survey
+surveying          telemetering          telemetry
+triangulation          unit pricing          valuation
+valuing          view          weighing
+winnowing          ------------
+
+experience          accept
+acquaintance          adventure          affair
+affect          affection          apprehend
+awareness          background          be aware of
+be conscious of          be exposed to          be sensible of
+be subjected to          behold          blaseness
+circumstance          common sense          consciousness
+contact          corpus          data
+datum          emotion          emotional charge
+emotional shade          encounter          endure
+episode          event          expertise
+exposure          face          fact
+facts          factual base          familiarity
+feel          feel deeply          feeling
+feeling tone          foreboding          go through
+gut reaction          hap          happening
+happenstance          have          have a sensation
+hear          heartthrob          impression
+incident          information          intelligence
+intimacy          involvement          inwardness
+judgement          ken          know
+know-how          knowing          knowledge
+labor under          live through          matter of fact
+meet          meet up with          meet with
+observation          occasion          occurrence
+ordeal          participation          particular
+pass through          passion          past experience
+pay          perceive          percept
+perception          phenomenon          practical knowledge
+practice          presentiment          private knowledge
+privity          profound sense          ratio cognoscendi
+reaction          reality          receive
+receive an impression          respond          respond to stimuli
+response          response to stimuli          run up against
+sagacity          sample          savoir faire
+savor          savvy          seasoning
+see          self-knowledge          sensation
+sense          sense impression          sense perception
+sensory experience          sentiment          skill
+smell          sophistication          spend
+stand under          suffer          survey
+sustain          taste          technic
+technics          technique          tempering
+test          touch          trial
+turn of events          undercurrent          undergo
+view          wisdom          worldly wisdom
+------------
+
+expertise          ability          acquaintance
+address          adeptness          adroitness
+aesthetics          airmanship          all-knowingness
+art          artfulness          artisanship
+artistic taste          artistry          bravura
+brilliance          capability          capacity
+cleverness          command          competence
+connoisseurship          control          coordination
+corpus          craft          craftsmanship
+cross-disciplinary knowledge          cunning          data
+datum          deep knowledge          deftness
+dexterity          dexterousness          dextrousness
+dilettantism          diplomacy          efficiency
+encyclopedic knowledge          epicureanism          epicurism
+experience          expertism          expertness
+extensive knowledge          facility          facts
+factual base          familiarity          finesse
+friandise          gastronomy          general knowledge
+grace          grip          handiness
+horsemanship          information          ingeniousness
+ingenuity          intelligence          intimacy
+judgement          ken          knack
+know-how          knowing          knowledge
+marksmanship          mastership          mastery
+omniscience          pansophy          polyhistory
+polymathy          practical ability          practical knowledge
+private knowledge          privity          proficiency
+profound knowledge          prowess          quickness
+ratio cognoscendi          readiness          resource
+resourcefulness          savoir-faire          savvy
+seamanship          self-knowledge          skill
+skillfulness          special knowledge          style
+tact          tactfulness          technic
+technical brilliance          technical mastery          technical skill
+technics          technique          timing
+virtu          virtuosity          wit
+wizardry          workmanship          ------------
+
+finding
+accomplishment          accouterment          action
+answer          armament          ascertainment
+award          bonus          bringing to light
+buried treasure          casual discovery          catching
+catering          chance discovery          chandlery
+clearing up          conclusion          condemnation
+consideration          cracking          decipherment
+decision          declaration          decoding
+decree          deliverance          denouement
+detection          determination          determining
+diagnosis          dictum          disclosure
+discovery          disentanglement          distinguishment
+doom          end          end result
+endowment          equipment          espial
+excavation          exhumation          explanation
+exposure          find          finding out
+finding-out          fitting out          foundling
+furnishing          furnishment          gravy
+interpretation          invention          investment
+issue          judgement          locating
+location          logistics          lucky strike
+order          outcome          outfitting
+precedent          preparation          procurement
+prognosis          pronouncement          providing
+provision          provisioning          purveyance
+reason          recognition          rediscovery
+reinforcement          replenishment          resolution
+resolving          result          resupply
+retailing          revelation          riddling
+ruling          selling          sentence
+serendipity          solution          solving
+sorting out          spotting          strike
+subsidization          subsidy          subvention
+supply          supplying          treasure trove
+trouvaille          trove          uncovering
+unearthing          unraveling          unriddling
+unscrambling          unspinning          untangling
+untwisting          unweaving          upshot
+verdict          victualing          waifs
+waifs and strays          windfall          windfall money
+windfall profit          working          working-out
+------------
+
+guess          account as          answer
+appraise          appreciate          assess
+assume          assumption          be afraid
+believe          blind bargain          blind guess
+bold conjecture          borderline case          bottom
+call          cast a horoscope          cast a nativity
+chance          class          clear up
+conceive          conclude          conjecture
+consider          contingency          crack
+daresay          debug          decipher
+decode          deduce          deem
+disentangle          divine          do
+dope          dope out          double contingency
+dowse for water          esteem          estimate
+evaluate          expect          explain
+fancy          fathom          feel
+feeling          figure          figure out
+find out          find the answer          find the solution
+forebode          forecast          foresee
+foretell          form an estimate          fortune-tell
+gamble          gauge          get
+get right          give a guess          give an appreciation
+guess right          guesstimate          guesswork
+hariolate          have a hunch          have an idea
+have an impression          have an inkling          have it
+have the idea          hazard a conjecture          hit it
+hold          hold as          hunch
+hypothesis          hypothesize          imagine
+interpret          judge          judgement
+look upon as          maintain          make a prediction
+make a prognosis          make a prophecy          make an estimation
+make out          mark          measure
+open question          open the lock          opine
+perhaps          piece of guesswork          plumb
+postulate          predict          prefigure
+presage          presume          pretend
+prize          prognosticate          prophesy
+psych          psych out          puzzle out
+question          rank          rate
+ravel          ravel out          read palms
+read tea leaves          read the future          reason
+reckon          regard          resolve
+riddle          risk assuming          rough guess
+set down as          shot          sight-unseen transaction
+solve          soothsay          sort out
+speculate          speculation          stab
+suppose          supposition          surmise
+suspect          suspicion          take
+take for          take it          tell fortunes
+tell the future          tentatively suggest          theory
+think          toss-up          touch and go
+trow          undecided issue          undo
+unlock          unravel          unriddle
+unscramble          untangle          untwist
+unverified supposition          unweave          valuate
+value          vaticinate          venture a guess
+view as          wager          ween
+wild guess          work          work out
+------------
+
+gumption          adventuresomeness          adventurousness
+aggression          aggressiveness          ambitiousness
+astuteness          audacity          backbone
+balls          boldness          bottle
+brains          cleverness          common sense
+courage          daring          drive
+dynamism          energy          enterprise
+enterprisingness          force          forcefulness
+gameness          get-up-and-get          get-up-and-go
+getup          go          go-ahead
+go-getting          go-to-itiveness          good sense
+grit          guts          horse sense
+hustle          initiative          judgement
+judgment          mettle          mother wit
+moxie          nerve          nous
+perspicaciousness          perspicacity          pluck
+push          pushfulness          pushiness
+pushingness          resourcefulness          sagaciousness
+sagacity          shrewdness          spirit
+spunk          stamina          up-and-comingness
+venturesomeness          venturousness          vigor
+wisdom          ------------
+
+insight          ESP
+a priori knowledge          acuity          acumen
+acuteness          anschauung          anticipation
+apperception          appreciation          appreciativeness
+astuteness          awareness          buddhi
+clairsentience          clairvoyance          cogency
+cognition          cognizance          comprehension
+consciousness          critical discernment          direct apprehension
+discernment          extrasensory perception          farseeingness
+farsightedness          flair          foresight
+foresightedness          immediate cognition          incisiveness
+inspiration          intuition          intuitionism
+intuitive reason          intuitiveness          intuitivism
+judgement          judgment          knowledge without thought
+longheadedness          longsightedness          lucidity
+mindfulness          noesis          note
+notice          penetration          perception
+perceptiveness          percipience          perspicaciousness
+perspicacity          perspicuity          perspicuousness
+precognition          premonition          providence
+psychometry          realization          recognition
+sagaciousness          sagacity          sageness
+sapience          satori          second sight
+second-sightedness          sensibility          sensitivity
+sharpness          sixth sense          subconscious knowledge
+subconscious perception          trenchancy          understanding
+unmediated perception          vision          wisdom
+------------
+
+intellect          Brahmin          IQ
+apprehension          authority          brain
+brains          brainworker          caliber
+capacity          cleverness          common sense
+comprehension          conception          consciousness
+deductive power          doctor          egghead
+elder          elder statesman          esemplastic power
+genius          great soul          guru
+head          highbrow          ideation
+illuminate          integrative power          intellectual
+intellectual grasp          intellectual power          intellectualism
+intellectualist          intellectuality          intelligence
+intelligence quotient          intuition          judgement
+knowledge          literate          lover of wisdom
+mahatma          man of intellect          man of wisdom
+mandarin          master          mastermind
+mental age          mental capacity          mental grasp
+mental ratio          mentality          mentor
+mind          mother wit          native wit
+oracle          philosopher          power of mind
+pundit          rabbi          rationality
+reason          reasonableness          reasoning power
+rishi          sage          sanity
+sapient          savant          scholar
+scope of mind          seer          sense
+starets          thinker          thinking power
+understanding          white-collar intellectual          wise man
+wise old man          wit          ------------
+
+judgement
+acumen          adjudication          appraisal
+assessment          belief          censure
+common sense          conclusion          condemnation
+criticism          decision          decree
+determination          disapproval          discernment
+discretion          discrimination          estimation
+evaluation          finding          good sense
+intelligence          judgment          judiciousness
+level-headedness          mind          opinion
+order          outcome          perception
+percipience          perspicacity          perspicuousness
+prudence          reproof          result
+ruling          sagacity          sentiment
+shrewdness          understanding          upshot
+valuation          verdict          view
+way of thinking          wisdom          wit
+------------
+
+measurement          accounting          acreage
+amount          amplitude          analyzing
+appraisal          appraisement          appraising
+appreciation          area          ascertainment
+assessing          assessment          bigness
+body          breadth          bulk
+calculation          caliber          capacity
+census          computation          counting
+coverage          dactylonomy          depth
+determination          diameter          dimension
+dimensions          enumeration          estimate
+estimation          evaluating          evaluation
+evaluative criticism          expanse          expansion
+extension          extent          foliation
+force          gauge          gauging
+girth          greatness          height
+inventorying          judgement          largeness
+length          magnitude          mass
+matter          measure          measuring
+mensuration          mileage          numbering
+numbers          numeration          opinion
+pagination          period          proportion
+proportions          quantification          quantity
+quantization          quantum          radius
+range          ranking          rating
+reach          reckoning          scale
+scope          size          spread
+strength          substance          sum
+tallying          telling          tonnage
+valuation          valuing          view
+volume          weighing          weight
+whole          width          ------------
+
+mentality
+IQ          Vernunft          acuity
+acumen          apprehension          attitude
+bent          brain          brains
+caliber          capacity          comprehension
+conception          consciousness          deductive power
+discourse of reason          discursive reason          disposition
+esemplastic power          esprit          frame of mind
+gray matter          head          headpiece
+ideation          inclination          integrative power
+intellect          intellection          intellectual faculty
+intellectual grasp          intellectual power          intellectualism
+intellectuality          intelligence          intelligence quotient
+judgement          knowledge          mens
+mental age          mental capacity          mental grasp
+mental ratio          mind          mind-set
+mother wit          native wit          nous
+outlook          power of mind          power of reason
+psyche          ratio          rationality
+reason          reasoning          reasoning faculty
+reasoning power          sanity          scope of mind
+sense          smarts          temperament
+thinking power          understanding          view
+wise man          wit          ------------
+
+mind
+Mnemosyne          affect memory          aim
+ambition          ambivalent          anima
+anima humana          animadvert          animus
+anterograde memory          appetence          appetency
+appetite          aptitude          ardor
+aspiration          assumption          astral body
+astuteness          atavism          atman
+attend          attend to          attend to orders
+attention          attitude          ba
+baby-sit          babysit          balk at
+bawl out          be concerned          be resolved
+be unwilling          begrudge          behold
+belief          bent          berate
+beware          bias          brain
+brains          breath          breath of life
+bring back          bring to mind          buddhi
+call back          call to mind          call up
+capacity          care          care for
+cast          castigate          chaperon
+character          chastise          cherish
+chew out          choice          choose
+cite          climate of opinion          coconscious
+cognizance          collective memory          collective unconscious
+command          common belief          community sentiment
+comply          computer memory          conation
+conatus          conceit          concentration
+concept          conception          conclude
+conclusion          concupiscence          conform
+conjure up          conscience          conscious self
+consciousness          consensus gentium          conserve
+consider          consideration          constitution
+contemplate          conviction          counsel
+crazy          cue          curiosity
+death instinct          decide          decision
+deem          defer to          descry
+desideration          desideratum          design
+desire          determination          determine
+diathesis          dig          disapprove of
+discern          discipline          discourse of reason
+discretion          discursive reason          disk memory
+dislike          disposition          disregard
+divine breath          dress down          drive
+drum memory          eagerness          eccentricity
+effect          ego          ego ideal
+ego-id conflict          emotional response          engram
+enjoy          esprit          espy
+estimate          estimation          ethical self
+ethos          evoke          excogitate
+eye          faculty          fancy
+fantasy          feeling          fixed purpose
+follow          follow the book          foreconscious
+forget          form an opinion          foster
+frame          frame of mind          free choice
+free will          function          general belief
+genius          get miffed          go
+go back          go back over          govern
+grain          gray matter          gross body
+grudge          guard          hark back
+harken to          have a care          head
+headpiece          heart          heed
+hope          horme          humor
+id          idea          idiosyncrasy
+ignore          impression          inclination
+individualism          insane          insight
+intellect          intellection          intellectual
+intellectual curiosity          intellectual faculty          intelligence
+intendment          intent          intention
+jiva          jivatma          judge
+judgement          judgment          kama
+keep          keep watch over          khu
+kidney          kinesthetic memory          leaning
+libidinal energy          libido          lie low
+life principle          lights          like
+liking          linga sharira          listen to
+look          look about one          look after
+look back          look out          look out for
+look sharp          look to          lucidity
+lust          lust for learning          mad
+make          makeup          manas
+manes          marbles          mark
+matronize          mean          meaning
+memory          memory bank          memory circuit
+memory trace          mens          mental capacity
+mental set          mentality          mettle
+mind-set          mneme          mold
+mood          morale          mother
+motive          motive force          mystique
+nature          need          nephesh
+never mind          nisus          not care to
+not feel like          note          notice
+notion          nous          nurse
+nurture          obey          obey the rules
+object to          objective          observance
+observation          observe          opinion
+oversee          passion          pay attention
+pay attention to          perceive          perception
+percipience          perpend          persona
+personal judgment          personality          persuasion
+physical body          plan          plans
+pleasure          pleasure principle          pneuma
+point          point of view          ponder
+popular belief          position          posture
+power          power of reason          prana
+preconscious          predilection          predisposition
+preference          preserve          presumption
+prevailing belief          primitive self          principle of desire
+proclivity          project          propensity
+proposal          propose          prospectus
+protege          provide for          psyche
+psychic apparatus          public belief          public opinion
+purpose          purusha          qui vive
+race memory          racial unconscious          rail at
+ratio          rationality          reaction
+reason          reasoning          reasoning faculty
+rebuke          recall          recall to mind
+recapture          reck          recollect
+recollection          reevoke          reflect
+regard          relish          remark
+remember          remembrance          remind
+reminisce          reprimand          reproach
+reprove          resent          resolution
+resolve          retain          retrace
+retrospect          review          review in retrospect
+revive          ride herd on          ruach
+sagacity          sage          sake
+saneness          sanity          sapience
+scold          screen memory          see
+see after          see in retrospect          see to
+self          sense          senses
+sentiment          set          sexual desire
+shade          shadow          shepherd
+shilly-shallying          shrewdness          sight
+skill          skin alive          slant
+slough off          smarts          soul
+soundness          souvenir          spirit
+spirits          spiritual being          spiritus
+stamp          stance          state of mind
+stay in line          sthula sharira          strain
+streak          stripe          striving
+study          subconscious          subconscious mind
+subliminal          subliminal self          submerged mind
+submit          summon up          superego
+superintend          supervise          support
+take amiss          take an interest          take care
+take care of          take charge of          take heed
+take ill          take note          take note of
+take notice          take offense          take orders
+take to heart          take umbrage          tape memory
+tell off          temper          temperament
+tend          tendency          the self
+theory          think          think back
+think of          thinker          thinking
+thirst for knowledge          thought          thoughts
+toe the line          tone          turn
+turn of mind          twist          type
+uncertain          unconscious          unconscious mind
+undecided          understanding          unsure
+upbraid          urge          use hindsight
+vacillating          vein          velleity
+verbal response          view          viewpoint
+visual memory          vital force          vital impulse
+volition          want          wanting
+warp          watch          watch out
+watch out for          watch over          wavering
+way of thinking          weigh          will
+will and pleasure          will power          wisdom
+wish          wish fulfillment          wit
+wits          would rather not          ------------
+
+opinion
+admonition          advice          advising
+advocacy          affect          affectivity
+analyzing          appraisal          appraisement
+appraising          appreciation          apprehension
+assessing          assessment          assumption
+attitude          belief          brief
+briefing          caution          caveat
+climate of opinion          common belief          community sentiment
+conceit          concept          conception
+conclusion          conjecture          consensus gentium
+consideration          consultation          conviction
+council          counsel          direction
+emotion          emotivity          estimate
+estimation          ethos          evaluating
+evaluation          evaluative criticism          exhortation
+expostulation          eye          fancy
+feeling          feeling tone          gauging
+general belief          guidance          hortation
+idea          image          imago
+impression          instruction          intellectual object
+judgement          judgment          lights
+measurement          memory-trace          mental attitude
+mental image          mental impression          mind
+monition          mystique          notion
+observation          parley          perception
+personal judgment          persuasion          point of view
+popular belief          position          posture
+presumption          prevailing belief          proposal
+psychology          public belief          public opinion
+ranking          rating          reaction
+recept          reckoning          recommendation
+reflection          remonstrance          representation
+sentiment          sight          speculation
+stance          suggestion          supposition
+theory          think          thinking
+thought          valuation          valuing
+view          viewpoint          warning
+way of thinking          weighing          ------------
+
+pronouncement
+Parthian shot          action          address
+advertisement          affirmance          affirmation
+allegation          announcement          annunciation
+answer          apostrophe          appointment
+assertion          asseveration          averment
+avouchment          avowal          award
+brevet          broadcast          bull
+bulletin board          circular          command
+comment          communique          conclusion
+condemnation          consideration          crack
+creed          decision          declaration
+decree          decree-law          decreement
+decretal          decretum          deliverance
+determination          diagnosis          dictum
+diktat          doom          edict
+edictum          encyclical          enunciation
+exclamation          expression          fiat
+finding          greeting          imperative
+interjection          ipse dixit          judgement
+law          manifesto          mention
+note          notice          notification
+observation          opinion          order
+ordinance          ordonnance          phrase
+position          position paper          positive declaration
+precedent          predicate          predication
+proclamation          profession          prognosis
+program          programma          promulgation
+pronunciamento          proposition          protest
+protestation          public notice          publication
+question          reflection          remark
+report          rescript          resolution
+rule          ruling          say
+say-so          saying          senatus consult
+senatus consultum          sentence          stance
+stand          statement          subjoinder
+thought          ukase          utterance
+verdict          vouch          white book
+white paper          word          ------------
+
+prudence
+abnegation          abstinence          acumen
+advantage          advantageousness          advisability
+anticipation          appropriateness          astuteness
+austerity          austerity program          awareness
+beneficialness          calculation          calm
+calmness          canniness          cardinal virtues
+care          careful consideration          carefulness
+caution          cautiousness          chariness
+charity          circumspection          circumspectness
+common sense          conservatism          consideration
+constraint          contemplation          continence
+control          convenience          cool
+cool judgment          custodianship          custody
+decency          deliberate stages          deliberateness
+deliberation          desirability          discreetness
+discretion          discrimination          dispassion
+eagle eye          economic planning          economicalness
+economy          economy of means          envisagement
+envisionment          evenness          expedience
+expediency          faith          false economy
+farseeingness          farsightedness          feasibility
+fitness          fittingness          forecast
+foreglance          foregleam          foreglimpse
+forehandedness          foreseeing          foresight
+foresightedness          forethought          fortitude
+frugality          frugalness          fruitfulness
+gentleness          gingerliness          golden mean
+good judgment          good management          guard
+guardedness          guardianship          happy medium
+hedge          hedging          heed
+heedfulness          hesitation          hope
+husbandry          impartiality          insight
+invigilation          judgement          judgment
+judiciousness          juste-milieu          justice
+keenness          lenity          longsightedness
+looking ahead          lookout          love
+management          meden agan          middle way
+mildness          mindfulness          moderateness
+moderation          moderationism          monitoring
+natural virtues          neutrality          nonviolence
+nothing in excess          observance          opportuneness
+pacifism          parsimoniousness          parsimony
+pawkiness          peeled eye          penetration
+percentage          percipience          perspicacity
+planning          policy          politicness
+polity          precaution          prediction
+preparation          preparedness          prepublication
+presence of mind          preview          prevision
+prior consultation          proctoring          profit
+profitability          propriety          prospect
+prospection          providence          provision
+prudential administration          prudentialism          prudentialness
+qui vive          readiness          reflection
+reflectiveness          regardfulness          repose
+restraint          rightness          safeness
+safety first          sagaciousness          sagacity
+sageness          sapience          seasonableness
+seemliness          self-abnegation          self-control
+self-denial          self-restraint          serenity
+sharp eye          shrewdness          slowness to act
+sobriety          solicitude          sound judgment
+soundness of judgment          sparingness          stability
+steadiness          stewardship          suitability
+supernatural virtues          surveillance          tact
+temperance          temperateness          tentativeness
+theological virtues          thoroughness          thoughtfulness
+thrift          thriftiness          tight purse strings
+timeliness          tranquillity          uncommunicativeness
+unexcessiveness          unextravagance          unextremeness
+unprecipitateness          unwastefulness          usefulness
+via media          vigil          vigilance
+wariness          watch          watch and ward
+watchful eye          watchfulness          watching
+weather eye          weighing          wisdom
+wit          worthwhileness          ------------
+
+reason
+Vernunft          acceptable          accomplishment
+account          admissibility          advise with
+aim          air          allegorization
+ambition          analyze          answer
+antecedent          apologia          apology
+apply reason          argument          argumentum
+ascertainment          aspiration          balance
+bargain          basis          because of
+brain          brains          by reason of
+by virtue of          calculate          call
+call in          calling          canvass
+case          cause          cerebrate
+clarification          clearing up          cogitate
+collect          collogue          comment upon
+common sense          compare notes          conceive
+conception          conceptualize          conclude
+confer          confer with          cons
+consider          consideration          consult
+consult with          contact with reality          controvert
+convince          cool head          coolheadedness
+coolness          counsel          cracking
+deal with          debate          decipherment
+decoding          deduce          deduction
+deductive reasoning          defence          deliberate
+deliberate upon          demonstration          demythologization
+denouement          derive          determinant
+determination          discourse          discourse about
+discourse of reason          discursive reason          discuss
+discuss with          disentanglement          dissuade
+draw a conclusion          draw an inference          due sense of
+due to          editing          elenchus
+elucidation          emendation          end
+end result          enlightenment          entertain ideas
+esprit          estimate          euhemerism
+examine          exchange observations          exchange views
+excuse          exegesis          exemplification
+exercise the mind          explanation          explication
+exposition          expounding          extract
+fetch          figure out          find
+finding          finding-out          fitting
+form ideas          foundation          gather
+generalize          glean          go into
+goal          good reason          good sense
+gray matter          ground          grounds
+guiding light          guiding star          handle
+have conversations          head          headpiece
+healthy mind          hold conference          horse sense
+hypothesize          ideal          ideate
+ignoratio elenchi          illumination          illustration
+induce          induction          inductive reasoning
+infer          inference          insight
+inspiration          intellect          intellection
+intellectual faculty          intellectualize          intelligence
+intention          interpretation          investigate
+issue          judgement          justifiability
+justifiable          justification          justness
+knock around          level head          levelheadedness
+light          lodestar          logic
+logical thought          logicality          logicalize
+logicalness          logicize          lucid interval
+lucidity          mainspring          marbles
+material basis          matter          mens
+mental balance          mental capacity          mental equilibrium
+mental health          mental hygiene          mental poise
+mentality          mind          motive
+negotiate          normalcy          normality
+normalness          nous          object
+objective          occasion          on account of
+outcome          owing to          palaver
+parley          pass under review          percipience
+perspicacity          persuade          philosophize
+philosophy          plaidoyer          plain sense
+plausibility          plea          plead with
+pleading          point          power of reason
+powwow          practical mind          practical wisdom
+practicality          pretense          pretext
+prevail upon          principle          proof
+proper          pros          pros and cons
+provide a rationale          psyche          purpose
+put heads together          rap          ratio
+ratiocination          rational          rational ground
+rationale          rationalism          rationality
+rationalization          rationalize          rationalizing
+reason about          reason for          reason that
+reason the point          reason why          reason with
+reasonability          reasonable          reasonableness
+reasoning          reasoning faculty          reckon
+refer to          reflect          refutation
+resolution          resolving          result
+review          riddling          right
+right mind          sake          sanemindedness
+saneness          sanity          score
+sense          senses          sensible
+sensibleness          sift          simplification
+sit down together          sit down with          smarts
+sober senses          sober-mindedness          soberness
+sobriety          solution          solving
+sophistry          sorting out          sound mind
+sound sense          soundness          soundness of mind
+source          special pleading          specious reasoning
+speculate          spring          stated cause
+study          substance          sweet reason
+syllogize          take as proved          take counsel
+take up          take up with          talk
+talk about          talk of          talk over
+talking point          the big idea          the idea
+the whatfor          the wherefore          the why
+theorize          think          thresh out
+treat          ulterior motive          underlying reason
+understanding          unlocking          unraveling
+unriddling          unscrambling          unspinning
+untangling          untwisting          unweaving
+upshot          urge          use reason
+ventilate          vindication          vocation
+warrant          wherefore          wholesomeness
+why          whyfor          wit
+work out          working          working-out
+------------
+
+resolution          Z          abandon
+ablation          about-face          accommodation
+accomplishment          accuracy          act
+action          acutance          adaptation
+adjustment          aim          alchemy
+ambition          anacrusis          analysis
+analyzation          anatomizing          anatomy
+animus          answer          answering
+apodosis          appetence          appetency
+appetite          application          ardency
+ardor          arrangement          ascertainment
+aspiration          assay          assaying
+assiduity          assiduousness          assimilation
+assumption          atomization          award
+bass passage          becoming          biodegradability
+biodegradation          blocking          boldness
+bourdon          breakdown          breaking down
+breaking up          breakup          bridge
+bulldog courage          bulldog tenacity          burden
+cadence          catastrophe          ceasing
+cessation          change          change-over
+changelessness          choice          chorus
+clearing up          coda          command
+commitment          committedness          composition of differences
+compromise          conation          conatus
+concentration          conclusion          concurrent resolution
+condemnation          consideration          constancy
+constitution          consummation          conversion
+corrosion          corruption          counsel
+crack of doom          cracking          crumbling
+culmination          curtain          curtains
+dauntlessness          death          decay
+decease          decidedness          decipherment
+decision          decoding          decomposition
+decree          dedication          degradability
+degradation          deliberateness          deliberation
+deliverance          denouement          desideration
+desideratum          design          desire
+destination          destiny          detailing
+determination          development          devotedness
+devotion          devoutness          diaeresis
+diagnosis          dictum          dilapidation
+diligence          discretion          discrimination
+disentanglement          disintegration          disjunction
+disorganization          disposition          dissection
+dissolution          division          docimasy
+dogged perseverance          doggedness          doom
+earnestness          effect          effort
+enaction          enactment          end
+end point          end result          endeavor
+ending          endurance          engrossment
+enumeration          envoi          epilogue
+erosion          eschatology          exactitude
+exactness          exertion          expiration
+explanation          explication          exposition
+faith          faithfulness          fancy
+fate          fervency          fervidness
+fervor          fidelity          figure
+final solution          final twitch          final words
+finale          finality          finding
+finding-out          fineness          finis
+finish          fire          firmness
+fixed purpose          fixedness          flip-flop
+folderol          fortitude          free choice
+free will          function          gameness
+gaminess          goal          gravimetric analysis
+grittiness          growth          hardihood
+hardiness          harmonic close          harmonization
+heartiness          heat          heatedness
+idea          immutability          impassionedness
+improper suggestion          inclination          incoherence
+indecent proposal          indefatigability          industriousness
+industry          inflexibility          insistence
+insistency          instance          instrumentation
+intendment          intensity          intent
+intention          intentness          interlude
+intermezzo          interpretation          intonation
+introductory phrase          irreversibility          issue
+itemization          izzard          joint resolution
+judgement          lapse          last
+last breath          last gasp          last things
+last trumpet          last words          latter end
+lawmaking          legislation          legislature
+liking          loyalty          lust
+meaning          measure          mettlesomeness
+mildew          mind          modulation
+mold          motion          motive
+movement          musical phrase          musical sentence
+naturalization          nerviness          nisus
+notion          oath          objective
+obligation          obstinacy          omega
+orchestration          order          ornament
+outcome          oxidation          oxidization
+parsing          part          pass
+passage          passing          passion
+passionateness          patience          patience of Job
+payoff          period          permanence
+peroration          perseverance          persistence
+persistency          pertinaciousness          pertinacity
+phrase          phrasing          plan
+pleasure          pledge          plodding
+pluckiness          plugging          point
+precedent          precision          preoccupation
+preparation          prognosis          progress
+project          promise          pronouncement
+proposal          proposition          prospectus
+proximate analysis          purpose          purposefulness
+quantitative analysis          quietus          ravages of time
+re-formation          reason          reconversion
+reduction          reduction to elements          refrain
+relentlessness          request          resoluteness
+resolve          resolving          response
+resting place          result          reversal
+riddling          ritornello          ruling
+rust          sake          scansion
+schematization          section          sedulity
+sedulousness          segmentation          semimicroanalysis
+sentence          separation          seriousness
+setting          settlement          sexual desire
+sharpness          shift          sincerity
+single-mindedness          singleness of purpose          slogging
+solution          solving          sorting out
+spirit          spoilage          spunkiness
+stability          stamina          stanza
+statement          staunchness          staying power
+steadfastness          steadiness          stick-to-itiveness
+stoppage          stopping place          strain
+striving          struggle          stubbornness
+study          subdivision          suggestion
+suspension          swan song          switch
+switch-over          tailpiece          tenaciousness
+tenacity          term          terminal
+termination          terminus          terms
+tirelessness          tone painting          transcription
+transformation          transit          transition
+turning into          tutti          tutti passage
+unalterability          unchangeability          undertaking
+unraveling          unremittingness          unriddling
+unscrambling          unspinning          unswerving attention
+untangling          untwisting          unweaving
+upshot          variation          vehemence
+velleity          verdict          verse
+view          volition          volte-face
+vow          warmth          wear
+wear and tear          will          will power
+windup          wish          word of honor
+working          working-out          zeal
+------------
+
+review          Grand Guignol          Passion play
+Tom show          abbreviation          abbreviature
+abrege          abridgment          abstract
+afterthought          air          airing
+analysis          analyze          annotate
+annual          antimasque          application
+approval          array          assess
+assessment          audience success          autopsy
+ballet          battologize          bimonthly
+biweekly          bomb          bone
+boning          book review          brainwork
+brief          bring back          bring to mind
+broadcast drama          brush up          burlesque show
+buzz session          call back          call to mind
+call up          canvass          canvassing
+capsule          caravan          cavalcade
+censure          charade          check
+check out          check over          check up on
+cliff hanger          closet drama          colloquium
+column          comedy drama          comment
+comment upon          commentary          commentation
+commitment to memory          compend          con
+condensation          condensed version          conference
+conjure up          conning          consider
+consideration          conspectus          contemplate
+contemplation          controvert          copy
+cortege          cram          critical bibliography
+critical journal          critical notice          critical review
+critical success          criticism          criticize
+critique          daily          daybook
+daytime serial          deal with          debate
+debating          deliberate          deliberate upon
+deliberation          descant          developed thought
+dialectic          dialogue          diary
+dig          digest          discourse
+discourse about          discuss          discussion
+dissert          dissertate          documentary drama
+draft          drama          dramalogue
+dramatic play          dramatic series          dress parade
+drill          duodrama          duologue
+dwelling upon          editorial          elaboration
+elucubrate          engrossment          ephemeris
+epic theater          epitome          evaluate
+evaluation          evoke          examination
+examine          exchange of views          exchange views
+exercise          exercise of memory          experimental theater
+extensive study          extravaganza          failure
+fill          flashback          flop
+flyover          fortnightly          forum
+funeral          gasser          gazette
+get up on          give an encore          give an examination
+giveaway          gloss          go back
+go back over          go into          go over
+go through          going over          grind
+grinding          handle          happening
+hark back          have second thoughts          head
+headwork          hindsight          hit
+hit show          improvisational drama          inquire into
+inspect          inspection          investigate
+investigation          iterate          iteration
+joint discussion          journal          judge
+judgement          knock around          leader
+leading article          learning by heart          legitimate drama
+line          literary criticism          logical analysis
+logical discussion          look at          look back
+look over          looking back          lucubrate
+lucubration          magazine          march past
+masque          mature thought          melodrama
+memoir          memorization          memorizing
+mental labor          mind          minstrel show
+miracle          miracle play          monitor
+monodrama          monologue          monthly
+morality          morality play          moralize upon
+motorcade          mule train          music drama
+musical revue          mystery          mystery play
+narration          narrative          newsmagazine
+notice          observe          open discussion
+open forum          opera          organ
+outline          overhaul          overhauling
+overlook          overview          pack train
+pad          pageant          pandect
+panel discussion          panel show          pantomime
+parade          pass over          pass under review
+pastoral          pastoral drama          peer at
+periodical          perlustration          perusal
+peruse          pictorial          piece
+play          playlet          plunge into
+polish up          pomp          pore over
+postmortem          practice          practicing
+precis          problem play          procession
+promenade          psychodrama          quality control
+quarterly          quiz show          radio drama
+rap          rap session          re-examination
+re-examine          read          reading
+reaffirm          reaffirmation          reappraisal
+reappraise          reason          reason about
+reason the point          reassert          reassess
+reassessment          rebehold          recall
+recall to mind          recalling          recap
+recapitulate          recapitulation          recapture
+recheck          recital          recite
+recollect          recollecting          recollection
+reconsider          reconsideration          recount
+recountal          recounting          reevaluate
+reevoke          reexamine          reflect
+reflection          refresh the memory          regard
+regard studiously          rehash          rehearsal
+rehearse          reinquire          reinquiry
+reissue          reiterate          reiteration
+relation          remark          remark upon
+remember          remembering          remembrance
+reminiscence          report          reprint
+restate          restatement          restudy
+restudying          resume          retail
+retell          retelling          rethink
+rethinking          retrace          retrospect
+retrospection          revaluate          revaluation
+review in retrospect          reviewing          revise
+revision          revive          revue
+reword          ripe idea          rote
+rote memory          rub up          rubric
+run over          run-through          running commentary
+say over          say over again          scan
+scrutinize          scrutiny          second thought
+second thoughts          see in retrospect          seminar
+sensational play          serial          set an examination
+shortened version          show          sift
+sitcom          situation comedy          size
+size up          skeleton          sketch
+skimmington          skit          slick magazine
+soap          soap opera          sociodrama
+spectacle          stage play          stage show
+straight drama          stream          string
+study          studying          subject
+success          sum up          summarize
+summary          summing up          summon up
+survey          suspense drama          swot
+swotting          syllabus          symposium
+synopsis          tableau          tableau vivant
+take stock of          take the measure          take up
+tale-telling          talk          talk about
+talk of          talk over          talk show
+tautologize          teleplay          television drama
+television play          telling          theater of cruelty
+think back          think better of          think of
+think over          thresh out          thumbnail sketch
+topical outline          total theater          touch upon
+town meeting          trade magazine          train
+treat          treat of          treatment
+use hindsight          variety show          vaudeville
+vaudeville show          vehicle          ventilate
+ventilation          vet          visitation
+wade through          weekly          weigh
+wide reading          word-of-mouth success          work
+write up          write-up          yarn spinning
+yearbook          ------------
+
+sense          IQ
+absorb          acceptation          admissibility
+affect          affection          affective meaning
+air          anticipate          appreciate
+appreciation          appreciation of differences          appreciativeness
+apprehend          apprehension          artistic judgment
+assimilate          atmosphere          aura
+awareness          balance          be aware of
+be conscious of          be sensible of          be with one
+bearing          believe          brains
+burden          caliber          capacity
+catch          catch on          center
+climate          cognizance          coherence
+coloring          common sense          comprehend
+comprehension          conceive          conception
+connoisseurship          connotation          consciousness
+consequence          consider          cool head
+coolheadedness          coolness          core
+credit          critical niceness          criticalness
+deductive power          deem          delicacy
+denotation          descry          detect
+dig          digest          discern
+discernment          discretion          discriminating taste
+discriminatingness          discrimination          discriminativeness
+distinguish          divine          drift
+due sense of          effect          emotion
+emotional charge          emotional shade          esemplastic power
+espy          essence          experience
+extension          faculty          fastidiousness
+fathom          feel          feel deeply
+feel intuitively          feeling          feeling tone
+fine palate          finesse          focus
+follow          force          foreboding
+foresight          get          get hold of
+get the drift          get the idea          get the picture
+gist          good sense          grammatical meaning
+grasp          gumption          gut reaction
+have          have a feeling          have a hunch
+have a sensation          have it taped          have the impression
+hear          heartthrob          hold
+horse sense          idea          ideation
+identify          impact          implication
+import          impression          integrative power
+intellect          intellectual grasp          intellectual power
+intellectualism          intellectuality          intelligence
+intelligence quotient          intelligibility          intendment
+intension          intuit          intuition
+judgement          judgment          judiciousness
+just know          justifiability          justness
+ken          know          knowledge
+learn          level head          levelheadedness
+lexical meaning          literal meaning          logic
+logicality          logicalness          lucidity
+make out          making distinctions          marbles
+master          matter          meaning
+meat          mental age          mental capacity
+mental grasp          mental ratio          mentality
+message          milieu          mind
+mother wit          native wit          niceness of distinction
+nicety          note          notice
+nous          nuance          nucleus
+overtone          palate          passion
+penetration          perceive          percept
+perception          pertinence          pick up
+pith          plain sense          plausibility
+point          power of mind          practical consequence
+practical mind          practical wisdom          practicality
+presentiment          profound sense          prudence
+purport          quality          quick-wittedness
+quickness          range of meaning          rationality
+reaction          read          real meaning
+realize          reason          reasonability
+reasonableness          reasoning power          receive an impression
+recognition          recognize          reference
+referent          refined discrimination          refined palate
+refinement          relation          relevance
+respond          respond to stimuli          response
+response to stimuli          sagacity          saneness
+sanity          savvy          scope
+scope of mind          see          seize
+seize the meaning          selectiveness          semantic cluster
+semantic field          sensation          sense impression
+sense perception          sensibility          sensibleness
+sensitivity          sensory experience          sentiment
+short          significance          significancy
+signification          significatum          signifie
+smarts          smell          sober-mindedness
+soberness          sobriety          sound sense
+soundness          span of meaning          spirit
+spot          spy          structural meaning
+substance          subtlety          sum
+sum and substance          suspect          sweet reason
+symbolic meaning          tact          tactfulness
+take          take in          taste
+tenor          think          thinking power
+thrust          tone          totality of associations
+touch          transferred meaning          unadorned meaning
+undercurrent          understand          understanding
+undertone          upshot          value
+wisdom          wit          ------------
+
+sentence
+Parthian shot          acquittal          act on
+action          adage          address
+adjectival phrase          adjudge          adjudicate
+affirmation          allegation          ana
+analects          anathematize          anathematizing
+answer          aphorism          apostrophe
+apothegm          article          assertion
+attaint          averment          award
+axiom          back matter          blacklist
+blame          book          bring home to
+byword          catchword          censure
+chapter          clause          collected sayings
+comment          condemn          condemnation
+consideration          construction          convict
+conviction          crack          current saying
+damn          damnation          death sentence
+death warrant          decision          declaration
+decree          deliverance          denounce
+denouncement          denunciate          denunciation
+determination          devote          diagnosis
+dictate          dictum          distich
+doom          epigram          exclamation
+excommunicate          excommunication          expression
+fascicle          find          find against
+find for          find guilty          finding
+folio          front matter          gathering
+gnome          golden saying          greeting
+guilty verdict          headed group          idiom
+idiotism          interjection          judge
+judgement          judgment          landmark decision
+locution          manner of speaking          maxim
+mention          moral          mot
+motto          note          noun phrase
+number          observation          oracle
+ordain          order          page
+paragraph          pass judgment          pass sentence
+pass sentence on          passage          peculiar expression
+penalize          penalty          period
+phrasal idiom          phrase          pithy saying
+position          precedent          precept
+prescript          prognosis          pronounce
+pronounce judgment          pronounce on          pronounce sentence
+pronouncement          proscribe          proscription
+proverb          proverbial saying          proverbs
+punish          punishment          question
+rap          reflection          remark
+report          resolution          return a verdict
+rule          ruling          saw
+say          saying          section
+sententious expression          set phrase          sheet
+signature          sloka          standard phrase
+statement          stock saying          subjoinder
+sutra          syntactic structure          teaching
+term          text          thought
+turn of expression          turn of phrase          usage
+utter a judgment          utterance          verb complex
+verb phrase          verbalism          verdict
+verdict of guilty          verse          way of speaking
+wisdom          wisdom literature          wise saying
+witticism          word          word-group
+words of wisdom          ------------
+
+sentiment          Amor
+Christian love          Eros          Platonic love
+admiration          adoration          affect
+affection          affections          affective faculty
+affectivity          agape          apprehension
+ardency          ardor          assumption
+attachment          attitude          bathos
+belief          bias          bleeding heart
+bodily love          brotherly love          caritas
+charity          climate of opinion          cloyingness
+common belief          community sentiment          conceit
+concept          conception          conclusion
+conjugal love          consensus gentium          consideration
+conviction          desire          devotion
+disposition          emotion          emotional charge
+emotional life          emotional shade          emotionalism
+emotions          emotivity          estimate
+estimation          ethos          experience
+eye          faithful love          fancy
+feeling          feeling tone          feelings
+fervor          finer feelings          flame
+fondness          foreboding          free love
+free-lovism          general belief          goo
+gut reaction          heart          hearts-and-flowers
+heartthrob          hero worship          idea
+idolatry          idolism          idolization
+image          imago          impression
+inclination          inclining          intellectual object
+judgement          judgment          lasciviousness
+leaning          libido          lights
+like          liking          love
+lovemaking          married love          maudlinness
+mawkishness          memory-trace          mental attitude
+mental image          mental impression          mind
+mush          mushiness          mystique
+namby-pamby          namby-pambyism          namby-pambyness
+nostalgia          nostomania          notion
+observation          opinion          outlook
+oversentimentalism          oversentimentality          partiality
+passion          passions          penchant
+perception          personal judgment          persuasion
+physical love          point of view          popular belief
+popular regard          popularity          position
+posture          predilection          predisposition
+presentiment          presumption          prevailing belief
+profound sense          propensity          psychology
+public belief          public opinion          reaction
+recept          reflection          regard
+representation          response          romanticism
+sensation          sense          sensibilities
+sensibility          sentimentalism          sentimentality
+sentiments          sex          sexual love
+shine          sight          slop
+sloppiness          slush          soap opera
+sob story          spiritual love          stance
+supposition          susceptibilities          susceptibility
+sweetness and light          sympathies          tearjerker
+tendency          tender feeling          tender passion
+tender susceptibilities          tenderness          theory
+thinking          thought          truelove
+undercurrent          uxoriousness          view
+way of thinking          weakness          worship
+yearning          ------------
+
+tact          ability
+accommodatingness          acumen          acuteness
+address          adeptness          adroitness
+agreeableness          airmanship          allergy
+amenity          anaphylaxis          appreciation
+appreciation of differences          appreciativeness          artfulness
+artisanship          artistic judgment          artistry
+attentiveness          bravura          brilliance
+capability          capacity          care
+carefulness          civility          cleverness
+comity          command          competence
+complaisance          concern          connoisseurship
+considerateness          consideration          control
+coordination          courteousness          courtesy
+craft          craftsmanship          critical niceness
+criticalness          cunning          deference
+deftness          delicacy          dexterity
+dexterousness          dextrousness          diplomacy
+discernment          discretion          discriminating taste
+discriminatingness          discrimination          discriminativeness
+efficiency          empathy          expertise
+exquisiteness          facility          fastidiousness
+feel          feeling          fine palate
+fineness          finesse          gallantry
+grace          gracefulness          graciousness
+grip          handiness          head
+heedfulness          helpfulness          horsemanship
+hyperesthesia          hyperpathia          hypersensitivity
+identification          indulgence          ingeniousness
+ingenuity          irritability          judgement
+judiciousness          know-how          leniency
+making distinctions          marksmanship          mastership
+mastery          mindfulness          nervousness
+niceness of distinction          nicety          obligingness
+oversensibility          oversensitiveness          overtenderness
+palate          passibility          perception
+perceptiveness          perceptivity          photophobia
+poise          policy          politeness
+politesse          politicness          practical ability
+presence          prickliness          proficiency
+prowess          prudence          quickness
+readiness          refined discrimination          refined palate
+refinement          regard          regardfulness
+repose          resource          resourcefulness
+respect          respectfulness          responsiveness
+savoir faire          savoir-faire          savvy
+seamanship          selectiveness          sense
+sensibility          sensitiveness          sensitivity
+sensitization          skill          skillfulness
+smoothness          solicitousness          solicitude
+soreness          style          suavity
+subtlety          supersensitivity          sympathy
+tactfulness          taste          technical brilliance
+technical mastery          technical skill          technique
+tenderness          tetchiness          thin skin
+thought          thoughtfulness          ticklishness
+timing          toleration          touchiness
+understanding          urbanity          virtuosity
+wit          wizardry          workmanship
+------------
+
+taste          Atticism          affection
+affinity          appetence          appetite
+appreciate          appreciation          appreciation of differences
+appreciativeness          apprehend          appropriateness
+aroma          artistic judgment          assay
+attribute          badge          bag
+be aware of          be conscious of          be exposed to
+be fond of          be partial to          be sensible of
+be subjected to          bent          bias
+bit          bite          brand
+break bread          bring to test          cachet
+canine appetite          cast          censoriousness
+character          characteristic          chasteness
+chastity          choosiness          chosen kind
+chromesthesia          clarity          classicalism
+classicism          clearness          color hearing
+come up against          comeliness          comprehension
+configuration          confirm          connoisseurship
+conscientiousness          correctness          count calories
+critical niceness          criticalness          crush
+cultivation          cup of tea          cut
+cut and try          dash          decorum
+delicacy          delight in          design
+desire          diet          differentia
+differential          dignity          directness
+discernment          discretion          discriminating taste
+discriminatingness          discrimination          discriminativeness
+disposition          distinction          distinctive feature
+drop          drought          druthers
+dryness          earmark          ease
+eat          elegance          elegancy
+emptiness          empty stomach          encounter
+endure          enjoy          essay
+examine          example          experience
+experiment          fall to          fancy
+fare          fashion          fastidiousness
+favor          feature          feed
+feel          feeling          felicitousness
+felicity          figure          fine palate
+finesse          finish          fittingness
+five senses          flavor          flow
+flowing periods          fluency          fondness
+form          give a try          give a tryout
+gleam          go through          good taste
+grace          gracefulness          gracility
+grain          gust          gusto
+hallmark          have          have a go
+have knowledge of          hear          hearing
+heart          hint          hollow hunger
+hunger          hungriness          idea
+idiocrasy          idiosyncrasy          impress
+impression          inclination          index
+individualism          infatuation          intimation
+judgement          judiciousness          keynote
+know          labor under          leaning
+lick          like          likes
+liking          limpidity          lineaments
+little bite          little smack          look
+love          lucidity          making distinctions
+manner          mannerism          mark
+marking          meet          meet up with
+meet with          meticulousness          mode
+mold          morsel          motif
+mouthful          naturalness          nature
+neatness          niceness of distinction          nicety
+nip          odor          palate
+partake          partake of          partiality
+particular choice          particularity          particularness
+pass through          passion          pay
+peculiarity          pellucidity          penchant
+perceive          perception          perfectionism
+personal choice          perspicuity          phonism
+photism          piece          pinch
+pitch in          plainness          play around with
+polish          politeness          politesse
+polydipsia          practice upon          preciseness
+precisianism          precision          predilection
+predisposition          preference          prejudice
+prepossession          priggishness          proclivity
+property          propriety          prove
+prudishness          punctilio          punctiliousness
+purism          puritanism          purity
+put to trial          quality          quirk
+receptor          refined discrimination          refined palate
+refinement          relish          research
+respond          respond to stimuli          restraint
+road-test          run a sample          run up against
+sample          sampling          sapidity
+sapor          savor          scintilla
+scrupulosity          scrupulousness          seal
+see          seemliness          selectiveness
+selectivity          sense          sense organ
+senses          sensibility          sensillum
+sensitivity          sensorium          sensory organ
+shade          shadow          shake down
+shape          sight          simplicity
+singularity          sip          sixth sense
+smack          smack the lips          smattering
+smell          smoothness          soft
+soupcon          spark          specialty
+specimen          spend          sprinkling
+stamp          stand under          stomach
+straightforwardness          strictness          style
+stylishness          substantiate          subtlety
+suffer          suggestion          sup
+suspicion          sustain          swallow
+swatch          sweet tooth          synesthesia
+tact          tactfulness          taint
+take          tang          tapeworm
+taste of          tastefulness          taster
+tendency          terseness          test
+thing          thirst          thirstiness
+thought          tincture          tinge
+token          tolerance          torment of Tantalus
+touch          trace          trait
+trick          trifle          try
+try it on          try out          type
+unaffectedness          undergo          understanding
+validate          verify          weakness
+whiff          wink          zest
+------------
+
+thinking          abstract thought          act of thought
+assessment          assumption          attitude
+belief          brainwork          cerebral
+cerebration          climate of opinion          cogitation
+cogitative          cognitive          common belief
+community sentiment          conceit          concentrating
+concentrative          concept          conception
+conceptive          conceptual          conceptualization
+conceptualized          conclusion          consensus gentium
+consideration          contemplating          contemplative
+creative thought          deliberating          deliberative
+endopsychic          estimate          estimation
+ethos          evaluation          excogitating
+excogitation          eye          feeling
+general belief          headwork          heavy thinking
+idea          ideation          ideative
+imageless thought          impression          intellection
+intellectual          intellectual exercise          intellectualization
+intelligent          internal          introspective
+judgement          judgment          lights
+meditating          meditative          mental
+mental act          mental labor          mental process
+mentation          mind          museful
+musing          mystique          noesis
+noetic          noological          notion
+observation          opinion          outlook
+pensive          personal judgment          philosophical
+philosophy          phrenic          point of view
+pondering          popular belief          position
+posture          prehensive          presumption
+prevailing belief          psychic          psychologic
+public belief          public opinion          ratiocination
+ratiocinative          rational          reaction
+reasonable          reasoning          reflecting
+reflective          ruminant          ruminating
+ruminative          sensible          sentiment
+serious          sight          sober
+speculative          spiritual          stance
+straight thinking          subjective          theory
+thinking aloud          thinking out          thought
+thoughtful          view          viewpoint
+way of thinking          wistful          ------------
+
+understanding
+IQ          Spartan          Vernunft
+abatement of differences          acceptation          accepting
+acclamation          accommodation          accord
+accordance          accordant          acute
+adjustment          affinity          agape
+agreeable          agreeing          agreement
+agreement of all          akin          all-knowing
+alliance          amicable          amity
+apperception          apperceptive          appercipient
+apprehending          apprehension          apprehensive
+argute          armed with patience          armistice
+arrangement          astute          at one
+attuned          aware          awareness
+bargain          binding agreement          bleeding
+bond          bonds of harmony          brain
+brains          bright          brotherly love
+caliber          capacity          caritas
+cartel          cement of friendship          charitable
+charity          chorus          clairvoyance
+clement          cogent          cognizant
+collective agreement          command          commiserative
+commitment          common assent          common consent
+communion          community          community of interests
+compact          compassionate          compatibility
+compatible          composition          comprehending
+comprehension          compromise          conception
+conceptive          conceptual          conceptualization
+concert          concession          concord
+concordance          concordant          concordat
+concurrence          condolent          congenial
+congeniality          conscious          consensus
+consensus gentium          consensus of opinion          consensus omnium
+consent          consentaneity          consortium
+contract          convention          cop-out
+cordial understanding          correspondence          corresponding
+covenant          covenant of salt          deal
+deductive power          desertion of principle          dicker
+discerning          discernment          disciplined
+discourse of reason          discrimination          discursive
+discursive reason          empathetic          empathic
+empathy          employment contract          en rapport
+endurant          engagement          enlightenment
+entente          entente cordiale          esemplastic power
+esprit          esprit de corps          estimation
+evasion of responsibility          farseeing          farsighted
+feeling of identity          fellow feeling          fellowship
+fix on          forbearant          forbearing
+foreknowledge          foreseeing          foresighted
+forethoughted          forethoughtful          formal agreement
+frictionless          frictionlessness          general acclamation
+general agreement          general consent          general voice
+gentle          give-and-take          giving way
+good sense          good vibes          good vibrations
+grasp          gray matter          grip
+happy family          harmonious          harmony
+head          headpiece          human
+humane          ideation          ideational
+identity          import          in accord
+in concert          in rapport          in tune
+incisive          indulgent          inharmony
+insight          insightful          integrative power
+intellect          intellection          intellectual
+intellectual faculty          intellectual grasp          intellectual power
+intellectualism          intellectuality          intelligence
+intelligence quotient          intelligent          intendment
+interpretation          intuition          ironclad agreement
+judgement          kinship          knowing
+knowledge          knowledgeable          legal agreement
+legal contract          lenient          like-minded
+like-mindedness          long-suffering          longheaded
+longsighted          love          mastery
+meaning          meeting of minds          melting
+mens          mental age          mental capacity
+mental grasp          mental ratio          mentality
+merciful          message          mind
+mindful          mother wit          mutual agreement
+mutual concession          mutual understanding          mutuality
+native wit          noetic          not so dumb
+notion          nous          obligation
+of one mind          omniscient          one accord
+one voice          oneness          opinion
+pact          paction          patient
+patient as Job          peace          peaceful
+penetrating          penetration          perception
+perceptive          percipience          percipient
+persevering          perspicacious          perspicuous
+philosophical          piercing          pitying
+power of mind          power of reason          precognition
+preengagement          prehensile          prehension
+promise          protocol          provident
+psyche          purport          rapport
+rapprochement          ratio          rational
+rationality          reading          reason
+reasonable          reasoning          reasoning faculty
+reasoning power          reciprocity          recognizance
+reconciliation          ruthful          sagacious
+sagacity          sageness          same mind
+sane          sanity          sapience
+savvy          scope of mind          self-controlled
+sense          sensible          sensitiveness
+sensitivity          settlement          sharing
+shrewd          significance          significancy
+signification          single voice          smarts
+soft          softhearted          solidarity
+sophic          stipulation          stoic
+strong-minded          surrender          sympathetic
+sympathizing          sympathy          symphony
+team spirit          tender          tenderhearted
+thinking power          together          tolerant
+tolerating          tolerative          total agreement
+transaction          treaty          trenchant
+truce          unanimity          unanimousness
+undertaking          union          union contract
+unison          united          unity
+universal agreement          valid contract          verbal agreement
+view          wage contract          warmhearted
+wisdom          wise          wit
+yielding          ------------
+
+view          Anschauung
+account          aim          airscape
+ambition          analysis          analyzing
+angle          angle of vision          animadvert
+animus          appraisal          appraisement
+appraising          appreciation          apprehension
+approach          aspect          aspiration
+assess          assessing          assessment
+assumption          attend          attitude
+audit          basis          be disposed to
+be vigilant          be watchful          because of
+behold          belief          believe
+canvass          catch sight of          check over
+check up          cityscape          clap eyes on
+climate of opinion          cloudscape          command
+common belief          community sentiment          conceit
+concept          conception          conclusion
+configuration          consensus gentium          consider
+consideration          considering          contemplate
+contemplation          conviction          counsel
+deduction          deem          dekko
+descry          desideration          desideratum
+design          desire          determination
+diorama          direction          discern
+discover          distinguish          domination
+dream          effect          eidolon
+envisage          envision          espy
+estimate          estimation          ethos
+evaluating          evaluation          evaluative criticism
+examination          examine          expectation
+exterior          eye          eyeball
+eyeful          eyereach          eyeshot
+eyesight          facet          farmscape
+fashion          feature          feel about it
+feeling          field of view          field of vision
+figure          fixed purpose          follow
+footing          form          frame of reference
+framework          function          gauge
+gauging          gaze at          general belief
+gestalt          glimpse          goal
+guise          have a looksee          have in sight
+heed          hold          hold in view
+hope          horizon          idea
+image          imagine          imago
+impression          in consideration of          in view of
+incline toward          inference          inspect
+inspection          intendment          intent
+intention          interior          judge
+judgement          judgment          keep in sight
+keep in view          keep under observation          ken
+landscape          lay eyes on          lean toward
+leer          leering look          light
+lights          likeness          limit of vision
+line of sight          lineaments          look
+look after          look at          look at it
+look on          look upon          look-in
+lookout          lustful leer          make out
+manner          mark          meaning
+measurement          mental outlook          mind
+motive          mystique          naked eye
+nisus          note          notice
+notion          object          objective
+observation          observe          ocular
+on account of          opinion          outlook
+outlook over          panorama          pastoral
+perceive          personal judgment          perspective
+persuasion          phase          phasis
+pick out          picture          place
+plan          point          point of view
+popular belief          position          posture
+prefer          presumption          prevailing belief
+preview          project          projection
+proposal          prospect          prospectus
+public belief          public opinion          purpose
+range          ranking          rate
+rating          reaction          reckon
+reckoning          recognize          reconnoiter
+reference          reference system          regard
+remark          representation          resolution
+resolve          respect          review
+riverscape          sake          scan
+scape          scene          scenery
+scenic view          scope          scope of vision
+scout          scrutinize          scrutiny
+seapiece          seascape          see
+seeable          seeming          semblance
+sentiment          shape          side
+sidelong look          sight          sightliness
+simulacrum          situation          skyscape
+slant          sly look          snowscape
+spectacle          spot          spy
+spy upon          stance          stand
+standpoint          striving          study
+style          survey          sweep
+system          tableau          take in
+take note          take notice          tend
+tend toward          theory          think of
+thinking          thought          total effect
+townscape          twig          twist
+understanding          universe          valuation
+valuing          vet          view
+viewable          viewpoint          visible
+vision          vista          visualize
+watch          waterscape          way of thinking
+weighing          will          wise
+witness          
